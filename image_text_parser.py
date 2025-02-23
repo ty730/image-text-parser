@@ -69,7 +69,6 @@ def processOneText(text, rxs, prev_date):
     else:
         activity_name = getActivityName(text)
     text = removeUnrelatedText(text, activity_name)
-    
     is_existing_task = not date
     getActivityDetails(text, activity, activity_name, is_existing_task)
     #print(json.dumps(activity, sort_keys = True, indent = 4))
@@ -88,7 +87,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
     num_tasks = 0
     task_list = text.split('\n')
     for line in task_list:
-        if not line.strip():
+        if not line.strip() or any(ext in task_name for ext in ['©', 'tt a @']):
             is_prev_task_name = False
             continue
         task_name_index = line.find(')')
@@ -100,9 +99,11 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
         if task_name_index == -1:
             if isSentenceCase(line):
                 task_name_index = 0
+                line = ' ' + line
         if task_name_index != -1: # Start of task name
             task_name = line[task_name_index+1:].strip()
-            if not task_name:
+            task_name = cleanUpName(task_name)
+            if not task_name or any(ext in task_name for ext in ['©']):
                 continue
             is_prev_task_name = True
             num_tasks += 1
@@ -199,6 +200,7 @@ def getActivityName(text):
     activity_name_list = activity_name.split(' ')
     activity_name_list = [x for x in activity_name_list if x.isalpha()]
     activity_name = ' '.join(activity_name_list)
+    activity_name = cleanUpName(activity_name)
     return activity_name
 
 def removeUnrelatedText(text, activity_name):
@@ -231,6 +233,16 @@ def removeUnrelatedText(text, activity_name):
         text = text[:index]
     text = text.strip()
     return text
+
+def cleanUpName(name):
+    index = name.find('v')
+    if index == len(name) - 1:
+        name = name[:index].strip()
+    index = name.find('x')
+    if index == len(name) - 1:
+        name = name[:index].strip()
+    return name
+
 
 def createTxtFilesFromImages():
     # Defining paths to tesseract.exe  
