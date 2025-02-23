@@ -26,7 +26,6 @@ rxs = {
 }
 '''
 g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x']
-g_task_titles = ['Farmer\'s Carry', 'Goblet Russian Step-Up']
 
 def main():
     #createTxtFilesFromImages()
@@ -103,10 +102,6 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
             if isSentenceCase(clean_line):
                 task_name_index = 0
                 line = ' ' + line
-        #if task_name_index == -1:
-            #if any(substring in line for substring in g_task_titles):
-                #task_name_index = 0
-                #line = ' ' + line
         if task_name_index != -1: # Start of task name
             task_name = line[task_name_index+1:].strip()
             task_name = cleanUpName(task_name)
@@ -147,6 +142,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
                         continue
                     activity['tasks'][-1]['comments'].append(line.strip())
             else: # Description
+                line = cleanUpName(line).strip()
                 if 'details' not in activity['tasks'][-1]:
                     activity['tasks'][-1]['details'] = [line.strip()]
                 else:
@@ -257,10 +253,10 @@ def removeUnrelatedText(text, activity_name):
 
 def cleanUpName(name):
     index = name.find('v')
-    if index == len(name) - 1:
+    if index > len(name) - 2:
         name = name[:index].strip()
     index = name.find('x')
-    if index == len(name) - 1:
+    if index > len(name) - 2:
         name = name[:index].strip()
     return name
 
