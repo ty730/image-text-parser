@@ -25,7 +25,7 @@ rxs = {
     }
 }
 '''
-g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al']
+g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN']
 g_task_titles = ['Farmer\'s Carry', 'Goblet Russian Step-Up']
 
 def main():
