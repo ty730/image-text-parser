@@ -25,6 +25,8 @@ rxs = {
     }
 }
 '''
+g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al']
+g_task_titles = ['Farmer\'s Carry', 'Goblet Russian Step-Up']
 
 def main():
     #createTxtFilesFromImages()
@@ -87,7 +89,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
     num_tasks = 0
     task_list = text.split('\n')
     for line in task_list:
-        if not line.strip() or any(ext in line for ext in ['©', 'tt a @']) or line.strip() == 'oO' or line.strip() == 'Hy':
+        if not line.strip() or any(ext in line for ext in ['©', 'tt a @']) or line.strip() in g_garbage_lines:
             is_prev_task_name = False
             continue
         task_name_index = line.find(')')
@@ -97,9 +99,14 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
                 task_name_index = 0
                 line = ' ' + line[:rest_index] + ' ' + line[rest_index:]
         if task_name_index == -1:
-            if isSentenceCase(line):
+            clean_line = cleanUpName(line)
+            if isSentenceCase(clean_line):
                 task_name_index = 0
                 line = ' ' + line
+        #if task_name_index == -1:
+            #if any(substring in line for substring in g_task_titles):
+                #task_name_index = 0
+                #line = ' ' + line
         if task_name_index != -1: # Start of task name
             task_name = line[task_name_index+1:].strip()
             task_name = cleanUpName(task_name)
@@ -124,7 +131,15 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
                     continue
             index = task_list.index(line)
             # Comment
-            if index < len(task_list) - 1 and task_list[index + 1].find(')') != -1 and not isDescription(line):
+            count = 1
+            next_real_line = ''
+            while index + count < len(task_list) - 1:
+                next_real_line = task_list[index + count]
+                if not next_real_line.strip():
+                    count += 1
+                else:
+                    break
+            if index < len(task_list) - 1 and next_real_line.find(')') != -1 and not isDescription(line):
                 if 'comments' not in activity['tasks'][-1]:
                     activity['tasks'][-1]['comments'] = [line.strip()]
                 else:
@@ -145,6 +160,7 @@ def isDescription(line):
     return False
 
 def isSentenceCase(line):
+    line = ' '.join(line.split('-'))
     words_list = line.strip().split(' ')
     if len(words_list) < 2:
         return False
@@ -201,6 +217,8 @@ def getActivityName(text):
     activity_name_list = [x for x in activity_name_list if x.isalpha()]
     activity_name = ' '.join(activity_name_list)
     activity_name = cleanUpName(activity_name)
+    if activity_name in g_garbage_lines:
+        activity_name = ''
     return activity_name
 
 def removeUnrelatedText(text, activity_name):
@@ -228,7 +246,7 @@ def removeUnrelatedText(text, activity_name):
             text = text[:new_index]
         else: 
             text = text[:index]
-    index = text.find('Home Notifications Profile')
+    index = text.find('Home Notifications')
     if index != -1:
         text = text[:index]
     text = text.strip()
