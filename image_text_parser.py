@@ -249,6 +249,9 @@ def removeUnrelatedText(text, activity_name):
     index = text.find('Home Notifications')
     if index != -1:
         text = text[:index]
+    index = text.find('Notifications')
+    if index != -1:
+        text = text[:index]
     text = text.strip()
     return text
 

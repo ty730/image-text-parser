@@ -1283,9 +1283,6 @@
                             "if bike screen is broken -- go 3 min intervals",
                             "on each"
                         ]
-                    },
-                    {
-                        "name": "Notifications Profile"
                     }
                 ]
             }
@@ -2828,9 +2825,6 @@
                             "stronger side",
                             "*goal is increased time per set"
                         ]
-                    },
-                    {
-                        "name": "Notifications Profile"
                     }
                 ]
             }
@@ -4210,9 +4204,7 @@
                         "name": "Dumbbell Lateral Raise",
                         "details": [
                             "3x10 at 3010, rest 30s",
-                            "last set to failure",
-                            "Notifications",
-                            "Profile"
+                            "last set to failure"
                         ]
                     }
                 ]
