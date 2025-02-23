@@ -87,7 +87,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
     num_tasks = 0
     task_list = text.split('\n')
     for line in task_list:
-        if not line.strip() or any(ext in line for ext in ['©', 'tt a @']):
+        if not line.strip() or any(ext in line for ext in ['©', 'tt a @']) or line.strip() == 'oO' or line.strip() == 'Hy':
             is_prev_task_name = False
             continue
         task_name_index = line.find(')')
