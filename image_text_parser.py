@@ -25,7 +25,7 @@ rxs = {
     }
 }
 '''
-g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x']
+g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-']
 
 def main():
     #createTxtFilesFromImages()
@@ -92,6 +92,8 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
             is_prev_task_name = False
             continue
         task_name_index = line.find(')')
+        if line.find('lbs)') + 3 == task_name_index:
+            task_name_index = -1
         if task_name_index == -1:
             rest_index = line.find('rest day')
             if rest_index != -1:

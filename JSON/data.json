@@ -2,141 +2,42 @@
     "10/2/2024": {
         "activities": [
             {
-                "name": "Lifestyle",
-                "tasks": [
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
-                            "7+ hours of sleep? Energy level?",
-                            "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
-                            "30 min minimum walk or 7K steps"
-                        ]
-                    }
-                ]
+                "name": "Lifestyle"
             }
         ]
     },
     "10/3/2024": {
         "activities": [
             {
-                "name": "Lifestyle",
-                "tasks": [
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
-                            "7+ hours of sleep? Energy level?",
-                            "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
-                            "30 min minimum walk or 7K steps"
-                        ]
-                    }
-                ]
+                "name": "Lifestyle"
             }
         ]
     },
     "10/4/2024": {
         "activities": [
             {
-                "name": "Lifestyle",
-                "tasks": [
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
-                            "7+ hours of sleep? Energy level?",
-                            "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
-                            "30 min minimum walk or 7K steps"
-                        ]
-                    }
-                ]
+                "name": "Lifestyle"
             }
         ]
     },
     "10/5/2024": {
         "activities": [
             {
-                "name": "Lifestyle",
-                "tasks": [
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
-                            "7+ hours of sleep? Energy level?",
-                            "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
-                            "30 min minimum walk or 7K steps"
-                        ]
-                    }
-                ]
+                "name": "Lifestyle"
             }
         ]
     },
     "10/6/2024": {
         "activities": [
             {
-                "name": "Lifestyle",
-                "tasks": [
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
-                            "7+ hours of sleep? Energy level?",
-                            "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
-                            "30 min minimum walk or 7K steps",
-                            "Weight - Please list in comments",
-                            "below",
-                            "Log below"
-                        ]
-                    }
-                ]
+                "name": "Lifestyle"
             }
         ]
     },
     "10/8/2024": {
         "activities": [
             {
-                "name": "Lifestyle",
-                "tasks": [
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
-                            "7+ hours of sleep? Energy level?",
-                            "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
-                            "30 min minimum walk or 7K steps"
-                        ]
-                    }
-                ]
+                "name": "Lifestyle"
             }
         ]
     },
@@ -145,19 +46,13 @@
             {
                 "tasks": [
                     {
-                        "name": "& Lifestyle ~"
-                    },
-                    {
-                        "name": "Sleep - Hours",
+                        "name": "& Lifestyle ~",
                         "details": [
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 7K steps"
                         ]
                     }
@@ -168,92 +63,28 @@
     "10/10/2024": {
         "activities": [
             {
-                "name": "Lifestyle",
-                "tasks": [
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
-                            "7+ hours of sleep? Energy level?",
-                            "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
-                            "30 min minimum walk or 7K steps"
-                        ]
-                    }
-                ]
+                "name": "Lifestyle"
             }
         ]
     },
     "10/11/2024": {
         "activities": [
             {
-                "name": "Lifestyle",
-                "tasks": [
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
-                            "7+ hours of sleep? Energy level?",
-                            "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
-                            "30 min minimum walk or 7K steps"
-                        ]
-                    }
-                ]
+                "name": "Lifestyle"
             }
         ]
     },
     "10/12/2024": {
         "activities": [
             {
-                "name": "Lifestyle",
-                "tasks": [
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
-                            "7+ hours of sleep? Energy level?",
-                            "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
-                            "30 min minimum walk or 7K steps"
-                        ]
-                    }
-                ]
+                "name": "Lifestyle"
             }
         ]
     },
     "10/13/2024": {
         "activities": [
             {
-                "name": "Lifestyle",
-                "tasks": [
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
-                            "7+ hours of sleep? Energy level?",
-                            "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
-                            "30 min minimum walk or 7K steps"
-                        ]
-                    }
-                ]
+                "name": "Lifestyle"
             }
         ]
     },
@@ -263,11 +94,9 @@
                 "name": "FLUSHSTART",
                 "tasks": [
                     {
-                        "name": "& Lifestyle ~"
-                    },
-                    {
-                        "name": "Hydration - Units of Water",
+                        "name": "& Lifestyle ~",
                         "details": [
+                            "(a) Hydration - Units of Water",
                             "2 Gallon Challenge",
                             "Movement - Steps",
                             "30 min walk outside"
@@ -287,43 +116,14 @@
     "10/20/2024": {
         "activities": [
             {
-                "name": "Lifestyle",
-                "tasks": [
-                    {
-                        "name": "Hydration - Units of Water",
-                        "details": [
-                            "1.5 gallons",
-                            "Movement - Steps",
-                            "minimum 30 min walk"
-                        ]
-                    }
-                ]
+                "name": "Lifestyle"
             }
         ]
     },
     "10/21/2024": {
         "activities": [
             {
-                "name": "Lifestyle",
-                "tasks": [
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
-                            "7+ hours of sleep? Energy level?",
-                            "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
-                            "30 min minimum walk or 7K steps",
-                            "Weight - Please list in comments",
-                            "below",
-                            "Log below"
-                        ]
-                    }
-                ]
+                "name": "Lifestyle"
             }
         ]
     },
@@ -333,7 +133,7 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
@@ -343,20 +143,14 @@
                         ]
                     },
                     {
-                        "name": "& Lifestyle ~"
-                    },
-                    {
-                        "name": "Sleep - Hours",
+                        "name": "& Lifestyle ~",
                         "details": [
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
                             "1200z water with electrolytes",
-                            "0"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "0",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 7K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -373,7 +167,7 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
@@ -382,18 +176,10 @@
                             "YOUR DAILY RX",
                             "@ FLUSH ~< B11",
                             "& Lifestyle ~ 0",
-                            "7+ hours of sleep? Energy level?"
-                        ]
-                    },
-                    {
-                        "name": "Hydration - Units of Water",
-                        "details": [
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "(a) Sleep - Hours",
+                            "7+ hours of sleep? Energy level?",
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 7K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -410,7 +196,7 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
@@ -428,26 +214,18 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
                             "Yoga, meditation, deep breathing, cold",
                             "shower, coloring",
-                            "YOUR DAILY RX"
-                        ]
-                    },
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
+                            "YOUR DAILY RX",
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 7K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -464,27 +242,19 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
                             "Yoga, meditation, deep breathing, cold",
                             "shower, coloring",
                             "YOUR DAILY RX",
-                            "@ FLUSH ~< 0"
-                        ]
-                    },
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
+                            "@ FLUSH ~< 0",
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 7K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -501,26 +271,18 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
                             "Yoga, meditation, deep breathing, cold",
                             "shower, coloring",
-                            "YOUR DAILY RX"
-                        ]
-                    },
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
+                            "YOUR DAILY RX",
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 7K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -537,26 +299,18 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
                             "Yoga, meditation, deep breathing, cold",
                             "shower, coloring",
-                            "YOUR DAILY RX"
-                        ]
-                    },
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
+                            "YOUR DAILY RX",
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 7K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -573,27 +327,19 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
                             "Yoga, meditation, deep breathing, cold",
                             "shower, coloring",
                             "YOUR DAILY RX",
-                            "@ FLUSH ~< 0"
-                        ]
-                    },
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
+                            "@ FLUSH ~< 0",
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 7K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -610,27 +356,19 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
                             "Yoga, meditation, deep breathing, cold",
                             "shower, coloring",
                             "YOUR DAILY RX",
-                            "@ FLUSH ~< 0"
-                        ]
-                    },
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
+                            "@ FLUSH ~< 0",
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 7K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -647,27 +385,19 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
                             "Yoga, meditation, deep breathing, cold",
                             "shower, coloring",
                             "YOUR DAILY RX",
-                            "0"
-                        ]
-                    },
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
+                            "0",
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 7K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -681,26 +411,7 @@
     "11/1/2024": {
         "activities": [
             {
-                "name": "Lifestyle",
-                "tasks": [
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
-                            "7+ hours of sleep? Energy level?",
-                            "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
-                            "30 min minimum walk or 7K steps",
-                            "Weight - Please list in comments",
-                            "below",
-                            "Log below"
-                        ]
-                    }
-                ]
+                "name": "Lifestyle"
             }
         ]
     },
@@ -710,26 +421,18 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
                             "Yoga, meditation, deep breathing, cold",
                             "shower, coloring",
-                            "YOUR DAILY RX"
-                        ]
-                    },
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
+                            "YOUR DAILY RX",
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 8K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -746,27 +449,19 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
                             "Yoga, meditation, deep breathing, cold",
                             "shower, coloring",
                             "YOUR DAILY RX",
-                            "@ FLUSH ~< 0"
-                        ]
-                    },
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
+                            "@ FLUSH ~< 0",
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 8K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -783,26 +478,18 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
                             "Yoga, meditation, deep breathing, cold",
                             "shower, coloring",
-                            "YOUR DAILY RX"
-                        ]
-                    },
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
+                            "YOUR DAILY RX",
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 8K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -819,7 +506,7 @@
                 "name": "s FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
@@ -847,7 +534,7 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
@@ -876,7 +563,7 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
@@ -904,7 +591,7 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
@@ -932,7 +619,7 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
@@ -943,19 +630,13 @@
                         ]
                     },
                     {
-                        "name": "& Lifestyle ~"
-                    },
-                    {
-                        "name": "Sleep - Hours",
+                        "name": "& Lifestyle ~",
                         "details": [
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 8K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -972,27 +653,19 @@
                 "name": "FLUSH",
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "Min 30min",
                             "Parasympathetic activity",
                             "Yoga, meditation, deep breathing, cold",
                             "shower, coloring",
                             "YOUR DAILY RX",
-                            "@ FLUSH ~< 0"
-                        ]
-                    },
-                    {
-                        "name": "Sleep - Hours",
-                        "details": [
+                            "@ FLUSH ~< 0",
+                            "(a) Sleep - Hours",
                             "7+ hours of sleep? Energy level?",
                             "Hydration - Units of Water",
-                            "1200z water with electrolytes"
-                        ]
-                    },
-                    {
-                        "name": "Movement - Steps",
-                        "details": [
+                            "1200z water with electrolytes",
+                            "(c) Movement - Steps",
                             "30 min minimum walk or 8K steps",
                             "Weight - Please list in comments",
                             "below",
@@ -1008,7 +681,7 @@
             {
                 "tasks": [
                     {
-                        "name": "Weight",
+                        "name": "(a) Weight",
                         "details": [
                             "log weight",
                             "Mesurements",
@@ -1021,16 +694,12 @@
                         ]
                     },
                     {
-                        "name": "Scratch Test Assessment",
+                        "name": "(c) Scratch Test Assessment",
                         "details": [
                             "Perform 3-5 reps of each movement--- film in",
                             "sports bra if possible from behind and side so",
-                            "I can see how scapula is moving"
-                        ]
-                    },
-                    {
-                        "name": "Overhead Air Squat",
-                        "details": [
+                            "I can see how scapula is moving",
+                            "(0) Overhead Air Squat",
                             "Film 3 reps from the side and 3 reps from the",
                             "front",
                             "Note any pain or tightness",
@@ -1038,24 +707,16 @@
                         ]
                     },
                     {
-                        "name": "Toe Touch Assessment",
+                        "name": "(e) Toe Touch Assessment",
                         "details": [
                             "Film",
                             "3-4 reps from the side",
-                            "Note any pain or tightness"
-                        ]
-                    },
-                    {
-                        "name": "15 minute Mixed Modal x",
-                        "details": [
+                            "Note any pain or tightness",
+                            "(F) 15 minute Mixed Modal x",
                             "20 second hollow hold (pressing low back",
                             "15 m quadruped crawl forward",
-                            "15 m quadruped crawl backward*"
-                        ]
-                    },
-                    {
-                        "name": "-",
-                        "details": [
+                            "15 m quadruped crawl backward*",
+                            "10 Dual KB clean to push press (15-26 lbs)-",
                             "controlled- good positioning",
                             "10 alternating KB gorilla row",
                             "on quadruped crawls-- pretend like you have",
@@ -1077,7 +738,7 @@
             {
                 "tasks": [
                     {
-                        "name": "Lunge Assessment",
+                        "name": "(a) Lunge Assessment",
                         "details": [
                             "film each leg 3-5 reps from a 45 degree angle"
                         ]
@@ -1088,16 +749,13 @@
                             "Assessment",
                             "Film from a 45 degree angle",
                             "3-5 reps per side",
-                            "Note any pain or tightness"
-                        ]
-                    },
-                    {
-                        "name": "MAP 9",
-                        "details": [
+                            "Note any pain or tightness",
+                            "(c) MAP 9",
                             "30 minute AMRAP @ sustained pace",
                             "12 cal Airbike",
                             "12 cal Row",
                             "12 cal ski",
+                            "le",
                             "We are working on pacing here so any time",
                             "the focus is AEROBIC I want you to think",
                             "about taking the time domain and multiplying",
@@ -1119,7 +777,7 @@
                 "name": "Opex Move Day",
                 "tasks": [
                     {
-                        "name": "Front Plank Assessment",
+                        "name": "(a) Front Plank Assessment",
                         "details": [
                             "Max effort, Film from 45 degree angle and",
                             "record time"
@@ -1134,21 +792,20 @@
                         ]
                     },
                     {
-                        "name": "Reverse Plank Assessment",
+                        "name": "(c) Reverse Plank Assessment",
                         "details": [
                             "Film from 45 degree angle",
                             "Record time",
                             "Note any pain or issues",
-                            "se"
-                        ]
-                    },
-                    {
-                        "name": "Opex work x",
-                        "details": [
+                            "se",
+                            "(0) Opex work x",
                             "10 minute Assault bike for max calories.",
                             "Do your best, think about your strategy before",
                             "starting.",
                             "Take a photo and upload on the screen."
+                        ],
+                        "comments": [
+                            "es"
                         ]
                     }
                 ]
@@ -1161,7 +818,7 @@
                 "name": "Bo",
                 "tasks": [
                     {
-                        "name": "Weight",
+                        "name": "(a) Weight",
                         "details": [
                             "log weight",
                             "Mesurements",
@@ -1174,41 +831,30 @@
                         ]
                     },
                     {
-                        "name": "Scratch Test Assessment",
+                        "name": "(c) Scratch Test Assessment",
                         "details": [
                             "Perform 3-5 reps of each movement--- film in",
                             "sports bra if possible from behind and side so",
                             "is moving",
-                            "I can see how scapula is moving"
-                        ]
-                    },
-                    {
-                        "name": "Overhead Air Squat Film 3 reps from the side and 3 reps from the",
-                        "details": [
+                            "I can see how scapula is moving",
+                            "(0) Overhead Air Squat",
+                            "Film 3 reps from the side and 3 reps from the",
                             "front",
                             "Note any pain or tightness",
                             "Slow and controlled"
                         ]
                     },
                     {
-                        "name": "Toe Touch Assessment",
+                        "name": "(e) Toe Touch Assessment",
                         "details": [
                             "Film",
                             "3-4 reps from the side",
-                            "Note any pain or tightness"
-                        ]
-                    },
-                    {
-                        "name": "15 minute Mixed Modal x",
-                        "details": [
+                            "Note any pain or tightness",
+                            "(F) 15 minute Mixed Modal x",
                             "20 second hollow hold (pressing low back",
                             "15 m quadruped crawl forward",
-                            "15 m quadruped crawl backward*"
-                        ]
-                    },
-                    {
-                        "name": "-",
-                        "details": [
+                            "15 m quadruped crawl backward*",
+                            "10 Dual KB clean to push press (15-26 lbs)-",
                             "controlled- good positioning",
                             "10 alternating KB gorilla row",
                             "on quadruped crawls-- pretend like you have",
@@ -1230,7 +876,7 @@
             {
                 "tasks": [
                     {
-                        "name": "Lunge Assessment",
+                        "name": "(a) Lunge Assessment",
                         "details": [
                             "film each leg 3-5 reps from a 45 degree angle"
                         ]
@@ -1240,14 +886,18 @@
                         "details": [
                             "Film from a 45 degree angle",
                             "3-5 reps per side",
-                            "Note any pain or tightness"
+                            "Note any pain or tightness",
+                            "(c) MAP 9",
+                            "AMDAD @ cuctrinad nace",
+                            "film each leg 3-5 reps from a 45 degree angle"
                         ]
                     },
                     {
-                        "name": "MAP 9",
+                        "name": "Active Straight Leg Raise v Assessment",
                         "details": [
-                            "AMDAD @ cuctrinad nace",
-                            "ss",
+                            "Film from a 45 degree angle",
+                            "3-5 reps per side",
+                            "Note any pain or tightness",
                             "MAP 9",
                             "30 minute AMRAP @ sustained pace",
                             "12 cal Airbike",
@@ -1274,7 +924,7 @@
                 "name": "Opex Move Day",
                 "tasks": [
                     {
-                        "name": "Front Plank Assessment",
+                        "name": "(a) Front Plank Assessment",
                         "details": [
                             "Max effort, Film from 45 degree angle and",
                             "record time"
@@ -1289,20 +939,19 @@
                         ]
                     },
                     {
-                        "name": "Reverse Plank Assessment",
+                        "name": "(c) Reverse Plank Assessment",
                         "details": [
                             "Film from 45 degree angle",
                             "Record time",
-                            "Note any pain or issues"
-                        ]
-                    },
-                    {
-                        "name": "Opex work x",
-                        "details": [
+                            "Note any pain or issues",
+                            "(0) Opex work x",
                             "10 minute Assault bike for max calories.",
                             "Do your best, think about your strategy before",
                             "starting.",
                             "Take a photo and upload on the screen."
+                        ],
+                        "comments": [
+                            "es"
                         ]
                     }
                 ]
@@ -1345,6 +994,7 @@
                     {
                         "name": "Split Squat",
                         "details": [
+                            "(2)",
                             "@3011, 10/side x 3 sets; rest 2 min"
                         ]
                     },
@@ -1402,30 +1052,17 @@
                         "name": "Single Arm Cable Lat Pulldown Machine",
                         "details": [
                             "a ~ A",
-                            "@3111, 8 reps x 3 sets; rest 2:30"
-                        ]
-                    },
-                    {
-                        "name": "Dumbbell Floor Press",
-                        "details": [
-                            "@3111, 8 reps x 3 sets; rest 2:30"
-                        ]
-                    },
-                    {
-                        "name": "Goblet Lateral Box Step Down x",
-                        "details": [
+                            "a1) Smith Machine Deadlift",
+                            "@3111, 8 reps x 3 sets; rest 2:30",
+                            "a2) Dumbbell Floor Press",
                             "@3011, 10/side x 3 sets; rest 2 min"
                         ]
                     },
                     {
                         "name": "Single Arm Cable Lat Pulldown Machine",
                         "details": [
-                            "@3011, 10 reps x 3 sets; rest 2 min"
-                        ]
-                    },
-                    {
-                        "name": "Cyclist Goblet Squat",
-                        "details": [
+                            "@3011, 10 reps x 3 sets; rest 2 min",
+                            "c1) Cyclist Goblet Squat",
                             "@3011, 10 reps x 3 sets; rest 2 min"
                         ]
                     },
@@ -1444,10 +1081,10 @@
             {
                 "tasks": [
                     {
-                        "name": "@ Happy Thanksgiving! ~"
-                    },
-                    {
-                        "name": "Family TIme"
+                        "name": "@ Happy Thanksgiving! ~",
+                        "details": [
+                            "(a) Family TIme"
+                        ]
                     }
                 ]
             }
@@ -1480,12 +1117,8 @@
                     {
                         "name": "Single Arm Dumbbell Bench Press",
                         "details": [
-                            "@3011, 10/side x 3 sets; rest 2 min"
-                        ]
-                    },
-                    {
-                        "name": "GHD Hip Extension x",
-                        "details": [
+                            "2 ) Single Arm Dumbbell Bench Press",
+                            "@3011, 10/side x 3 sets; rest 2 min",
                             "@3011, AMRAP x 3 sets; rest 2 min"
                         ]
                     },
@@ -1565,6 +1198,7 @@
                     {
                         "name": "Split Squat",
                         "details": [
+                            "(2)",
                             "@3011, 10/side x 3 sets; rest 2 min"
                         ]
                     },
@@ -1617,12 +1251,8 @@
                         "name": "Goblet Lateral Box Step Down",
                         "details": [
                             "@3011, 8-10/side x 3 sets; rest 2 min",
-                            "8 per side no weight , Rt side hard"
-                        ]
-                    },
-                    {
-                        "name": "Single Arm Cable Lat Pulldown",
-                        "details": [
+                            "81) Goblet Lateral Box Step Down",
+                            "8 per side no weight , Rt side hard",
                             "@3011, 8-10 reps x 3 sets; rest 2 min"
                         ],
                         "comments": [
@@ -1728,12 +1358,7 @@
     "12/7/2024": {
         "activities": [
             {
-                "name": "BodyPump",
-                "tasks": [
-                    {
-                        "name": "ENJOY!"
-                    }
-                ]
+                "name": "BodyPump"
             }
         ]
     },
@@ -1922,13 +1547,9 @@
                     {
                         "name": "Hack Squat Machine",
                         "details": [
+                            "81) Hack Squat Machine",
                             "@3011, 8-10 reps x 3 sets; rest 2 min",
-                            "85 lbs leg press"
-                        ]
-                    },
-                    {
-                        "name": "Single Arm Dumbbell Bench Press vv",
-                        "details": [
+                            "85 lbs leg press",
                             "@3011, 8-10/side x 3 sets; rest 2 min"
                         ],
                         "comments": [
@@ -1956,13 +1577,7 @@
     },
     "12/14/2024": {
         "activities": [
-            {
-                "tasks": [
-                    {
-                        "name": "ENJOY!"
-                    }
-                ]
-            }
+            {}
         ]
     },
     "12/15/2024": {
@@ -2068,12 +1683,8 @@
                     {
                         "name": "Goblet Lateral Box Step Down",
                         "details": [
-                            "@3011, 8/side x 3 sets; rest 2 min"
-                        ]
-                    },
-                    {
-                        "name": "Single Arm Cable Lat Pulldown Machine",
-                        "details": [
+                            "@3011, 8/side x 3 sets; rest 2 min",
+                            "81) Goblet Lateral Box Step Down",
                             "@3011, 8 reps x 3 sets; rest 2 min"
                         ],
                         "comments": [
@@ -2142,13 +1753,9 @@
                     {
                         "name": "Hack Squat Machine",
                         "details": [
+                            "81) Hack Squat Machine",
                             "@3011, 8 reps x 3 sets; rest 2 min",
-                            "130 lb leg press"
-                        ]
-                    },
-                    {
-                        "name": "Single Arm Dumbbell Bench Press vv",
-                        "details": [
+                            "130 lb leg press",
                             "@3011, 8/side x 3 sets; rest 2 min",
                             "15 did lying flat on a mat so I had better arm",
                             "position",
@@ -2173,19 +1780,7 @@
     "12/21/2024": {
         "activities": [
             {
-                "name": "Exercise",
-                "tasks": [
-                    {
-                        "name": "Cyclical MAP 8",
-                        "details": [
-                            "15 min @ -.5 sec/500m",
-                            "Row",
-                            "-rest 7.5 min-",
-                            "x3 sets",
-                            "*getting a bit faster this week"
-                        ]
-                    }
-                ]
+                "name": "Exercise"
             }
         ]
     },
@@ -2226,18 +1821,12 @@
                     {
                         "name": "Dumbbell Romanian Deadlift",
                         "details": [
-                            "@3011, 10 reps x 3 sets; rest 2 min"
-                        ],
-                        "comments": [
-                            "15lb"
-                        ]
-                    },
-                    {
-                        "name": "Seated Alternating Dumbbell Press",
-                        "details": [
+                            "@3011, 10 reps x 3 sets; rest 2 min",
+                            "81) Dumbbell Romanian Deadlift",
                             "@3011, 20 alt reps x 3 sets; rest 2 min"
                         ],
                         "comments": [
+                            "15lb",
                             "10lb"
                         ]
                     },
@@ -2271,7 +1860,7 @@
             {
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "30 minutes"
                         ]
@@ -2286,7 +1875,7 @@
                 "name": "MERRY",
                 "tasks": [
                     {
-                        "name": "Nap"
+                        "name": "(a) Nap"
                     }
                 ]
             }
@@ -2317,19 +1906,13 @@
                     {
                         "name": "Goblet Russian Step-Up",
                         "details": [
+                            "81) Goblet Russian Step-Up",
                             "@3011, 10/side x 3 sets; rest 2 min",
-                            "*Ok wit no weight added if you need"
-                        ],
-                        "comments": [
-                            "No weight"
-                        ]
-                    },
-                    {
-                        "name": "Cable Lat Pulldown",
-                        "details": [
+                            "*Ok wit no weight added if you need",
                             "@3011, 10 reps x 3 sets; rest 2 min"
                         ],
                         "comments": [
+                            "No weight",
                             "45 lb"
                         ]
                     },
@@ -2372,12 +1955,8 @@
                         "name": "Assisted Pull-Up Machine",
                         "details": [
                             "@3111, 8 reps x 3 sets; rest 2:30",
-                            "100 lbs assist"
-                        ]
-                    },
-                    {
-                        "name": "Leg Press Machine Press",
-                        "details": [
+                            "100 lbs assist",
+                            "22) Assisted Pull-Up Machine",
                             "@3011, 10 reps x 3 sets; rest 2 min"
                         ],
                         "comments": [
@@ -2825,12 +2404,7 @@
                     {
                         "name": "Cable Lat Pulldown",
                         "details": [
-                            "@3011, 8-10 reps x 3 sets; rest 2 min"
-                        ]
-                    },
-                    {
-                        "name": "Cyclist Goblet Squat",
-                        "details": [
+                            "82) Cable Lat Pulldown",
                             "@3011, 8-10 reps x 3 sets; rest 2 min"
                         ]
                     },
@@ -2887,14 +2461,9 @@
                     {
                         "name": "Leg Press Machine Press",
                         "details": [
+                            "81) Leg Press Machine Press",
                             "@3011, 8-10 reps x 3 sets; rest 2 min",
-                            "130,135,140"
-                        ]
-                    },
-                    {
-                        "name": "Dumbbell Bench Press",
-                        "details": [
-                            "@3011, 8-10 reps x 3 sets; rest 2 min",
+                            "130,135,140",
                             "10 rep 12 lb"
                         ]
                     },
@@ -2951,7 +2520,7 @@
                 "name": "Exercise v Bo",
                 "tasks": [
                     {
-                        "name": "Front Rack Dumbbell Elevator v Squat",
+                        "name": "(a) Front Rack Dumbbell Elevator v Squat",
                         "details": [
                             "3x 10 Reps",
                             "10lb",
@@ -2963,38 +2532,29 @@
                         ]
                     },
                     {
-                        "name": "Dumbbell Romanian Deadlift",
+                        "name": "(c) Dumbbell Romanian Deadlift",
                         "details": [
-                            "3x 10 Reps @ 3011"
-                        ],
-                        "comments": [
-                            "15"
-                        ]
-                    },
-                    {
-                        "name": "Dumbbell External Rotation",
-                        "details": [
+                            "3x 10 Reps @ 3011",
+                            "(0) Dumbbell External Rotation",
                             "3x10 reps @ 3011"
                         ],
                         "comments": [
+                            "lb",
+                            "15",
                             "10"
                         ]
                     },
                     {
-                        "name": "Dumbbell Split Squat",
+                        "name": "(e) Dumbbell Split Squat",
                         "details": [
-                            "3x 8 reps/ side @ 3011"
-                        ],
-                        "comments": [
-                            "10"
-                        ]
-                    },
-                    {
-                        "name": "2 Point Bird Dog",
-                        "details": [
+                            "3x 8 reps/ side @ 3011",
+                            "(F) 2 Point Bird Dog",
                             "3 x 7/side",
                             "Hold Arm and Leg extended for a 5 count",
                             "Done"
+                        ],
+                        "comments": [
+                            "10"
                         ]
                     }
                 ]
@@ -3012,7 +2572,7 @@
                 "name": "Exercise Bo",
                 "tasks": [
                     {
-                        "name": "Dumbbell Deadlift g",
+                        "name": "(a) Dumbbell Deadlift g",
                         "details": [
                             "3x10 reps @ 3011",
                             "15"
@@ -3026,36 +2586,29 @@
                         ]
                     },
                     {
-                        "name": "Sissy Squat",
+                        "name": "(c) Sissy Squat",
                         "details": [
                             "3x10",
                             "Hold onto a post for support. You do not need",
                             "to go down far to feel it. Will feel it in your",
-                            "quads. Only go as far as you feel comfortable"
-                        ]
-                    },
-                    {
-                        "name": "Dumbbell Pullover v",
-                        "details": [
+                            "quads. Only go as far as you feel comfortable",
+                            "(0) Dumbbell Pullover v",
                             "3x10 @ 3011"
                         ],
                         "comments": [
+                            "15",
                             "10, 20"
                         ]
                     },
                     {
-                        "name": "Goblet Squat",
+                        "name": "(e) Goblet Squat",
                         "details": [
-                            "3x10 @ 3011"
+                            "3x10 @ 3011",
+                            "(F) Farmer's Carry",
+                            "1 set. Go the distance with this one"
                         ],
                         "comments": [
                             "20"
-                        ]
-                    },
-                    {
-                        "name": "Farmer's Carry",
-                        "details": [
-                            "1 set. Go the distance with this one"
                         ]
                     }
                 ]
@@ -3073,7 +2626,7 @@
                 "name": "Exercise",
                 "tasks": [
                     {
-                        "name": "Walking Lunge",
+                        "name": "(a) Walking Lunge",
                         "details": [
                             "3x24 Reps @ 3011"
                         ]
@@ -3090,32 +2643,25 @@
                         ]
                     },
                     {
-                        "name": "Air Squat",
+                        "name": "(c) Air Squat",
                         "details": [
                             "3x10",
-                            "Pulse at the bottoms"
-                        ]
-                    },
-                    {
-                        "name": "Dumbbell Bench Press",
-                        "details": [
+                            "Pulse at the bottoms",
+                            "(0) Dumbbell Bench Press",
                             "3x8 Reps @ 3011"
                         ],
                         "comments": [
+                            "es",
                             "20"
                         ]
                     },
                     {
-                        "name": "Superman",
+                        "name": "(e) Superman",
                         "details": [
                             "3x10 Reps",
                             "Squeeze the crap out of your glutes. Hold for",
-                            "2-4 seconds at the top."
-                        ]
-                    },
-                    {
-                        "name": "Dead Bug",
-                        "details": [
+                            "2-4 seconds at the top.",
+                            "(F) Dead Bug",
                             "3x16",
                             "SLOWER THE BETTER. Keep lower back",
                             "pressed into the floor"
@@ -3128,15 +2674,7 @@
     "1/18/2025": {
         "activities": [
             {
-                "name": "Movement v",
-                "tasks": [
-                    {
-                        "name": "Hip CARs",
-                        "details": [
-                            "90/90 Hip switch"
-                        ]
-                    }
-                ]
+                "name": "Movement v"
             }
         ]
     },
@@ -3182,18 +2720,12 @@
                     {
                         "name": "Dumbbell Romanian Deadlift",
                         "details": [
-                            "@3011, 8 reps x 3 sets; rest 2 min"
-                        ],
-                        "comments": [
-                            "15"
-                        ]
-                    },
-                    {
-                        "name": "Cable Single Arm External Rotation",
-                        "details": [
+                            "81) Dumbbell Romanian Deadlift",
+                            "@3011, 8 reps x 3 sets; rest 2 min",
                             "@3011, 8 reps/side x 3 sets; rest 2 min"
                         ],
                         "comments": [
+                            "15",
                             "10"
                         ]
                     },
@@ -3259,15 +2791,12 @@
                     {
                         "name": "Goblet Russian Step-Up",
                         "details": [
-                            "@3011, 8/side x 3 sets; rest 2 min"
-                        ]
-                    },
-                    {
-                        "name": "Cable Lat Pulldown",
-                        "details": [
+                            "@3011, 8/side x 3 sets; rest 2 min",
+                            "81) Goblet Russian Step-Up",
                             "@3011, 8 reps x 3 sets; rest 2 min"
                         ],
                         "comments": [
+                            "No weight",
                             "65"
                         ]
                     },
@@ -3334,14 +2863,9 @@
                     {
                         "name": "Leg Press Machine Press",
                         "details": [
+                            "81) Leg Press Machine Press",
                             "@3011, 8 reps x 3 sets; rest 2 min",
                             "135,140,140"
-                        ]
-                    },
-                    {
-                        "name": "Dumbbell Bench Press",
-                        "details": [
-                            "@3011, 8 reps x 3 sets; rest 2 min"
                         ],
                         "comments": [
                             "15 each"
@@ -3419,18 +2943,12 @@
                     {
                         "name": "Dumbbell Romanian Deadlift",
                         "details": [
-                            "@3011, 8 reps x 3 sets; rest 2 min"
-                        ],
-                        "comments": [
-                            "20 each"
-                        ]
-                    },
-                    {
-                        "name": "Cable Single Arm External Rotation",
-                        "details": [
+                            "@3011, 8 reps x 3 sets; rest 2 min",
+                            "81) Dumbbell Romanian Deadlift",
                             "@3011, 8 reps/side x 3 sets; rest 2 min"
                         ],
                         "comments": [
+                            "20 each",
                             "10lb"
                         ]
                     },
@@ -3496,12 +3014,8 @@
                         "name": "Goblet Russian Step-Up",
                         "details": [
                             "@3011, 8/side x 3 sets; rest 2 min",
-                            "Used medium size table ...hard ...no weight"
-                        ]
-                    },
-                    {
-                        "name": "Cable Lat Pulldown",
-                        "details": [
+                            "81) Goblet Russian Step-Up",
+                            "Used medium size table ...hard ...no weight",
                             "@3011, 8 reps x 3 sets; rest 2 min"
                         ],
                         "comments": [
@@ -3556,14 +3070,9 @@
                     {
                         "name": "Leg Press Machine Press",
                         "details": [
+                            "81) Leg Press Machine Press",
                             "@3011, 8 reps x 3 sets; rest 2 min",
                             "140 140,140"
-                        ]
-                    },
-                    {
-                        "name": "Dumbbell Bench Press",
-                        "details": [
-                            "@3011, 8 reps x 3 sets; rest 2 min"
                         ],
                         "comments": [
                             "15"
@@ -3596,7 +3105,7 @@
             {
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "30 min"
                         ]
@@ -3610,7 +3119,7 @@
             {
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "30-45min",
                             "90/90 Hip switch"
@@ -3625,7 +3134,7 @@
             {
                 "tasks": [
                     {
-                        "name": "Walk"
+                        "name": "(a) Walk"
                     }
                 ]
             }
@@ -3636,7 +3145,10 @@
             {
                 "tasks": [
                     {
-                        "name": "Walk"
+                        "name": "(a) Walk",
+                        "comments": [
+                            "~"
+                        ]
                     }
                 ]
             }
@@ -3647,7 +3159,7 @@
             {
                 "tasks": [
                     {
-                        "name": "Walk"
+                        "name": "(a) Walk"
                     }
                 ]
             }
@@ -3658,7 +3170,7 @@
             {
                 "tasks": [
                     {
-                        "name": "Walk"
+                        "name": "(a) Walk"
                     }
                 ]
             }
@@ -3669,7 +3181,7 @@
             {
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "30-45min",
                             "90/90 Hip switch"
@@ -3684,7 +3196,7 @@
             {
                 "tasks": [
                     {
-                        "name": "Walk",
+                        "name": "(a) Walk",
                         "details": [
                             "30-45min",
                             "90/90 Hip switch"
@@ -3832,12 +3344,8 @@
                     {
                         "name": "Quadruped Floating Shoulder Touches",
                         "details": [
-                            "rest 30s"
-                        ]
-                    },
-                    {
-                        "name": "Dumbbell Lateral Raise",
-                        "details": [
+                            "rest 30s",
+                            "(0) Dumbbell Lateral Raise",
                             "3x10 at 3010, rest 30s",
                             "last set to failure",
                             "8 lb"
@@ -3965,16 +3473,11 @@
                         "name": "Dumbbell Incline Skull Crusher",
                         "details": [
                             "3x10 reps at 3010, rest 30s",
-                            "10lb"
+                            "10lb",
+                            "c2) Dumbbell Incline Skull Crusher"
                         ],
                         "comments": [
                             "10lb"
-                        ]
-                    },
-                    {
-                        "name": "Reverse Crunch v",
-                        "details": [
-                            "3x10 reps at 3010, rest 30s"
                         ]
                     },
                     {
@@ -4202,17 +3705,13 @@
                     {
                         "name": "Lying Hamstring Curl",
                         "details": [
+                            "22) Lying Hamstring Curl",
                             "4x10 reps @ 3010, rest 60s",
-                            "Last set to failure"
+                            "Last set to failure",
+                            "3x10 reps/leg at 3010 (hold weight in"
                         ],
                         "comments": [
                             "32.5"
-                        ]
-                    },
-                    {
-                        "name": "Rear Foot Elevated Split Squat v",
-                        "details": [
-                            "3x10 reps/leg at 3010 (hold weight in"
                         ]
                     },
                     {
@@ -4245,12 +3744,8 @@
                         "name": "Facing away dual cable curl",
                         "details": [
                             "3x10 reps @ 3010, rest 30s",
-                            "DB if needed to help with superset"
-                        ]
-                    },
-                    {
-                        "name": "Seated Calf Raise Machine",
-                        "details": [
+                            "DB if needed to help with superset",
+                            "c2) Facing away dual cable curl",
                             "3x10 reps at 3010, rest 30s",
                             "last set to failure",
                             "No weight"
