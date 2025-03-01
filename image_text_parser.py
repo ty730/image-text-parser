@@ -29,18 +29,18 @@ g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c
 
 def main():
     #createTxtFilesFromImages()
-    createRxs()
+    #createRxs()
+    loadWarmups()
 
 def createRxs():
     rxs = {}
     prev_date = ''
 
     # Read in all txt files
-    in_folder = './Text-Files'
+    in_folder = './Text-Files/Workouts'
     files = os.listdir(in_folder)
     files.sort()
     for filename in files:
-        # Start with IMG_0506 for now
         if filename.endswith(".txt"):
             filepath = os.path.join(in_folder, filename)
             try:
@@ -262,12 +262,61 @@ def cleanUpName(name):
         name = name[:index].strip()
     return name
 
+def loadWarmups():
+    data = {}
+    with open('./JSON/data.json') as f:
+        data = json.load(f)
+    in_folder = './Text-Files/Warmups'
+    date_string = '2/10/2025'
+    date = datetime.datetime.strptime(date_string, '%m/%d/%Y')
+    rest_days = [12, 15, 16, 19, 22, 23, 26, 1, 2]
+    files = os.listdir(in_folder)
+    files.sort()
+    for filename in files:
+        if filename.endswith(".txt"):
+            filepath = os.path.join(in_folder, filename)
+            try:
+                with open(filepath, 'r') as file:
+                    text = file.read()
+                    date_string = date.strftime('%-m/%-d/%Y')
+                    addWarmup(data, text, date_string)
+                    date += datetime.timedelta(days=1)
+                    while date.day in rest_days:
+                        date += datetime.timedelta(days=1)
+            except Exception as e:
+                print(f"Error processing {filename}: {'{}: {}'.format(type(e).__name__, e)}")
+    with open('./JSON/data.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
+
+def addWarmup(data, warmups_text, date_string):
+    # Cleanup
+    top_index = warmups_text.find('Warmup >')
+    if top_index != -1:
+        new_index = warmups_text.find('\n', top_index)
+        if new_index != -1:
+            warmups_text = warmups_text[new_index:]
+        else:
+            warmups_text = warmups_text[top_index:]
+    bottom_index = warmups_text.find('COMMENT')
+    if bottom_index != -1:
+        new_index =warmups_text.rfind('\n', 0, bottom_index)
+        if new_index != -1:
+            warmups_text = warmups_text[:new_index]
+        else:
+            warmups_text = warmups_text[:bottom_index]
+    # Add Warmup to Data
+    warmup_list = warmups_text.split('\n')
+    warmup_list = [s.strip() for s in warmup_list]
+    warmup_list = [s for s in warmup_list if s]
+    data[date_string]['warmup'] = warmup_list
 
 def createTxtFilesFromImages():
     # Defining paths to tesseract.exe  
     pytesseract.pytesseract.tesseract_cmd = r'/usr/local/bin/tesseract'
     in_folder = './Photos-001'
-    out_folder = './Text-Files'
+    out_folder = './Text-Files/Workouts'
+    #in_folder = './Warmups'
+    #out_folder = './Text-Files/Warmups'
 
     dir_list = os.listdir(in_folder)
     dir_list.sort()

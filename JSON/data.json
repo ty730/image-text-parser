@@ -3275,6 +3275,14 @@
                     }
                 ]
             }
+        ],
+        "warmup": [
+            "Glute/CoreWarm Up:",
+            "2 Rounds",
+            "20 SLOW alternating wall dead bugs (low back",
+            "pushes into the wall)",
+            "10 banded clamshells",
+            "1 minute supine belly breathing"
         ]
     },
     "2/11/2025": {
@@ -3353,6 +3361,13 @@
                     }
                 ]
             }
+        ],
+        "warmup": [
+            "2 rounds",
+            "15 hops up and down (in place)",
+            "4 depth jump to stick (start low and work up week by",
+            "week)",
+            "10 prone lift offs"
         ]
     },
     "2/12/2025": {
@@ -3440,6 +3455,12 @@
                     }
                 ]
             }
+        ],
+        "warmup": [
+            "3 Rounds",
+            "10 side plank to clamshell with hold /side",
+            "10 lateral banded walk/side",
+            "30 walking lunge- no tempo"
         ]
     },
     "2/14/2025": {
@@ -3489,6 +3510,13 @@
                     }
                 ]
             }
+        ],
+        "warmup": [
+            "2 Rounds",
+            "5 way hips x 5 each way",
+            "5 SLOW sciatic nerve floss/side",
+            "30 second wall sit - push low back into the floor",
+            "5 yoga push up"
         ]
     },
     "2/15/2025": {
@@ -3583,6 +3611,14 @@
                     }
                 ]
             }
+        ],
+        "warmup": [
+            "Glute/CoreWarm Up:",
+            "2 Rounds",
+            "20 SLOW alternating wall dead bugs (low back",
+            "pushes into the wall)",
+            "10 banded clamshells",
+            "1 minute supine belly breathing"
         ]
     },
     "2/18/2025": {
@@ -3665,6 +3701,13 @@
                     }
                 ]
             }
+        ],
+        "warmup": [
+            "2 rounds",
+            "15 hops up and down (in place)",
+            "4 depth jump to stick (start low and work up week by",
+            "week)",
+            "10 prone lift offs"
         ]
     },
     "2/19/2025": {
@@ -3753,6 +3796,12 @@
                     }
                 ]
             }
+        ],
+        "warmup": [
+            "3 Rounds",
+            "10 side plank to clamshell with hold /side",
+            "10 lateral banded walk/side",
+            "30 walking lunge- no tempo"
         ]
     },
     "2/21/2025": {
@@ -3787,6 +3836,13 @@
                     }
                 ]
             }
+        ],
+        "warmup": [
+            "2 Rounds",
+            "5 way hips x 5 each way",
+            "5 SLOW sciatic nerve floss/side",
+            "30 second wall sit - push low back into the floor",
+            "5 yoga push up"
         ]
     },
     "2/22/2025": {
@@ -3805,6 +3861,333 @@
         ]
     },
     "2/23/2025": {
+        "activities": [
+            {
+                "name": "Rest Day Bo",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "2/24/2025": {
+        "activities": [
+            {
+                "tasks": [
+                    {
+                        "name": "DB bent knee RDL (glute bias)",
+                        "details": [
+                            "4 sets, 10 reps @ 3010 tempo",
+                            "no reps to failure",
+                            "Rest 60s",
+                            "*bring DBs next to lat pull down machine"
+                        ],
+                        "comments": [
+                            "20"
+                        ]
+                    },
+                    {
+                        "name": "Banded Single Arm Lat Pulldown =",
+                        "details": [
+                            "*supinated grip",
+                            "10 reps/side at 3010",
+                            "last set to failure",
+                            "Rest 60s x4 sets",
+                            "*should be lat focused, keep the shoulder",
+                            "down and back before starting and don't let",
+                            "the tension go at the top",
+                            "25"
+                        ]
+                    },
+                    {
+                        "name": "Barbell Glute Bridge",
+                        "details": [
+                            "*Or booty builder",
+                            "*note that you are only moving around 4-5",
+                            "inches from bottom to top of contraction -",
+                            "this is very slow and controlled",
+                            "10 reps at 3010, rest 60s x 3",
+                            "last set to failure",
+                            "20"
+                        ]
+                    },
+                    {
+                        "name": "Seated Banded Row",
+                        "details": [
+                            "10 reps @ 3010, rest 60s",
+                            "last set to failure",
+                            "d.",
+                            "x3 sets",
+                            "55 machine",
+                            "Prone DB Reverse Fly v",
+                            "3x 10 reps at 3010, rest 30s",
+                            "no sets to failure",
+                            "10",
+                            "cable bicep curl",
+                            "3x10 reps at 3010",
+                            "12 DB"
+                        ]
+                    },
+                    {
+                        "name": "Standing Calf Raise",
+                        "details": [
+                            "*Machine if your gym has a standing calf raise",
+                            "machine",
+                            "3x10 reps at 3010",
+                            "last set to failure"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "warmup": [
+            "Glute/CoreWarm Up:",
+            "2 Rounds",
+            "20 SLOW alternating wall dead bugs (low back",
+            "pushes into the wall)",
+            "10 banded clamshells",
+            "1 minute supine belly breathing"
+        ]
+    },
+    "2/25/2025": {
+        "activities": [
+            {
+                "name": "v Bi",
+                "tasks": [
+                    {
+                        "name": "Leg Extension Machine",
+                        "details": [
+                            "4x 10 reps at 3010, rest 60s",
+                            "last set taken to failure",
+                            "d.",
+                            "60"
+                        ]
+                    },
+                    {
+                        "name": "Supinated Grip Body Row",
+                        "details": [
+                            "3x10 reps at 3010, rest 60s",
+                            "last set to failure",
+                            "Only did 5"
+                        ]
+                    },
+                    {
+                        "name": "Smith Machine Reverse Lunge v",
+                        "details": [
+                            "*No need to add weight at first",
+                            "3x8 reps/leg at 3010, rest 60s",
+                            "last set to failure",
+                            "45 bar"
+                        ]
+                    },
+                    {
+                        "name": "Leg Press Machine Press",
+                        "details": [
+                            "3x10 at 3010, rest 30s",
+                            "last set to failure",
+                            "130",
+                            "c2) Leg Press Machine Press",
+                            "rest 30s",
+                            "(0) Dumbbell Lateral Raise"
+                        ],
+                        "comments": [
+                            "130"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "warmup": [
+            "2 rounds",
+            "15 hops up and down (in place)",
+            "4 depth jump to stick (start low and work up week by",
+            "week)",
+            "10 prone lift offs"
+        ]
+    },
+    "2/26/2025": {
+        "activities": [
+            {
+                "name": "RestDay v Bo",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "2/27/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "Seated Low Cable Row",
+                        "details": [
+                            "Use close grip attachment",
+                            "Lat focus, slight lean forward",
+                            "4x10 reps at 3010, rest 60s",
+                            "no sets to failure",
+                            "*if needed go single arm DB row to hip to help",
+                            "with supersetting and not running back and",
+                            "forth - same rep scheme",
+                            "Did row machine"
+                        ]
+                    },
+                    {
+                        "name": "Lying Hamstring Curl",
+                        "details": [
+                            "4x10 reps @ 3010, rest 60s",
+                            "Last set to failure",
+                            "32.5"
+                        ]
+                    },
+                    {
+                        "name": "Rear Foot Elevated Split Squat v",
+                        "details": [
+                            "3x10 reps/leg at 3010 (hold weight in"
+                        ]
+                    },
+                    {
+                        "name": ", rest 60s",
+                        "details": [
+                            "last set to failure",
+                            "No weight"
+                        ]
+                    },
+                    {
+                        "name": "Rope Cable Tricep Pushdown",
+                        "details": [
+                            "3x10 reps at 3010, rest 60s",
+                            "fail the last set",
+                            "20",
+                            "Standing cable rear delt fly",
+                            "3x10 reps at 3010, rest 30s",
+                            "No set to failure",
+                            "15",
+                            "Facing away dual cable curl",
+                            "A 20A ND vact 90",
+                            "you should."
+                        ],
+                        "comments": [
+                            "20"
+                        ]
+                    },
+                    {
+                        "name": "Standing cable rear delt fly",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s",
+                            "No set to failure"
+                        ],
+                        "comments": [
+                            "15"
+                        ]
+                    },
+                    {
+                        "name": "Facing away dual cable curl",
+                        "details": [
+                            "3x10 reps @ 3010, rest 30s",
+                            "DB if needed to help with superset"
+                        ],
+                        "comments": [
+                            "15"
+                        ]
+                    },
+                    {
+                        "name": "Seated Calf Raise Machine",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s",
+                            "last set to failure",
+                            "10lb"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "warmup": [
+            "3 Rounds",
+            "10 side plank to clamshell with hold /side",
+            "10 lateral banded walk/side",
+            "30 walking lunge- no tempo"
+        ]
+    },
+    "2/28/2025": {
+        "activities": [
+            {
+                "name": "Systemic v Ho",
+                "tasks": [
+                    {
+                        "name": "Plate Deltoid Plate Raise",
+                        "details": [
+                            "3x10 reps @ 3010, rest 60s",
+                            "last set to failure",
+                            "20"
+                        ]
+                    },
+                    {
+                        "name": "Roman Chair Back Extensionfor Glutes",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s",
+                            "Holding 10",
+                            "Reverse Crunch v",
+                            "3x10 reps at 3010, rest 30s",
+                            "front rack KB march",
+                            "3x20 steps",
+                            "x icth+ Clava ctan.",
+                            "S] Move because you can, not because Bp",
+                            "you should.",
+                            "7 Glutes"
+                        ],
+                        "comments": [
+                            "Holding 10"
+                        ]
+                    },
+                    {
+                        "name": "Reverse Crunch v",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s",
+                            "(0) front rack KB march",
+                            "3x20 steps",
+                            "*Keep Core tight. Slow steps",
+                            "10,15,15"
+                        ]
+                    }
+                ]
+            }
+        ],
+        "warmup": [
+            "2 Rounds",
+            "5 way hips x 5 each way",
+            "5 SLOW sciatic nerve floss/side",
+            "30 second wall sit - push low back into the floor",
+            "5 yoga push up"
+        ]
+    },
+    "3/1/2025": {
+        "activities": [
+            {
+                "name": "Rest Day Bo",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "3/2/2025": {
         "activities": [
             {
                 "name": "Rest Day Bo",
