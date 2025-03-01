@@ -308,7 +308,7 @@ def addWarmup(data, warmups_text, date_string):
     warmup_list = warmups_text.split('\n')
     warmup_list = [s.strip() for s in warmup_list]
     warmup_list = [s for s in warmup_list if s]
-    data[date_string]['warmup'] = warmup_list
+    data[date_string]['activities'][0]['warmup'] = warmup_list
 
 def createTxtFilesFromImages():
     # Defining paths to tesseract.exe  
