@@ -25,7 +25,8 @@ rxs = {
     }
 }
 '''
-g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)']
+g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)', 'YOUR DAILY RX']
+known_tasks = ['Standing cable rear delt fly', 'Facing away dual cable curl']
 
 def main():
     #createTxtFilesFromImages()
@@ -151,6 +152,8 @@ def getTaskName(line):
         line = line[:rest_index] + ' ' + line[rest_index:]
         return line
     if isSentenceCase(line):
+        if task_name_index != -1:
+            line = line[task_name_index+1:].strip()
         return line
     if task_name_index != -1:
         return line[task_name_index+1:].strip()
@@ -170,7 +173,8 @@ def isSentenceCase(line):
         return False
     words = ' '.join(words_list[:3])
     cap_words = string.capwords(words)
-    if (cap_words == words):
+    is_sentence = all(word == cap_word or word == word.upper() for word, cap_word in zip(words, cap_words))
+    if is_sentence:
         return True
     return False
 
@@ -216,7 +220,7 @@ def getActivityName(text):
             if line_list[2].find('Lifestyle') != -1:
                 activity_name = line_list[2]
     activity_name_list = activity_name.split(' ')
-    activity_name_list = [x for x in activity_name_list if x.isalpha()]
+    activity_name_list = [x for x in activity_name_list if x.isalpha() or '-' in x]
     activity_name = ' '.join(activity_name_list)
     activity_name = cleanUpName(activity_name)
     if activity_name in g_garbage_lines:
