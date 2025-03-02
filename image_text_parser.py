@@ -25,7 +25,7 @@ rxs = {
     }
 }
 '''
-g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)', 'YOUR DAILY RX']
+g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)', 'YOUR DAILY RX', 'Home', 'CALENDAR']
 known_tasks = ['Standing cable rear delt fly', 'Facing away dual cable curl']
 
 def main():
@@ -71,6 +71,8 @@ def processOneText(text, rxs, prev_date):
     else:
         activity_name = getActivityName(text)
     text = removeUnrelatedText(text, activity_name)
+    if 'RestDay' in activity_name:
+        activity_name = 'Rest Day'
     is_existing_task = not date
     getActivityDetails(text, activity, activity_name, is_existing_task)
     #print(json.dumps(activity, sort_keys = True, indent = 4))
@@ -262,12 +264,11 @@ def removeUnrelatedText(text, activity_name):
     return text
 
 def cleanUpName(name):
-    index = name.find('v')
-    if index > len(name) - 2:
-        name = name[:index].strip()
-    index = name.find('x')
-    if index > len(name) - 2:
-        name = name[:index].strip()
+    bad_endings = [' =v', 'Vv', ' v', ' vv', ' x', 'v Bo', 'Bo', '- Bi', 'v Bi', 'Bi', '=', '~', '&', ' -', ' y']
+    for end in bad_endings:
+        if name.endswith(end):
+            name = name[:len(name) - len(end)].strip()
+            break
     return name
 
 def loadWarmups():

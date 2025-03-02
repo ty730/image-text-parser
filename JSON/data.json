@@ -173,7 +173,7 @@
             {
                 "tasks": [
                     {
-                        "name": "& Lifestyle ~"
+                        "name": "& Lifestyle"
                     },
                     {
                         "name": "Sleep - Hours",
@@ -311,7 +311,7 @@
                 "name": "FLUSHSTART",
                 "tasks": [
                     {
-                        "name": "& Lifestyle ~"
+                        "name": "& Lifestyle"
                     },
                     {
                         "name": "Hydration - Units of Water",
@@ -332,7 +332,24 @@
     "10/19/2024": {
         "activities": [
             {
-                "name": "FLUSH Bo"
+                "name": "FLUSH",
+                "tasks": [
+                    {
+                        "name": "& Lifestyle"
+                    },
+                    {
+                        "name": "Hydration - Units of Water",
+                        "details": [
+                            "2 gallon challenge"
+                        ]
+                    },
+                    {
+                        "name": "Movement - Steps",
+                        "details": [
+                            "30 min walk outside-(Minimum)"
+                        ]
+                    }
+                ]
             }
         ]
     },
@@ -406,7 +423,7 @@
                         ]
                     },
                     {
-                        "name": "& Lifestyle ~"
+                        "name": "& Lifestyle"
                     },
                     {
                         "name": "Sleep - Hours",
@@ -1154,7 +1171,7 @@
                         ]
                     },
                     {
-                        "name": "& Lifestyle ~"
+                        "name": "& Lifestyle"
                     },
                     {
                         "name": "Sleep - Hours",
@@ -1272,7 +1289,7 @@
                         ]
                     },
                     {
-                        "name": "15 minute Mixed Modal x",
+                        "name": "15 minute Mixed Modal",
                         "details": [
                             "15 minute at sustained pace (Quality)",
                             "20 second hollow hold (pressing low back",
@@ -1367,7 +1384,7 @@
                         ]
                     },
                     {
-                        "name": "Opex work x",
+                        "name": "Opex work",
                         "details": [
                             "10 minute Assault bike for max calories.",
                             "Do your best, think about your strategy before",
@@ -1382,8 +1399,10 @@
     "11/19/2024": {
         "activities": [
             {
-                "name": "Bo",
                 "tasks": [
+                    {
+                        "name": "@ OpexBody/Move ~<"
+                    },
                     {
                         "name": "Weight",
                         "details": [
@@ -1423,7 +1442,7 @@
                         ]
                     },
                     {
-                        "name": "15 minute Mixed Modal x",
+                        "name": "15 minute Mixed Modal",
                         "details": [
                             "15 minute at sustained pace (Quality)",
                             "20 second hollow hold (pressing low back",
@@ -1458,7 +1477,7 @@
                         ]
                     },
                     {
-                        "name": "Active Straight Leg Raise v Assessment",
+                        "name": "Active Straight Leg Raise Assessment",
                         "details": [
                             "Film from a 45 degree angle",
                             "3-5 reps per side",
@@ -1519,7 +1538,7 @@
                         ]
                     },
                     {
-                        "name": "Opex work x",
+                        "name": "Opex work",
                         "details": [
                             "10 minute Assault bike for max calories.",
                             "Do your best, think about your strategy before",
@@ -1534,7 +1553,7 @@
     "11/25/2024": {
         "activities": [
             {
-                "name": "Exercise Bo",
+                "name": "Exercise",
                 "tasks": [
                     {
                         "name": "Front Squat",
@@ -1572,7 +1591,7 @@
                         ]
                     },
                     {
-                        "name": "Extended Side Plank x",
+                        "name": "Extended Side Plank",
                         "details": [
                             "AMSAP/side x 3 sets; rest 2 min",
                             "*start on weaker side each set-match on",
@@ -1586,7 +1605,7 @@
     "11/26/2024": {
         "activities": [
             {
-                "name": "RestDay v Bo",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -1616,7 +1635,7 @@
                         ]
                     },
                     {
-                        "name": "Goblet Lateral Box Step Down x",
+                        "name": "Goblet Lateral Box Step Down",
                         "details": [
                             "@3011, 10/side x 3 sets; rest 2 min"
                         ]
@@ -1635,7 +1654,7 @@
                         ]
                     },
                     {
-                        "name": "Goblet Lateral Box Step Down x",
+                        "name": "Goblet Lateral Box Step Down",
                         "details": [
                             "@3011, 10/side x 3 sets; rest 2 min"
                         ]
@@ -1667,7 +1686,7 @@
             {
                 "tasks": [
                     {
-                        "name": "@ Happy Thanksgiving! ~"
+                        "name": "@ Happy Thanksgiving!"
                     },
                     {
                         "name": "Family TIme"
@@ -1707,7 +1726,7 @@
                         ]
                     },
                     {
-                        "name": "GHD Hip Extension x",
+                        "name": "GHD Hip Extension",
                         "details": [
                             "@3011, AMRAP x 3 sets; rest 2 min"
                         ]
@@ -1725,7 +1744,7 @@
     "11/30/2024": {
         "activities": [
             {
-                "name": "RestDay -",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -1740,7 +1759,7 @@
     "12/1/2024": {
         "activities": [
             {
-                "name": "RestDay -",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -1764,7 +1783,7 @@
                         ]
                     },
                     {
-                        "name": "Bent Over Barbell Row v",
+                        "name": "Bent Over Barbell Row",
                         "details": [
                             "@3111, 8 reps x 3 sets; rest 2:30"
                         ]
@@ -1783,7 +1802,7 @@
                         ]
                     },
                     {
-                        "name": "Goblet Cable Front Foot Elevated Vv"
+                        "name": "Goblet Cable Front Foot Elevated"
                     },
                     {
                         "name": "Split Squat",
@@ -1807,7 +1826,7 @@
     "12/3/2024": {
         "activities": [
             {
-                "name": "RestDay -",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -1878,7 +1897,7 @@
     "12/5/2024": {
         "activities": [
             {
-                "name": "RestDay -",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -1896,7 +1915,7 @@
                 "name": "Exercise",
                 "tasks": [
                     {
-                        "name": "Dumbbell Reverse Lunge v",
+                        "name": "Dumbbell Reverse Lunge",
                         "details": [
                             "@3111, 7-8/side x 3 sets; rest 30 sec bt",
                             "sides/2:30 bt sets"
@@ -1906,7 +1925,7 @@
                         ]
                     },
                     {
-                        "name": "Dumbbell Pullover v",
+                        "name": "Dumbbell Pullover",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30"
                         ],
@@ -1923,7 +1942,7 @@
                         ]
                     },
                     {
-                        "name": "Single Arm Dumbbell Bench Press vv",
+                        "name": "Single Arm Dumbbell Bench Press",
                         "details": [
                             "@3011, 8-10/side x 3 sets; rest 2 min",
                             "115 ouch!"
@@ -1969,7 +1988,7 @@
     "12/8/2024": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -1994,7 +2013,7 @@
                         ]
                     },
                     {
-                        "name": "Bent Over Dumbbell Row v",
+                        "name": "Bent Over Dumbbell Row",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30",
                             "110 lb each",
@@ -2038,7 +2057,7 @@
     "12/10/2024": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -2112,7 +2131,7 @@
     "12/12/2024": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -2130,7 +2149,7 @@
                 "name": "Exercise BO",
                 "tasks": [
                     {
-                        "name": "Dumbbell Reverse Lunge v",
+                        "name": "Dumbbell Reverse Lunge",
                         "details": [
                             "@3111, 7-8/side x 3 sets; rest 30 sec bt",
                             "sides/2:30 bt sets"
@@ -2140,7 +2159,7 @@
                         ]
                     },
                     {
-                        "name": "Dumbbell Pullover v",
+                        "name": "Dumbbell Pullover",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30"
                         ],
@@ -2156,7 +2175,7 @@
                         ]
                     },
                     {
-                        "name": "Single Arm Dumbbell Bench Press vv",
+                        "name": "Single Arm Dumbbell Bench Press",
                         "details": [
                             "@3011, 8-10/side x 3 sets; rest 2 min"
                         ],
@@ -2188,7 +2207,7 @@
             {
                 "tasks": [
                     {
-                        "name": "@ BodyPump ~"
+                        "name": "@ BodyPump"
                     },
                     {
                         "name": "ENJOY!"
@@ -2200,7 +2219,7 @@
     "12/15/2024": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -2215,7 +2234,7 @@
     "12/16/2024": {
         "activities": [
             {
-                "name": "Exercise v Bi",
+                "name": "Exercise",
                 "tasks": [
                     {
                         "name": "Dumbbell Front squat",
@@ -2227,7 +2246,7 @@
                         ]
                     },
                     {
-                        "name": "Dumbbell Bent Over Row to Hip v",
+                        "name": "Dumbbell Bent Over Row to Hip",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30"
                         ],
@@ -2251,7 +2270,7 @@
                         ]
                     },
                     {
-                        "name": "Goblet Cable Front Foot Elevated Vv"
+                        "name": "Goblet Cable Front Foot Elevated"
                     },
                     {
                         "name": "Split Squat",
@@ -2335,7 +2354,7 @@
     "12/19/2024": {
         "activities": [
             {
-                "name": "RestDay -",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -2350,10 +2369,10 @@
     "12/20/2024": {
         "activities": [
             {
-                "name": "Exercise v Bi",
+                "name": "Exercise",
                 "tasks": [
                     {
-                        "name": "Dumbbell Reverse Lunge v",
+                        "name": "Dumbbell Reverse Lunge",
                         "details": [
                             "@3111, 7/side x 3 sets; rest 30 sec bt sides/",
                             "2:30 bt sets"
@@ -2363,7 +2382,7 @@
                         ]
                     },
                     {
-                        "name": "Dumbbell Pullover v",
+                        "name": "Dumbbell Pullover",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30"
                         ],
@@ -2379,7 +2398,7 @@
                         ]
                     },
                     {
-                        "name": "Single Arm Dumbbell Bench Press vv",
+                        "name": "Single Arm Dumbbell Bench Press",
                         "details": [
                             "@3011, 8/side x 3 sets; rest 2 min",
                             "15 did lying flat on a mat so I had better arm",
@@ -2428,7 +2447,7 @@
     "12/22/2024": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -2453,7 +2472,7 @@
                         ]
                     },
                     {
-                        "name": "Dumbbell Bent Over Row to Hip v",
+                        "name": "Dumbbell Bent Over Row to Hip",
                         "details": [
                             "@3111, 8 reps x 3 sets; rest 2:30",
                             "15lb"
@@ -2478,7 +2497,7 @@
                         ]
                     },
                     {
-                        "name": "Dumbbell Front Foot Elevated v"
+                        "name": "Dumbbell Front Foot Elevated"
                     },
                     {
                         "name": "Split Squat",
@@ -2507,7 +2526,7 @@
             {
                 "tasks": [
                     {
-                        "name": "@ Merry ChristmasEve ~"
+                        "name": "@ Merry ChristmasEve"
                     },
                     {
                         "name": "Walk",
@@ -2595,7 +2614,7 @@
     "12/27/2024": {
         "activities": [
             {
-                "name": "Exercise Bo",
+                "name": "Exercise",
                 "tasks": [
                     {
                         "name": "Split Squat",
@@ -2652,7 +2671,7 @@
     "12/28/2024": {
         "activities": [
             {
-                "name": "RestDay -",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -2667,7 +2686,7 @@
     "12/29/2024": {
         "activities": [
             {
-                "name": "RestDay -",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -2694,7 +2713,7 @@
                         ]
                     },
                     {
-                        "name": "Supinated Bent Over Barbell Row Vv",
+                        "name": "Supinated Bent Over Barbell Row",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30",
                             "45 bar"
@@ -2715,7 +2734,7 @@
                         ]
                     },
                     {
-                        "name": "Dumbbell Front Foot Elevated v"
+                        "name": "Dumbbell Front Foot Elevated"
                     },
                     {
                         "name": "Split Squat",
@@ -2741,7 +2760,7 @@
     "12/31/2024": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -2756,8 +2775,34 @@
     "1/1/2025": {
         "activities": [
             {
-                "name": "HappyNew Bi",
+                "name": "HappyNew",
                 "tasks": [
+                    {
+                        "name": "Smith Machine Deadlift",
+                        "details": [
+                            "@3111, 7-8 reps x 3 sets; rest 2:30",
+                            "Used 45 lb",
+                            "Close to thighs bend knees"
+                        ]
+                    },
+                    {
+                        "name": "Glute Bridge Dumbbell Floor Press",
+                        "details": [
+                            "@3111, 7-8 reps x 3 sets; rest 2:30"
+                        ],
+                        "comments": [
+                            "15 lb, 20"
+                        ]
+                    },
+                    {
+                        "name": "Goblet Russian Step-Up",
+                        "details": [
+                            "20",
+                            "@3011, 8-10/side x 3 sets; rest 2 min",
+                            "No weight",
+                            "Concentrate strength from first leg on table"
+                        ]
+                    },
                     {
                         "name": "Cable Lat Pulldown",
                         "details": [
@@ -2787,7 +2832,7 @@
     "1/2/2025": {
         "activities": [
             {
-                "name": "RestDay -",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -2857,7 +2902,7 @@
     "1/4/2025": {
         "activities": [
             {
-                "name": "s Mondays -",
+                "name": "s Mondays -v",
                 "tasks": [
                     {
                         "name": "Back Squat",
@@ -2867,7 +2912,7 @@
                         ]
                     },
                     {
-                        "name": "Supinated Bent Over Barbell Row Vv",
+                        "name": "Supinated Bent Over Barbell Row",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30"
                         ],
@@ -2890,7 +2935,7 @@
                         ]
                     },
                     {
-                        "name": "Dumbbell Front Foot Elevated v"
+                        "name": "Dumbbell Front Foot Elevated"
                     },
                     {
                         "name": "Split Squat",
@@ -2918,8 +2963,24 @@
     "1/5/2025": {
         "activities": [
             {
-                "name": "Wednesdays Bo",
+                "name": "Wednesdays",
                 "tasks": [
+                    {
+                        "name": "Smith Machine Deadlift",
+                        "details": [
+                            "@3111, 7-8 reps x 3 sets; rest 2:30"
+                        ],
+                        "comments": [
+                            "45"
+                        ]
+                    },
+                    {
+                        "name": "Glute Bridge Dumbbell Floor Press",
+                        "details": [
+                            "@3111, 7-8 reps x 3 sets; rest 2:30",
+                            "20"
+                        ]
+                    },
                     {
                         "name": "Goblet Russian Step-Up",
                         "details": [
@@ -2982,7 +3043,6 @@
                     {
                         "name": "Seated Alternating Dumbbell Press",
                         "details": [
-                            "Home",
                             "@3111, 7-8 reps x 3 sets; rest 2:30"
                         ]
                     },
@@ -3030,7 +3090,7 @@
     "1/7/2025": {
         "activities": [
             {
-                "name": "RestDay -",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -3092,7 +3152,7 @@
     "1/9/2025": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -3162,7 +3222,7 @@
     "1/11/2025": {
         "activities": [
             {
-                "name": "RestDay -",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -3177,7 +3237,7 @@
     "1/12/2025": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -3192,10 +3252,10 @@
     "1/13/2025": {
         "activities": [
             {
-                "name": "Exercise v Bo",
+                "name": "Exercise",
                 "tasks": [
                     {
-                        "name": "Front Rack Dumbbell Elevator v Squat",
+                        "name": "Front Rack Dumbbell Elevator Squat",
                         "details": [
                             "3x 10 Reps",
                             "10lb",
@@ -3253,7 +3313,7 @@
     "1/15/2025": {
         "activities": [
             {
-                "name": "Exercise Bo",
+                "name": "Exercise",
                 "tasks": [
                     {
                         "name": "Dumbbell Deadlift g",
@@ -3279,7 +3339,7 @@
                         ]
                     },
                     {
-                        "name": "Dumbbell Pullover v",
+                        "name": "Dumbbell Pullover",
                         "details": [
                             "3x10 @ 3011"
                         ],
@@ -3376,7 +3436,7 @@
     "1/18/2025": {
         "activities": [
             {
-                "name": "Movement v",
+                "name": "Movement",
                 "tasks": [
                     {
                         "name": "Hip CARs",
@@ -3391,12 +3451,11 @@
     "1/19/2025": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
                         "details": [
-                            "CALENDAR",
                             "Get outside, move, and enjoy some active recovery."
                         ]
                     }
@@ -3407,7 +3466,7 @@
     "1/20/2025": {
         "activities": [
             {
-                "name": "Exercise v Bo",
+                "name": "Exercise",
                 "tasks": [
                     {
                         "name": "Back Squat",
@@ -3419,7 +3478,7 @@
                         ]
                     },
                     {
-                        "name": "Supinated Bent Over Barbell Row Vv",
+                        "name": "Supinated Bent Over Barbell Row",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30"
                         ],
@@ -3446,7 +3505,7 @@
                         ]
                     },
                     {
-                        "name": "Dumbbell Front Foot Elevated v"
+                        "name": "Dumbbell Front Foot Elevated"
                     },
                     {
                         "name": "Split Squat",
@@ -3471,7 +3530,7 @@
     "1/21/2025": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -3486,10 +3545,10 @@
     "1/22/2025": {
         "activities": [
             {
-                "name": "Exercise v Bo",
+                "name": "Exercise",
                 "tasks": [
                     {
-                        "name": "Smith Machine Deadlift y",
+                        "name": "Smith Machine Deadlift",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30"
                         ],
@@ -3543,7 +3602,7 @@
     "1/23/2025": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -3616,7 +3675,7 @@
     "1/25/2025": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -3631,7 +3690,7 @@
     "1/26/2025": {
         "activities": [
             {
-                "name": "RestDay v Bo",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -3658,7 +3717,7 @@
                         ]
                     },
                     {
-                        "name": "Supinated Bent Over Barbell Row Vv",
+                        "name": "Supinated Bent Over Barbell Row",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30",
                             "45"
@@ -3683,7 +3742,7 @@
                         ]
                     },
                     {
-                        "name": "Dumbbell Front Foot Elevated v"
+                        "name": "Dumbbell Front Foot Elevated"
                     },
                     {
                         "name": "Split Squat",
@@ -3707,7 +3766,7 @@
     "1/28/2025": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -3722,10 +3781,10 @@
     "1/29/2025": {
         "activities": [
             {
-                "name": "Exercise v Bo",
+                "name": "Exercise",
                 "tasks": [
                     {
-                        "name": "Smith Machine Deadlift y",
+                        "name": "Smith Machine Deadlift",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30"
                         ],
@@ -3953,7 +4012,6 @@
     "2/10/2025": {
         "activities": [
             {
-                "name": "- Bi",
                 "tasks": [
                     {
                         "name": "DB bent knee RDL (glute bias)",
@@ -3968,7 +4026,7 @@
                         ]
                     },
                     {
-                        "name": "Banded Single Arm Lat Pulldown =",
+                        "name": "Banded Single Arm Lat Pulldown",
                         "details": [
                             "*supinated grip",
                             "10 reps/side at 3010",
@@ -3985,7 +4043,7 @@
                         "details": [
                             "*Or booty builder",
                             "*note that you are only moving around 4-5",
-                            "inches from bottom to top of contraction -",
+                            "inches from bottom to top of contraction",
                             "this is very slow and controlled",
                             "10 reps at 3010, rest 60s x 3",
                             "last set to failure",
@@ -4003,7 +4061,7 @@
                         ]
                     },
                     {
-                        "name": "Prone DB Reverse Fly v",
+                        "name": "Prone DB Reverse Fly",
                         "details": [
                             "3x 10 reps at 3010, rest 30s",
                             "no sets to failure",
@@ -4022,6 +4080,14 @@
                             "last set to failure"
                         ]
                     }
+                ],
+                "warmup": [
+                    "Glute/CoreWarm Up:",
+                    "2 Rounds",
+                    "20 SLOW alternating wall dead bugs (low back",
+                    "pushes into the wall)",
+                    "10 banded clamshells",
+                    "1 minute supine belly breathing"
                 ]
             }
         ]
@@ -4106,6 +4172,13 @@
                             "8 lb"
                         ]
                     }
+                ],
+                "warmup": [
+                    "2 rounds",
+                    "15 hops up and down (in place)",
+                    "4 depth jump to stick (start low and work up week by",
+                    "week)",
+                    "10 prone lift offs"
                 ]
             }
         ]
@@ -4113,7 +4186,7 @@
     "2/12/2025": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -4189,6 +4262,12 @@
                             "25"
                         ]
                     }
+                ],
+                "warmup": [
+                    "3 Rounds",
+                    "10 side plank to clamshell with hold /side",
+                    "10 lateral banded walk/side",
+                    "30 walking lunge- no tempo"
                 ]
             }
         ]
@@ -4196,7 +4275,7 @@
     "2/14/2025": {
         "activities": [
             {
-                "name": "Systemic min v Bo",
+                "name": "Systemic min",
                 "tasks": [
                     {
                         "name": "low cable lateral raise",
@@ -4231,7 +4310,7 @@
                         ]
                     },
                     {
-                        "name": "Reverse Crunch v",
+                        "name": "Reverse Crunch",
                         "details": [
                             "3x10 reps at 3010, rest 30s"
                         ]
@@ -4243,6 +4322,13 @@
                             "10 each hard"
                         ]
                     }
+                ],
+                "warmup": [
+                    "2 Rounds",
+                    "5 way hips x 5 each way",
+                    "5 SLOW sciatic nerve floss/side",
+                    "30 second wall sit - push low back into the floor",
+                    "5 yoga push up"
                 ]
             }
         ]
@@ -4250,7 +4336,7 @@
     "2/15/2025": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -4265,7 +4351,7 @@
     "2/16/2025": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -4294,7 +4380,7 @@
                         ]
                     },
                     {
-                        "name": "Banded Single Arm Lat Pulldown =",
+                        "name": "Banded Single Arm Lat Pulldown",
                         "details": [
                             "*supinated grip",
                             "10 reps/side at 3010",
@@ -4312,7 +4398,7 @@
                         "details": [
                             "*Or booty builder",
                             "*note that you are only moving around 4-5",
-                            "inches from bottom to top of contraction -",
+                            "inches from bottom to top of contraction",
                             "this is very slow and controlled",
                             "10 reps at 3010, rest 60s x 3",
                             "last set to failure",
@@ -4323,7 +4409,7 @@
                         ]
                     },
                     {
-                        "name": "Prone DB Reverse Fly v",
+                        "name": "Prone DB Reverse Fly",
                         "details": [
                             "3x 10 reps at 3010, rest 30s",
                             "no sets to failure",
@@ -4342,6 +4428,14 @@
                             "last set to failure"
                         ]
                     }
+                ],
+                "warmup": [
+                    "Glute/CoreWarm Up:",
+                    "2 Rounds",
+                    "20 SLOW alternating wall dead bugs (low back",
+                    "pushes into the wall)",
+                    "10 banded clamshells",
+                    "1 minute supine belly breathing"
                 ]
             }
         ]
@@ -4426,6 +4520,13 @@
                             "last set to failure"
                         ]
                     }
+                ],
+                "warmup": [
+                    "2 rounds",
+                    "15 hops up and down (in place)",
+                    "4 depth jump to stick (start low and work up week by",
+                    "week)",
+                    "10 prone lift offs"
                 ]
             }
         ]
@@ -4433,7 +4534,7 @@
     "2/19/2025": {
         "activities": [
             {
-                "name": "RestDay",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -4476,7 +4577,7 @@
                         ]
                     },
                     {
-                        "name": "Rear Foot Elevated Split Squat v",
+                        "name": "Rear Foot Elevated Split Squat",
                         "details": [
                             "3x10 reps/leg at 3010 (hold weight in",
                             "opposite hand), rest 60s",
@@ -4518,6 +4619,12 @@
                             "No weight"
                         ]
                     }
+                ],
+                "warmup": [
+                    "3 Rounds",
+                    "10 side plank to clamshell with hold /side",
+                    "10 lateral banded walk/side",
+                    "30 walking lunge- no tempo"
                 ]
             }
         ]
@@ -4552,6 +4659,13 @@
                             "3x10 reps at 3010, rest 30s"
                         ]
                     }
+                ],
+                "warmup": [
+                    "2 Rounds",
+                    "5 way hips x 5 each way",
+                    "5 SLOW sciatic nerve floss/side",
+                    "30 second wall sit - push low back into the floor",
+                    "5 yoga push up"
                 ]
             }
         ]
@@ -4559,7 +4673,7 @@
     "2/22/2025": {
         "activities": [
             {
-                "name": "Rest Day Bo",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -4574,7 +4688,7 @@
     "2/23/2025": {
         "activities": [
             {
-                "name": "Rest Day Bo",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -4603,7 +4717,7 @@
                         ]
                     },
                     {
-                        "name": "Banded Single Arm Lat Pulldown =",
+                        "name": "Banded Single Arm Lat Pulldown",
                         "details": [
                             "*supinated grip",
                             "10 reps/side at 3010",
@@ -4620,7 +4734,7 @@
                         "details": [
                             "*Or booty builder",
                             "*note that you are only moving around 4-5",
-                            "inches from bottom to top of contraction -",
+                            "inches from bottom to top of contraction",
                             "this is very slow and controlled",
                             "10 reps at 3010, rest 60s x 3",
                             "last set to failure",
@@ -4638,7 +4752,7 @@
                         ]
                     },
                     {
-                        "name": "Prone DB Reverse Fly v",
+                        "name": "Prone DB Reverse Fly",
                         "details": [
                             "3x 10 reps at 3010, rest 30s",
                             "no sets to failure",
@@ -4658,6 +4772,14 @@
                             "last set to failure"
                         ]
                     }
+                ],
+                "warmup": [
+                    "Glute/CoreWarm Up:",
+                    "2 Rounds",
+                    "20 SLOW alternating wall dead bugs (low back",
+                    "pushes into the wall)",
+                    "10 banded clamshells",
+                    "1 minute supine belly breathing"
                 ]
             }
         ]
@@ -4665,7 +4787,6 @@
     "2/25/2025": {
         "activities": [
             {
-                "name": "v Bi",
                 "tasks": [
                     {
                         "name": "Neutral Grip Shoulder Press Machine",
@@ -4696,7 +4817,7 @@
                         ]
                     },
                     {
-                        "name": "Smith Machine Reverse Lunge v",
+                        "name": "Smith Machine Reverse Lunge",
                         "details": [
                             "*No need to add weight at first",
                             "3x8 reps/leg at 3010, rest 60s",
@@ -4729,6 +4850,13 @@
                             "last set to failure"
                         ]
                     }
+                ],
+                "warmup": [
+                    "2 rounds",
+                    "15 hops up and down (in place)",
+                    "4 depth jump to stick (start low and work up week by",
+                    "week)",
+                    "10 prone lift offs"
                 ]
             }
         ]
@@ -4736,7 +4864,7 @@
     "2/26/2025": {
         "activities": [
             {
-                "name": "RestDay v Bo",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -4775,7 +4903,7 @@
                         ]
                     },
                     {
-                        "name": "Rear Foot Elevated Split Squat v",
+                        "name": "Rear Foot Elevated Split Squat",
                         "details": [
                             "3x10 reps/leg at 3010 (hold weight in",
                             "opposite hand), rest 60s",
@@ -4830,6 +4958,12 @@
                             "10lb"
                         ]
                     }
+                ],
+                "warmup": [
+                    "3 Rounds",
+                    "10 side plank to clamshell with hold /side",
+                    "10 lateral banded walk/side",
+                    "30 walking lunge- no tempo"
                 ]
             }
         ]
@@ -4851,25 +4985,16 @@
                         "name": "Roman Chair Back Extensionfor Glutes",
                         "details": [
                             "3x10 reps at 3010, rest 30s",
-                            "Holding 10",
-                            "Reverse Crunch v",
-                            "3x10 reps at 3010, rest 30s",
-                            "front rack KB march",
-                            "3x20 steps",
-                            "x icth+ Clava ctan.",
-                            "2:39 & aal! LTE EE)",
-                            "S] Move because you can, not because Bp",
-                            "you should.",
-                            "7 Glutes"
-                        ],
-                        "comments": [
                             "Holding 10"
                         ]
                     },
                     {
-                        "name": "Reverse Crunch v",
+                        "name": "Reverse Crunch",
                         "details": [
-                            "3x10 reps at 3010, rest 30s"
+                            "3x10 reps at 3010, rest 30s",
+                            "front rack KB march",
+                            "3x20 steps",
+                            "x icth+ Clava ctan."
                         ]
                     },
                     {
@@ -4880,6 +5005,13 @@
                             "10,15,15"
                         ]
                     }
+                ],
+                "warmup": [
+                    "2 Rounds",
+                    "5 way hips x 5 each way",
+                    "5 SLOW sciatic nerve floss/side",
+                    "30 second wall sit - push low back into the floor",
+                    "5 yoga push up"
                 ]
             }
         ]
@@ -4887,7 +5019,7 @@
     "3/1/2025": {
         "activities": [
             {
-                "name": "Rest Day Bo",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
@@ -4902,7 +5034,7 @@
     "3/2/2025": {
         "activities": [
             {
-                "name": "Rest Day Bo",
+                "name": "Rest Day",
                 "tasks": [
                     {
                         "name": "It's a rest day!",
