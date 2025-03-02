@@ -25,12 +25,12 @@ rxs = {
     }
 }
 '''
-g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-']
+g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)']
 
 def main():
     #createTxtFilesFromImages()
-    #createRxs()
-    loadWarmups()
+    createRxs()
+    #loadWarmups()
 
 def createRxs():
     rxs = {}
@@ -91,24 +91,10 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
         if not line.strip() or any(ext in line for ext in ['©', '®', 'tt a @']) or line.strip() in g_garbage_lines:
             is_prev_task_name = False
             continue
-        task_name_index = line.find(')')
-        if line.find('lbs)') + 3 == task_name_index:
-            task_name_index = -1
-        if '30s' in line or '60s' in line:
-            task_name_index = -1
-        if task_name_index == -1:
-            rest_index = line.find('rest day')
-            if rest_index != -1:
-                task_name_index = 0
-                line = ' ' + line[:rest_index] + ' ' + line[rest_index:]
-        if task_name_index == -1:
-            clean_line = cleanUpName(line)
-            if isSentenceCase(clean_line):
-                task_name_index = 0
-                line = ' ' + line
-        if task_name_index != -1: # Start of task name
-            task_name = line[task_name_index+1:].strip()
-            task_name = cleanUpName(task_name)
+        line = line.strip()
+        line = cleanUpName(line)
+        task_name = getTaskName(line)
+        if task_name: # Start of task name
             if not task_name or any(ext in task_name for ext in ['©']):
                 continue
             is_prev_task_name = True
@@ -128,17 +114,17 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
         else: # Lines of description and comments
             if 'tasks' not in activity:
                     continue
-            index = task_list.index(line)
+            index = task_list.index(line) if line in task_list else -1
             # Comment
             count = 1
             next_real_line = ''
-            while index + count < len(task_list) - 1:
+            while index != -1 and index + count < len(task_list) - 1:
                 next_real_line = task_list[index + count]
                 if not next_real_line.strip():
                     count += 1
                 else:
                     break
-            if index < len(task_list) - 1 and next_real_line.find(')') != -1 and not isDescription(line):
+            if index != -1 and index < len(task_list) - 1 and next_real_line.find(')') != -1 and not isDescription(line):
                 if 'comments' not in activity['tasks'][-1]:
                     activity['tasks'][-1]['comments'] = [line.strip()]
                 else:
@@ -156,22 +142,20 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
 
 def getTaskName(line):
     task_name_index = line.find(')')
-    if line.find('lbs)') + 3 == task_name_index:
+    if 'lbs)' in line:
         return ''
     if '30s' in line or '60s' in line:
         return ''
     rest_index = line.find('rest day')
     if rest_index != -1:
-        task_name_index = 0
-        line = ' ' + line[:rest_index] + ' ' + line[rest_index:]
-    if task_name_index == -1:
-        clean_line = cleanUpName(line)
-        if isSentenceCase(clean_line):
-            task_name_index = 0
-            line = ' ' + line
-    task_name = line[task_name_index+1:].strip()
-    task_name = cleanUpName(task_name)
-    return task_name
+        line = line[:rest_index] + ' ' + line[rest_index:]
+        return line
+    if isSentenceCase(line):
+        return line
+    if task_name_index != -1:
+        return line[task_name_index+1:].strip()
+    return ''
+
 def isDescription(line):
     if len(line) > 10 or line.find('x3 sets') != -1 or line.find('rest 30') != -1 or line.find('3x10 @') != -1 or line.find('3x10') != -1 or line.find('30 bt sets') != -1 or line.find('*Weight optional') != -1 or line.find('record time') != -1 or line.find('log weight') != -1 or line.find('Chest') != -1 or line.find('Min 30min') != -1 or line.find('Log below') != -1:
         return True
