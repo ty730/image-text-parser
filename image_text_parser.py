@@ -30,8 +30,8 @@ known_tasks = ['Standing cable rear delt fly', 'Facing away dual cable curl']
 
 def main():
     #createTxtFilesFromImages()
-    createRxs()
-    #loadWarmups()
+    #createRxs()
+    loadWarmups()
 
 def createRxs():
     rxs = {}
@@ -97,7 +97,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
         line = line.strip()
         line = cleanUpName(line)
         task_name = getTaskName(line)
-        if task_name: # Start of task name
+        if task_name and not is_prev_task_name: # Start of task name
             if not task_name or any(ext in task_name for ext in ['©']):
                 continue
             is_prev_task_name = True
@@ -110,11 +110,13 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
                 activity['tasks'] = [{ 'name': task_name }]
             else:
                 activity['tasks'].append({ 'name': task_name })
-        elif is_prev_task_name and line[:1].isupper(): # End of task name
+        elif is_prev_task_name and (line[:1].isupper() or ('Split Squat' in line)): # End of task name
             if is_existing_task:
                 continue
             activity['tasks'][-1]['name'] += ' ' + line.strip()
+            is_prev_task_name = False
         else: # Lines of description and comments
+            is_prev_task_name = False
             if 'tasks' not in activity:
                     continue
             index = task_list.index(line) if line in task_list else -1
@@ -264,7 +266,7 @@ def removeUnrelatedText(text, activity_name):
     return text
 
 def cleanUpName(name):
-    bad_endings = [' =v', 'Vv', ' v', ' vv', ' x', 'v Bo', 'Bo', '- Bi', 'v Bi', 'Bi', '=', '~', '&', ' -', ' y']
+    bad_endings = [' =v', 'Vv', ' v', ' vv', ' x', 'v Bo', 'Bo', '- Bi', 'v Bi', 'Bi', '=', '~', '&', ' -', ' y', 'v Ho', ' BO', ' -v']
     for end in bad_endings:
         if name.endswith(end):
             name = name[:len(name) - len(end)].strip()
