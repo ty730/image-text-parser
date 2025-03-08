@@ -16,6 +16,7 @@ rxs = {
                 'tasks': [
                     {
                     'name': 'Dumbbell Incline Skull Crusher'
+                    'video': 'https://youtu.be/asdf'
                     'details': ['3x10 reps at 3010, rest 30s', '*Take this to a floor press if you need help']
                     'comments': 'no weight'
                     }
@@ -25,8 +26,9 @@ rxs = {
     }
 }
 '''
-g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)', 'YOUR DAILY RX', 'Home', 'CALENDAR']
-known_tasks = ['Standing cable rear delt fly', 'Facing away dual cable curl']
+g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)', 'YOUR DAILY RX', 'Home', 'CALENDAR', '201N ract 2Ne']
+known_tasks = ['Standing cable rear delt fly', 'Facing away dual cable curl', 'Wide grip upper back pull down']
+known_comments = ['10,15,15']
 exercise_videos = {
     "seated low cable row": "https://youtu.be/J9h9AZnXXpo",
     "lying hamstring curl": "https://youtu.be/jxctD6fL_FQ",
@@ -98,7 +100,27 @@ exercise_videos = {
     "dumbbell 3 point row": "https://youtu.be/iLhwICt4R9A",
     "dumbbell external rotation": "https://youtu.be/t5Ft8OMG_D8",
     "dumbbell split squat": "https://youtu.be/Wcmg-3iHwjQ",
-    "2 point bird dog": "https://youtu.be/FWjz8ozyVq8"
+    "2 point bird dog": "https://youtu.be/FWjz8ozyVq8",
+    "seated calf raise machine": "https://youtu.be/2Q-HQ3mnePg",
+    "db bent knee rdl (glute bias)": "https://youtu.be/WIcpu2UkJoY",
+    "wide grip upper back pull down": "https://youtu.be/g6wTsj0sj5s",
+    "weighted ghd hip extension": "https://youtu.be/CHRbTdJF_0M",
+    "barbell split squat": "https://youtu.be/iHkBjcx9CiQ",
+    "decline weighted sit-up": "https://youtu.be/PhvG-BQgnBU",
+    "cable single arm external rotation": "https://youtu.be/3DMyOwvPbIE",
+    "supinated bent over barbell row": "https://youtu.be/ribtD2d8cs4",
+    "back squat": "https://youtu.be/j-KDHkRMer0",
+    "dumbbell pullover": "https://youtu.be/CSkSflHdC3A",
+    "dumbbell deadlift": "https://youtu.be/zfuc5ynsTlc",
+    "med ball side plank": "https://youtu.be/AjuVhICRSkc",
+    "cable cyclist goblet squat": "https://youtu.be/3-jDnH1noxI",
+    "single arm cable lat pulldown machine": "https://youtu.be/HBC5s98wXko",
+    "dumbbell floor press": "https://youtu.be/jjlekYs1cfQ",
+    "bent over dumbbell row": "https://youtu.be/aVH_cG4UISc",
+    "dumbbell front squat": "https://youtu.be/7CuKlSgu1B0",
+    "single arm dumbbell bench press": "https://youtu.be/q3cXdiyY7-Q",
+    "dumbbell reverse lunge": "https://youtu.be/Q2k3kYbtOcI",
+    "seated dumbbell press": "https://youtu.be/RgkzQ008m3I"
 }
 
 def main():
@@ -161,6 +183,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
     if activity_name:
         activity['name'] = activity_name
     is_prev_task_name = False
+    is_prev_failure = False
     num_tasks = 0
     task_list = text.split('\n')
     for line in task_list:
@@ -175,6 +198,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
                 continue
             task_name = fixTaskName(task_name)
             is_prev_task_name = True
+            is_prev_failure = False
             num_tasks += 1
             if num_tasks > 1:
                 is_existing_task = False
@@ -191,6 +215,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
                 continue
             activity['tasks'][-1]['name'] += ' ' + line.strip()
             is_prev_task_name = False
+            is_prev_failure = False
             # youtube video
             activity['tasks'][-1]['video'] = getVideo(activity['tasks'][-1]['name'])
         else: # Lines of description and comments
@@ -207,7 +232,8 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
                     count += 1
                 else:
                     break
-            if index != -1 and index < len(task_list) - 1 and next_real_line.find(')') != -1 and not isDescription(line):
+            if (is_prev_failure and not isDescription(line)) or (index != -1 and index < len(task_list) - 1 and next_real_line.find(')') != -1 and not isDescription(line)):
+                is_prev_failure = False
                 if 'comments' not in activity['tasks'][-1]:
                     activity['tasks'][-1]['comments'] = [line.strip()]
                 else:
@@ -216,6 +242,8 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
                     activity['tasks'][-1]['comments'].append(line.strip())
             else: # Description
                 line = cleanUpName(line).strip()
+                if 'fail' in line:
+                    is_prev_failure = True
                 if 'details' not in activity['tasks'][-1]:
                     activity['tasks'][-1]['details'] = [line.strip()]
                 else:
@@ -225,6 +253,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
 
 def getTaskName(line):
     task_name_index = line.find(')')
+    is_task_name = False
     if 'lbs)' in line:
         return ''
     if '30s' in line or '60s' in line:
@@ -236,15 +265,28 @@ def getTaskName(line):
     if isSentenceCase(line):
         if task_name_index != -1:
             line = line[task_name_index+1:].strip()
+        is_task_name = True
+    elif task_name_index != -1:
+        line = line[task_name_index+1:].strip()
+        is_task_name = True
+    elif any(name in line for name in known_tasks):
+        is_task_name = True
+    if is_task_name:
+        bad_starts = ['_']
+        for start in bad_starts:
+            if line.startswith(start):
+                line = line[len(start):].strip()
+                break
         return line
-    if task_name_index != -1:
-        return line[task_name_index+1:].strip()
     return ''
 
 def fixTaskName(task_name):
     index = task_name.find('Extensionfor')
     if index != -1:
         task_name = task_name[:index + 9] + ' ' + task_name[index + 9:]
+    index = task_name.find('BarbellRow')
+    if index != -1:
+        task_name = task_name[:index + 7] + ' ' + task_name[index + 7:]
     return task_name    
 
 def isDescription(line):
@@ -350,7 +392,7 @@ def removeUnrelatedText(text, activity_name):
     return text
 
 def cleanUpName(name):
-    bad_endings = [' =v', 'Vv', ' v', ' vv', ' x', 'v Bo', 'Bo', '- Bi', 'v Bi', 'Bi', '=', '~', '&', ' -', ' y', 'v Ho', ' BO', ' -v']
+    bad_endings = [' =v', 'Vv', ' v', ' vv', ' x', 'v Bo', 'Bo', '- Bi', 'v Bi', 'Bi', '=', '~', '&', ' -', ' y', 'v Ho', ' BO', ' -v', ' g', ' Al']
     for end in bad_endings:
         if name.endswith(end):
             name = name[:len(name) - len(end)].strip()

@@ -1748,7 +1748,7 @@
                     },
                     {
                         "name": "Seated Dumbbell Press",
-                        "video": "",
+                        "video": "https://youtu.be/RgkzQ008m3I",
                         "details": [
                             "@3011, 10 reps x 3 sets; rest 2 min",
                             "in"
@@ -1805,7 +1805,7 @@
                     },
                     {
                         "name": "Dumbbell Floor Press",
-                        "video": "",
+                        "video": "https://youtu.be/jjlekYs1cfQ",
                         "details": [
                             "@3111, 8 reps x 3 sets; rest 2:30"
                         ]
@@ -1819,7 +1819,7 @@
                     },
                     {
                         "name": "Single Arm Cable Lat Pulldown Machine",
-                        "video": "",
+                        "video": "https://youtu.be/HBC5s98wXko",
                         "details": [
                             "a ~ A",
                             "@3111, 8 reps x 3 sets; rest 2:30"
@@ -1827,7 +1827,7 @@
                     },
                     {
                         "name": "Dumbbell Floor Press",
-                        "video": "",
+                        "video": "https://youtu.be/jjlekYs1cfQ",
                         "details": [
                             "@3111, 8 reps x 3 sets; rest 2:30"
                         ]
@@ -1841,7 +1841,7 @@
                     },
                     {
                         "name": "Single Arm Cable Lat Pulldown Machine",
-                        "video": "",
+                        "video": "https://youtu.be/HBC5s98wXko",
                         "details": [
                             "@3011, 10 reps x 3 sets; rest 2 min"
                         ]
@@ -1887,7 +1887,7 @@
                 "tasks": [
                     {
                         "name": "Dumbbell Reverse Lunge",
-                        "video": "",
+                        "video": "https://youtu.be/Q2k3kYbtOcI",
                         "details": [
                             "@3111, 8/side x 3 sets; rest 30 sec bt sides/",
                             "2:30 bt sets"
@@ -1895,7 +1895,7 @@
                     },
                     {
                         "name": "Dumbbell Pullover",
-                        "video": "",
+                        "video": "https://youtu.be/CSkSflHdC3A",
                         "details": [
                             "@3111, 8 reps x 3 sets; rest 2:30"
                         ]
@@ -1909,7 +1909,7 @@
                     },
                     {
                         "name": "Single Arm Dumbbell Bench Press",
-                        "video": "",
+                        "video": "https://youtu.be/q3cXdiyY7-Q",
                         "details": [
                             "@3011, 10/side x 3 sets; rest 2 min"
                         ]
@@ -1992,7 +1992,7 @@
                     },
                     {
                         "name": "Seated Dumbbell Press",
-                        "video": "",
+                        "video": "https://youtu.be/RgkzQ008m3I",
                         "details": [
                             "@3011, 10 reps x 3 sets; rest 2 min",
                             "in"
@@ -2038,7 +2038,7 @@
     "12/4/2024": {
         "activities": [
             {
-                "name": "Exercise Al",
+                "name": "Exercise",
                 "tasks": [
                     {
                         "name": "Smith Machine Deadlift",
@@ -2050,7 +2050,7 @@
                     },
                     {
                         "name": "Dumbbell Floor Press",
-                        "video": "",
+                        "video": "https://youtu.be/jjlekYs1cfQ",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30",
                             "115 lb dumbbells"
@@ -2076,7 +2076,7 @@
                     },
                     {
                         "name": "Cable Cyclist Goblet Squat",
-                        "video": "",
+                        "video": "https://youtu.be/3-jDnH1noxI",
                         "details": [
                             "@3011, 8-10 reps x 3 sets; rest 2 min"
                         ],
@@ -2120,7 +2120,7 @@
                 "tasks": [
                     {
                         "name": "Dumbbell Reverse Lunge",
-                        "video": "",
+                        "video": "https://youtu.be/Q2k3kYbtOcI",
                         "details": [
                             "@3111, 7-8/side x 3 sets; rest 30 sec bt",
                             "sides/2:30 bt sets"
@@ -2131,7 +2131,7 @@
                     },
                     {
                         "name": "Dumbbell Pullover",
-                        "video": "",
+                        "video": "https://youtu.be/CSkSflHdC3A",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30"
                         ],
@@ -2150,7 +2150,7 @@
                     },
                     {
                         "name": "Single Arm Dumbbell Bench Press",
-                        "video": "",
+                        "video": "https://youtu.be/q3cXdiyY7-Q",
                         "details": [
                             "@3011, 8-10/side x 3 sets; rest 2 min",
                             "115 ouch!"
@@ -2228,7 +2228,7 @@
                     },
                     {
                         "name": "Bent Over Dumbbell Row",
-                        "video": "",
+                        "video": "https://youtu.be/aVH_cG4UISc",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30",
                             "110 lb each",
@@ -2239,7 +2239,7 @@
                     },
                     {
                         "name": "Seated Dumbbell Press",
-                        "video": "",
+                        "video": "https://youtu.be/RgkzQ008m3I",
                         "details": [
                             "@3011, 8-10 reps x 3 sets; rest 2 min",
                             "12",
@@ -2288,11 +2288,11 @@
     "12/11/2024": {
         "activities": [
             {
-                "name": "Exercise Al",
+                "name": "Exercise",
                 "tasks": [
                     {
                         "name": "Dumbbell Deadlift",
-                        "video": "",
+                        "video": "https://youtu.be/zfuc5ynsTlc",
                         "details": [
                             "@3111, 7- 8 reps x 3 sets; rest 2:30"
                         ],
@@ -2302,7 +2302,7 @@
                     },
                     {
                         "name": "Dumbbell Floor Press",
-                        "video": "",
+                        "video": "https://youtu.be/jjlekYs1cfQ",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30"
                         ],
@@ -2322,7 +2322,7 @@
                     },
                     {
                         "name": "Single Arm Cable Lat Pulldown Machine",
-                        "video": "",
+                        "video": "https://youtu.be/HBC5s98wXko",
                         "details": [
                             "@3011, 8-10 reps x 3 sets; rest 2 min",
                             "Single not available",
@@ -2331,7 +2331,7 @@
                     },
                     {
                         "name": "Cable Cyclist Goblet Squat",
-                        "video": "",
+                        "video": "https://youtu.be/3-jDnH1noxI",
                         "details": [
                             "@3011, 8-10 reps x 3 sets; rest 2 min",
                             "15lb"
@@ -2373,7 +2373,7 @@
                 "tasks": [
                     {
                         "name": "Dumbbell Reverse Lunge",
-                        "video": "",
+                        "video": "https://youtu.be/Q2k3kYbtOcI",
                         "details": [
                             "@3111, 7-8/side x 3 sets; rest 30 sec bt",
                             "sides/2:30 bt sets"
@@ -2384,7 +2384,7 @@
                     },
                     {
                         "name": "Dumbbell Pullover",
-                        "video": "",
+                        "video": "https://youtu.be/CSkSflHdC3A",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30"
                         ],
@@ -2402,7 +2402,7 @@
                     },
                     {
                         "name": "Single Arm Dumbbell Bench Press",
-                        "video": "",
+                        "video": "https://youtu.be/q3cXdiyY7-Q",
                         "details": [
                             "@3011, 8-10/side x 3 sets; rest 2 min"
                         ],
@@ -2470,7 +2470,7 @@
                 "tasks": [
                     {
                         "name": "Dumbbell Front squat",
-                        "video": "",
+                        "video": "https://youtu.be/7CuKlSgu1B0",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30"
                         ],
@@ -2499,7 +2499,7 @@
                     },
                     {
                         "name": "Seated Dumbbell Press",
-                        "video": "",
+                        "video": "https://youtu.be/RgkzQ008m3I",
                         "details": [
                             "@3011, 8 reps x 3 sets; rest 2 min",
                             "First set with 12s then 10s"
@@ -2539,7 +2539,7 @@
                 "tasks": [
                     {
                         "name": "Dumbbell Deadlift",
-                        "video": "",
+                        "video": "https://youtu.be/zfuc5ynsTlc",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30"
                         ],
@@ -2549,7 +2549,7 @@
                     },
                     {
                         "name": "Dumbbell Floor Press",
-                        "video": "",
+                        "video": "https://youtu.be/jjlekYs1cfQ",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30"
                         ],
@@ -2566,7 +2566,7 @@
                     },
                     {
                         "name": "Single Arm Cable Lat Pulldown Machine",
-                        "video": "",
+                        "video": "https://youtu.be/HBC5s98wXko",
                         "details": [
                             "@3011, 8 reps x 3 sets; rest 2 min"
                         ],
@@ -2576,7 +2576,7 @@
                     },
                     {
                         "name": "Cable Cyclist Goblet Squat",
-                        "video": "",
+                        "video": "https://youtu.be/3-jDnH1noxI",
                         "details": [
                             "@3011, 8 reps x 3 sets; rest 2 min"
                         ]
@@ -2619,7 +2619,7 @@
                 "tasks": [
                     {
                         "name": "Dumbbell Reverse Lunge",
-                        "video": "",
+                        "video": "https://youtu.be/Q2k3kYbtOcI",
                         "details": [
                             "@3111, 7/side x 3 sets; rest 30 sec bt sides/",
                             "2:30 bt sets"
@@ -2630,7 +2630,7 @@
                     },
                     {
                         "name": "Dumbbell Pullover",
-                        "video": "",
+                        "video": "https://youtu.be/CSkSflHdC3A",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30"
                         ],
@@ -2648,7 +2648,7 @@
                     },
                     {
                         "name": "Single Arm Dumbbell Bench Press",
-                        "video": "",
+                        "video": "https://youtu.be/q3cXdiyY7-Q",
                         "details": [
                             "@3011, 8/side x 3 sets; rest 2 min",
                             "15 did lying flat on a mat so I had better arm",
@@ -2980,7 +2980,7 @@
                 "tasks": [
                     {
                         "name": "Back Squat",
-                        "video": "",
+                        "video": "https://youtu.be/j-KDHkRMer0",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30"
                         ],
@@ -2990,7 +2990,7 @@
                     },
                     {
                         "name": "Supinated Bent Over Barbell Row",
-                        "video": "",
+                        "video": "https://youtu.be/ribtD2d8cs4",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30",
                             "45 bar"
@@ -3026,7 +3026,7 @@
                     },
                     {
                         "name": "Med Ball Side Plank",
-                        "video": "",
+                        "video": "https://youtu.be/AjuVhICRSkc",
                         "details": [
                             "AMSAP/side x 3 sets; rest 2 min",
                             "*start on weaker side each set-match on",
@@ -3202,7 +3202,7 @@
                 "tasks": [
                     {
                         "name": "Back Squat",
-                        "video": "",
+                        "video": "https://youtu.be/j-KDHkRMer0",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30",
                             "45 time 1 set, increased to 50 for 2 sets!!"
@@ -3210,7 +3210,7 @@
                     },
                     {
                         "name": "Supinated Bent Over Barbell Row",
-                        "video": "",
+                        "video": "https://youtu.be/ribtD2d8cs4",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30"
                         ],
@@ -3228,7 +3228,7 @@
                     },
                     {
                         "name": "Cable Single Arm External Rotation",
-                        "video": "",
+                        "video": "https://youtu.be/3DMyOwvPbIE",
                         "details": [
                             "@3011, 16-20 alt reps x 3 sets; rest 2 min",
                             "5lb"
@@ -3245,7 +3245,7 @@
                     },
                     {
                         "name": "Med Ball Side Plank",
-                        "video": "",
+                        "video": "https://youtu.be/AjuVhICRSkc",
                         "details": [
                             "AMSAP/side x 3 sets; rest 2 min",
                             "*start on weaker side each set-match on",
@@ -3329,14 +3329,14 @@
                 "tasks": [
                     {
                         "name": "Back Squat",
-                        "video": "",
+                        "video": "https://youtu.be/j-KDHkRMer0",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30"
                         ]
                     },
                     {
-                        "name": "Supinated Bent Over BarbellRow",
-                        "video": "",
+                        "name": "Supinated Bent Over Barbell Row",
+                        "video": "https://youtu.be/ribtD2d8cs4",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30"
                         ]
@@ -3356,8 +3356,8 @@
                         ]
                     },
                     {
-                        "name": "Supinated Bent Over BarbellRow",
-                        "video": "",
+                        "name": "Supinated Bent Over Barbell Row",
+                        "video": "https://youtu.be/ribtD2d8cs4",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30"
                         ]
@@ -3385,7 +3385,7 @@
                     },
                     {
                         "name": "Med Ball Side Plank",
-                        "video": "",
+                        "video": "https://youtu.be/AjuVhICRSkc",
                         "details": [
                             "AMSAP/side x 3 sets; rest 2 min",
                             "*start on weaker side each set-match on",
@@ -3648,8 +3648,8 @@
                 "name": "Exercise",
                 "tasks": [
                     {
-                        "name": "Dumbbell Deadlift g",
-                        "video": "",
+                        "name": "Dumbbell Deadlift",
+                        "video": "https://youtu.be/zfuc5ynsTlc",
                         "details": [
                             "3x10 reps @ 3011",
                             "15"
@@ -3675,7 +3675,7 @@
                     },
                     {
                         "name": "Dumbbell Pullover",
-                        "video": "",
+                        "video": "https://youtu.be/CSkSflHdC3A",
                         "details": [
                             "3x10 @ 3011"
                         ],
@@ -3817,7 +3817,7 @@
                 "tasks": [
                     {
                         "name": "Back Squat",
-                        "video": "",
+                        "video": "https://youtu.be/j-KDHkRMer0",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30"
                         ],
@@ -3827,7 +3827,7 @@
                     },
                     {
                         "name": "Supinated Bent Over Barbell Row",
-                        "video": "",
+                        "video": "https://youtu.be/ribtD2d8cs4",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30"
                         ],
@@ -3847,7 +3847,7 @@
                     },
                     {
                         "name": "Cable Single Arm External Rotation",
-                        "video": "",
+                        "video": "https://youtu.be/3DMyOwvPbIE",
                         "details": [
                             "@3011, 8 reps/side x 3 sets; rest 2 min"
                         ],
@@ -3867,7 +3867,7 @@
                     },
                     {
                         "name": "Decline Weighted Sit-Up",
-                        "video": "",
+                        "video": "https://youtu.be/PhvG-BQgnBU",
                         "details": [
                             "8 reps/ side",
                             "10 lb 10x 2"
@@ -3982,7 +3982,7 @@
                 "tasks": [
                     {
                         "name": "Barbell Split Squat",
-                        "video": "",
+                        "video": "https://youtu.be/iHkBjcx9CiQ",
                         "details": [
                             "@3111, 7/side x 3 sets; rest 30 sec bt sides/",
                             "2:30 bt sets"
@@ -4021,7 +4021,7 @@
                     },
                     {
                         "name": "Weighted GHD Hip Extension",
-                        "video": "",
+                        "video": "https://youtu.be/CHRbTdJF_0M",
                         "details": [
                             "@3011, 8 reps x 3 sets; rest 2 min",
                             "10lb, 10, 12"
@@ -4078,7 +4078,7 @@
                 "tasks": [
                     {
                         "name": "Back Squat",
-                        "video": "",
+                        "video": "https://youtu.be/j-KDHkRMer0",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30"
                         ],
@@ -4088,7 +4088,7 @@
                     },
                     {
                         "name": "Supinated Bent Over Barbell Row",
-                        "video": "",
+                        "video": "https://youtu.be/ribtD2d8cs4",
                         "details": [
                             "@3111, 7 reps x 3 sets; rest 2:30",
                             "45"
@@ -4106,7 +4106,7 @@
                     },
                     {
                         "name": "Cable Single Arm External Rotation",
-                        "video": "",
+                        "video": "https://youtu.be/3DMyOwvPbIE",
                         "details": [
                             "@3011, 8 reps/side x 3 sets; rest 2 min"
                         ],
@@ -4126,7 +4126,7 @@
                     },
                     {
                         "name": "Decline Weighted Sit-Up",
-                        "video": "",
+                        "video": "https://youtu.be/PhvG-BQgnBU",
                         "details": [
                             "8 reps/ side",
                             "Holding 10 lb"
@@ -4223,7 +4223,7 @@
                 "tasks": [
                     {
                         "name": "Barbell Split Squat",
-                        "video": "",
+                        "video": "https://youtu.be/iHkBjcx9CiQ",
                         "details": [
                             "@3111, 7/side x 3 sets; rest 30 sec bt sides/",
                             "2:30 bt sets"
@@ -4262,7 +4262,7 @@
                     },
                     {
                         "name": "Weighted GHD Hip Extension",
-                        "video": "",
+                        "video": "https://youtu.be/CHRbTdJF_0M",
                         "details": [
                             "@3011, 8 reps x 3 sets; rest 2 min"
                         ],
@@ -4409,14 +4409,14 @@
                 "tasks": [
                     {
                         "name": "DB bent knee RDL (glute bias)",
-                        "video": "",
+                        "video": "https://youtu.be/WIcpu2UkJoY",
                         "details": [
                             "4 sets, 10 reps @ 3010 tempo",
                             "no reps to failure",
-                            "Rest 60s",
                             "*bring DBs next to lat pull down machine"
                         ],
                         "comments": [
+                            "Rest 60s",
                             "20 each"
                         ]
                     },
@@ -4430,7 +4430,9 @@
                             "Rest 60s x4 sets",
                             "*should be lat focused, keep the shoulder",
                             "down and back before starting and don't let",
-                            "the tension go at the top",
+                            "the tension go at the top"
+                        ],
+                        "comments": [
                             "35"
                         ]
                     },
@@ -4443,7 +4445,9 @@
                             "inches from bottom to top of contraction",
                             "this is very slow and controlled",
                             "10 reps at 3010, rest 60s x 3",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
                             "30"
                         ]
                     },
@@ -4454,7 +4458,9 @@
                             "10 reps @ 3010, rest 60s",
                             "ent",
                             "last set to failure",
-                            "x3 sets",
+                            "x3 sets"
+                        ],
+                        "comments": [
                             "35"
                         ]
                     },
@@ -4480,6 +4486,14 @@
                             "last set to failure"
                         ]
                     }
+                ],
+                "warmup": [
+                    "Glute/CoreWarm Up:",
+                    "2 Rounds",
+                    "20 SLOW alternating wall dead bugs (low back",
+                    "pushes into the wall)",
+                    "10 banded clamshells",
+                    "1 minute supine belly breathing"
                 ]
             }
         ]
@@ -4506,10 +4520,12 @@
                         "details": [
                             "4x 10 reps at 3010, rest 60s",
                             "last set taken to failure",
-                            "60lb hard",
                             "*May also use DBs if easier for the superset",
                             "3x10 reps at 3010, rest 60s",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "60lb hard",
                             "30-35"
                         ]
                     },
@@ -4518,7 +4534,9 @@
                         "video": "https://youtu.be/y6EdXBdL75A",
                         "details": [
                             "3x10 reps at 3010, rest 60s",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
                             "20"
                         ]
                     },
@@ -4527,7 +4545,9 @@
                         "video": "https://youtu.be/H4XsZz3JmJ8",
                         "details": [
                             "3x10 at 3010, rest 30s",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
                             "15lb"
                         ]
                     },
@@ -4568,10 +4588,19 @@
                         "video": "https://youtu.be/8aUc9snLOxU",
                         "details": [
                             "3x10 at 3010, rest 30s",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
                             "8 lb"
                         ]
                     }
+                ],
+                "warmup": [
+                    "2 rounds",
+                    "15 hops up and down (in place)",
+                    "4 depth jump to stick (start low and work up week by",
+                    "week)",
+                    "10 prone lift offs"
                 ]
             }
         ]
@@ -4616,7 +4645,9 @@
                         "video": "https://youtu.be/jxctD6fL_FQ",
                         "details": [
                             "4x10 reps @ 3010, rest 60s",
-                            "Last set to failure",
+                            "Last set to failure"
+                        ],
+                        "comments": [
                             "32.5"
                         ]
                     },
@@ -4627,39 +4658,80 @@
                             "3x10 reps/leg at 3010 (hold weight in",
                             "opposite hand), rest 60s",
                             "last set to failure",
-                            "Used a flat weight for elevation",
-                            "Wide grip upper back pull down",
+                            "Used a flat weight for elevation"
+                        ]
+                    },
+                    {
+                        "name": "Wide grip upper back pull down",
+                        "video": "https://youtu.be/g6wTsj0sj5s",
+                        "details": [
                             "3x10 reps at 3010, rest 60s",
-                            "fail the last set",
-                            "60",
-                            "Standing cable rear delt fly",
+                            "fail the last set"
+                        ],
+                        "comments": [
+                            "60"
+                        ]
+                    },
+                    {
+                        "name": "Standing cable rear delt fly",
+                        "video": "https://youtu.be/JENKmsEZQO8",
+                        "details": [
                             "3x10 reps at 3010, rest 30s",
                             "No set to failure",
-                            "2? How to do. 1",
-                            "Facing away dual cable curl"
+                            "2? How to do. 1"
                         ]
+                    },
+                    {
+                        "name": "Facing away dual cable curl",
+                        "video": "https://youtu.be/xrQlkUQCKQY"
                     },
                     {
                         "name": "201N ract 2Ne",
                         "video": "",
                         "details": [
                             "Used a flat weight for elevation",
-                            "Wide grip upper back pull down",
                             "3x10 reps at 3010, rest 60s",
-                            "fail the last set",
-                            "60",
-                            "Standing cable rear delt fly",
+                            "fail the last set"
+                        ],
+                        "comments": [
+                            "60"
+                        ]
+                    },
+                    {
+                        "name": "Standing cable rear delt fly",
+                        "video": "https://youtu.be/JENKmsEZQO8",
+                        "details": [
                             "3x10 reps at 3010, rest 30s",
                             "No set to failure",
-                            "2? How to do. 1",
-                            "Facing away dual cable curl",
+                            "2? How to do. 1"
+                        ]
+                    },
+                    {
+                        "name": "Facing away dual cable curl",
+                        "video": "https://youtu.be/xrQlkUQCKQY",
+                        "details": [
                             "3x10 reps @ 3010, rest 30s",
                             "DB if needed to help with superset",
-                            "? Machine did arm curls 10lb",
-                            "last set to failure",
+                            "? Machine did arm curls 10lb"
+                        ]
+                    },
+                    {
+                        "name": "Seated Calf Raise Machine",
+                        "video": "https://youtu.be/2Q-HQ3mnePg",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s",
+                            "last set to failure"
+                        ],
+                        "comments": [
                             "25"
                         ]
                     }
+                ],
+                "warmup": [
+                    "3 Rounds",
+                    "10 side plank to clamshell with hold /side",
+                    "10 lateral banded walk/side",
+                    "30 walking lunge- no tempo"
                 ]
             }
         ]
@@ -4719,6 +4791,13 @@
                             "10 each hard"
                         ]
                     }
+                ],
+                "warmup": [
+                    "2 Rounds",
+                    "5 way hips x 5 each way",
+                    "5 SLOW sciatic nerve floss/side",
+                    "30 second wall sit - push low back into the floor",
+                    "5 yoga push up"
                 ]
             }
         ]
@@ -4761,14 +4840,14 @@
                 "tasks": [
                     {
                         "name": "DB bent knee RDL (glute bias)",
-                        "video": "",
+                        "video": "https://youtu.be/WIcpu2UkJoY",
                         "details": [
                             "4 sets, 10 reps @ 3010 tempo",
                             "no reps to failure",
-                            "Rest 60s",
                             "*bring DBs next to lat pull down machine"
                         ],
                         "comments": [
+                            "Rest 60s",
                             "10 ea"
                         ]
                     },
@@ -4783,7 +4862,9 @@
                             "Rest 60s x4 sets",
                             "*should be lat focused, keep the shoulder",
                             "down and back before starting and don't let",
-                            "the tension go at the top",
+                            "the tension go at the top"
+                        ],
+                        "comments": [
                             "25"
                         ]
                     },
@@ -4797,10 +4878,12 @@
                             "this is very slow and controlled",
                             "10 reps at 3010, rest 60s x 3",
                             "last set to failure",
-                            "25",
                             "10 reps @ 3010, rest 60s",
                             "x3 sets",
                             "With red band"
+                        ],
+                        "comments": [
+                            "25"
                         ]
                     },
                     {
@@ -4811,7 +4894,9 @@
                             "no sets to failure",
                             "cable bicep curl",
                             "3x10 reps at 3010",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
                             "10"
                         ]
                     },
@@ -4825,6 +4910,14 @@
                             "last set to failure"
                         ]
                     }
+                ],
+                "warmup": [
+                    "Glute/CoreWarm Up:",
+                    "2 Rounds",
+                    "20 SLOW alternating wall dead bugs (low back",
+                    "pushes into the wall)",
+                    "10 banded clamshells",
+                    "1 minute supine belly breathing"
                 ]
             }
         ]
@@ -4851,41 +4944,18 @@
                         "details": [
                             "4x 10 reps at 3010, rest 60s",
                             "last set taken to failure",
-                            "60",
                             "*May also use DBs if easier for the superset",
                             "3x10 reps at 3010, rest 60s",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "60",
                             "35 and 40"
                         ]
                     },
                     {
                         "name": "Rope Cable Tricep Pushdown",
                         "video": "https://youtu.be/y6EdXBdL75A",
-                        "details": [
-                            "3x10 reps at 3010, rest 60s",
-                            "last set to failure",
-                            "20"
-                        ]
-                    },
-                    {
-                        "name": "Cable Fly-High to Low",
-                        "video": "https://youtu.be/H4XsZz3JmJ8",
-                        "details": [
-                            "3x10 at 3010, rest 30s",
-                            "last set to failure"
-                        ]
-                    },
-                    {
-                        "name": "Quadruped Floating Shoulder Touches",
-                        "video": "https://youtu.be/h2OEyxPZYLs",
-                        "details": [
-                            "3x 10/side (controlled)",
-                            "rest 30s"
-                        ]
-                    },
-                    {
-                        "name": "_Dumbbell Lateral Raise",
-                        "video": "",
                         "details": [
                             "3x10 reps at 3010, rest 60s",
                             "last set to failure"
@@ -4913,11 +4983,21 @@
                     {
                         "name": "Dumbbell Lateral Raise",
                         "video": "https://youtu.be/8aUc9snLOxU",
+                        "comments": [
+                            "s"
+                        ],
                         "details": [
                             "3x10 at 3010, rest 30s",
                             "last set to failure"
                         ]
                     }
+                ],
+                "warmup": [
+                    "2 rounds",
+                    "15 hops up and down (in place)",
+                    "4 depth jump to stick (start low and work up week by",
+                    "week)",
+                    "10 prone lift offs"
                 ]
             }
         ]
@@ -4981,7 +5061,7 @@
                     },
                     {
                         "name": "Wide grip upper back pull down",
-                        "video": "",
+                        "video": "https://youtu.be/g6wTsj0sj5s",
                         "details": [
                             "3x10 reps at 3010, rest 60s",
                             "fail the last set"
@@ -5011,13 +5091,21 @@
                     },
                     {
                         "name": "Seated Calf Raise Machine",
-                        "video": "",
+                        "video": "https://youtu.be/2Q-HQ3mnePg",
                         "details": [
                             "3x10 reps at 3010, rest 30s",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
                             "No weight"
                         ]
                     }
+                ],
+                "warmup": [
+                    "3 Rounds",
+                    "10 side plank to clamshell with hold /side",
+                    "10 lateral banded walk/side",
+                    "30 walking lunge- no tempo"
                 ]
             }
         ]
@@ -5056,6 +5144,13 @@
                             "3x10 reps at 3010, rest 30s"
                         ]
                     }
+                ],
+                "warmup": [
+                    "2 Rounds",
+                    "5 way hips x 5 each way",
+                    "5 SLOW sciatic nerve floss/side",
+                    "30 second wall sit - push low back into the floor",
+                    "5 yoga push up"
                 ]
             }
         ]
@@ -5098,14 +5193,14 @@
                 "tasks": [
                     {
                         "name": "DB bent knee RDL (glute bias)",
-                        "video": "",
+                        "video": "https://youtu.be/WIcpu2UkJoY",
                         "details": [
                             "4 sets, 10 reps @ 3010 tempo",
                             "no reps to failure",
-                            "Rest 60s",
                             "*bring DBs next to lat pull down machine"
                         ],
                         "comments": [
+                            "Rest 60s",
                             "20"
                         ]
                     },
@@ -5119,7 +5214,9 @@
                             "Rest 60s x4 sets",
                             "*should be lat focused, keep the shoulder",
                             "down and back before starting and don't let",
-                            "the tension go at the top",
+                            "the tension go at the top"
+                        ],
+                        "comments": [
                             "25"
                         ]
                     },
@@ -5132,7 +5229,9 @@
                             "inches from bottom to top of contraction",
                             "this is very slow and controlled",
                             "10 reps at 3010, rest 60s x 3",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
                             "20"
                         ]
                     },
@@ -5143,7 +5242,9 @@
                             "10 reps @ 3010, rest 60s",
                             "last set to failure",
                             "d.",
-                            "x3 sets",
+                            "x3 sets"
+                        ],
+                        "comments": [
                             "55 machine"
                         ]
                     },
@@ -5153,10 +5254,12 @@
                         "details": [
                             "3x 10 reps at 3010, rest 30s",
                             "no sets to failure",
-                            "10",
                             "cable bicep curl",
                             "3x10 reps at 3010",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "10",
                             "12 DB"
                         ]
                     },
@@ -5170,6 +5273,14 @@
                             "last set to failure"
                         ]
                     }
+                ],
+                "warmup": [
+                    "Glute/CoreWarm Up:",
+                    "2 Rounds",
+                    "20 SLOW alternating wall dead bugs (low back",
+                    "pushes into the wall)",
+                    "10 banded clamshells",
+                    "1 minute supine belly breathing"
                 ]
             }
         ]
@@ -5196,7 +5307,9 @@
                         "details": [
                             "4x 10 reps at 3010, rest 60s",
                             "last set taken to failure",
-                            "d.",
+                            "d."
+                        ],
+                        "comments": [
                             "60"
                         ]
                     },
@@ -5205,7 +5318,9 @@
                         "video": "https://youtu.be/zbLAEQ3e9gw",
                         "details": [
                             "3x10 reps at 3010, rest 60s",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
                             "Only did 5"
                         ]
                     },
@@ -5215,7 +5330,9 @@
                         "details": [
                             "*No need to add weight at first",
                             "3x8 reps/leg at 3010, rest 60s",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
                             "45 bar"
                         ]
                     },
@@ -5224,8 +5341,7 @@
                         "video": "https://youtu.be/B8KqmwdomoU",
                         "details": [
                             "3x10 at 3010, rest 30s",
-                            "last set to failure",
-                            "130"
+                            "last set to failure"
                         ],
                         "comments": [
                             "130"
@@ -5247,6 +5363,13 @@
                             "last set to failure"
                         ]
                     }
+                ],
+                "warmup": [
+                    "2 rounds",
+                    "15 hops up and down (in place)",
+                    "4 depth jump to stick (start low and work up week by",
+                    "week)",
+                    "10 prone lift offs"
                 ]
             }
         ]
@@ -5291,7 +5414,9 @@
                         "video": "https://youtu.be/jxctD6fL_FQ",
                         "details": [
                             "4x10 reps @ 3010, rest 60s",
-                            "Last set to failure",
+                            "Last set to failure"
+                        ],
+                        "comments": [
                             "32.5"
                         ]
                     },
@@ -5301,7 +5426,9 @@
                         "details": [
                             "3x10 reps/leg at 3010 (hold weight in",
                             "opposite hand), rest 60s",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
                             "No weight"
                         ]
                     },
@@ -5310,16 +5437,7 @@
                         "video": "https://youtu.be/y6EdXBdL75A",
                         "details": [
                             "3x10 reps at 3010, rest 60s",
-                            "fail the last set",
-                            "20",
-                            "Standing cable rear delt fly",
-                            "3x10 reps at 3010, rest 30s",
-                            "No set to failure",
-                            "15",
-                            "Facing away dual cable curl",
-                            "A 20A ND vact 90",
-                            "2:38 2 aal! LTE EE)",
-                            "you should."
+                            "fail the last set"
                         ],
                         "comments": [
                             "20"
@@ -5340,6 +5458,7 @@
                         "name": "Facing away dual cable curl",
                         "video": "https://youtu.be/xrQlkUQCKQY",
                         "details": [
+                            "A 20A ND vact 90",
                             "3x10 reps @ 3010, rest 30s",
                             "DB if needed to help with superset"
                         ],
@@ -5349,13 +5468,21 @@
                     },
                     {
                         "name": "Seated Calf Raise Machine",
-                        "video": "",
+                        "video": "https://youtu.be/2Q-HQ3mnePg",
                         "details": [
                             "3x10 reps at 3010, rest 30s",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
                             "10lb"
                         ]
                     }
+                ],
+                "warmup": [
+                    "3 Rounds",
+                    "10 side plank to clamshell with hold /side",
+                    "10 lateral banded walk/side",
+                    "30 walking lunge- no tempo"
                 ]
             }
         ]
@@ -5394,8 +5521,10 @@
                             "momentum out of it!",
                             "3x10 @ 3010, rest 60s",
                             "last set to failure",
+                            "3x10 reps @ 3010, rest 60s"
+                        ],
+                        "comments": [
                             "5db",
-                            "3x10 reps @ 3010, rest 60s",
                             "20"
                         ]
                     },
@@ -5426,6 +5555,13 @@
                             "10,15,15"
                         ]
                     }
+                ],
+                "warmup": [
+                    "2 Rounds",
+                    "5 way hips x 5 each way",
+                    "5 SLOW sciatic nerve floss/side",
+                    "30 second wall sit - push low back into the floor",
+                    "5 yoga push up"
                 ]
             }
         ]
