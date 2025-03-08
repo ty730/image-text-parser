@@ -125,8 +125,8 @@ exercise_videos = {
 
 def main():
     #createTxtFilesFromImages()
-    createRxs()
-    #loadWarmups()
+    #createRxs()
+    loadWarmups()
 
 def createRxs():
     rxs = {}
@@ -186,6 +186,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
     is_prev_failure = False
     num_tasks = 0
     task_list = text.split('\n')
+    prev_line = ''
     for line in task_list:
         if not line.strip() or any(ext in line for ext in ['©', '®', 'tt a @']) or line.strip() in g_garbage_lines:
             is_prev_task_name = False
@@ -232,7 +233,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
                     count += 1
                 else:
                     break
-            if (is_prev_failure and not isDescription(line)) or (index != -1 and index < len(task_list) - 1 and next_real_line.find(')') != -1 and not isDescription(line)):
+            if isComment(line, prev_line) or (is_prev_failure and not isDescription(line)) or (index != -1 and index < len(task_list) - 1 and next_real_line.find(')') != -1 and not isDescription(line)):
                 is_prev_failure = False
                 if 'comments' not in activity['tasks'][-1]:
                     activity['tasks'][-1]['comments'] = [line.strip()]
@@ -250,6 +251,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
                     if is_existing_task and line.strip() in activity['tasks'][-1]['details']:
                         continue
                     activity['tasks'][-1]['details'].append(line.strip())
+        prev_line = line
 
 def getTaskName(line):
     task_name_index = line.find(')')
@@ -292,6 +294,13 @@ def fixTaskName(task_name):
 def isDescription(line):
     if len(line) > 10 or line.find('x3 sets') != -1 or line.find('rest 30') != -1 or line.find('3x10 @') != -1 or line.find('3x10') != -1 or line.find('30 bt sets') != -1 or line.find('*Weight optional') != -1 or line.find('record time') != -1 or line.find('log weight') != -1 or line.find('Chest') != -1 or line.find('Min 30min') != -1 or line.find('Log below') != -1:
         return True
+    if line.startswith('*'):
+        return True
+    return False
+
+def isComment(line, prev_line):
+    if 'did ' in line.lower() or 'did ' in prev_line.lower():
+        return True
     return False
 
 def isSentenceCase(line):
@@ -333,7 +342,6 @@ def getDate(text):
             date = dt.strftime('%-m/%-d/%Y')
             break # Found the date
         start_index = index + 1  # Move past the found substring for the next search
-    #print('Date: ' + date)
     return date
 
 def getActivityName(text):

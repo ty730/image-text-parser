@@ -2325,7 +2325,9 @@
                         "video": "https://youtu.be/HBC5s98wXko",
                         "details": [
                             "@3011, 8-10 reps x 3 sets; rest 2 min",
-                            "Single not available",
+                            "Single not available"
+                        ],
+                        "comments": [
                             "Did last pull down 55lb"
                         ]
                     },
@@ -2650,7 +2652,9 @@
                         "name": "Single Arm Dumbbell Bench Press",
                         "video": "https://youtu.be/q3cXdiyY7-Q",
                         "details": [
-                            "@3011, 8/side x 3 sets; rest 2 min",
+                            "@3011, 8/side x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "15 did lying flat on a mat so I had better arm",
                             "position"
                         ]
@@ -3250,7 +3254,9 @@
                             "AMSAP/side x 3 sets; rest 2 min",
                             "*start on weaker side each set-match on",
                             "stronger side",
-                            "*goal is increased time per set",
+                            "*goal is increased time per set"
+                        ],
+                        "comments": [
                             "Did weighted decline alternating side sit ups",
                             "since shoulder pain with 10 lb"
                         ]
@@ -4636,7 +4642,9 @@
                             "no sets to failure",
                             "*if needed go single arm DB row to hip to help",
                             "with supersetting and not running back and",
-                            "forth - same rep scheme",
+                            "forth - same rep scheme"
+                        ],
+                        "comments": [
                             "Did to row machine 15 times 4"
                         ]
                     },
@@ -4711,7 +4719,9 @@
                         "video": "https://youtu.be/xrQlkUQCKQY",
                         "details": [
                             "3x10 reps @ 3010, rest 30s",
-                            "DB if needed to help with superset",
+                            "DB if needed to help with superset"
+                        ],
+                        "comments": [
                             "? Machine did arm curls 10lb"
                         ]
                     },
@@ -5405,7 +5415,9 @@
                             "no sets to failure",
                             "*if needed go single arm DB row to hip to help",
                             "with supersetting and not running back and",
-                            "forth - same rep scheme",
+                            "forth - same rep scheme"
+                        ],
+                        "comments": [
                             "Did row machine"
                         ]
                     },
