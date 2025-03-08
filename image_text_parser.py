@@ -27,11 +27,84 @@ rxs = {
 '''
 g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)', 'YOUR DAILY RX', 'Home', 'CALENDAR']
 known_tasks = ['Standing cable rear delt fly', 'Facing away dual cable curl']
+exercise_videos = {
+    "seated low cable row": "https://youtu.be/J9h9AZnXXpo",
+    "lying hamstring curl": "https://youtu.be/jxctD6fL_FQ",
+    "rear foot elevated split squat": "https://youtu.be/3fxmRoIE_fk",
+    "rope cable tricep pushdown": "https://youtu.be/y6EdXBdL75A",
+    "standing cable rear delt fly": "https://youtu.be/JENKmsEZQO8",
+    "facing away dual cable curl": "https://youtu.be/xrQlkUQCKQY",
+    "barbell glute bridge": "https://youtu.be/DQv1IMQDbE4",
+    "seated banded row": "https://youtu.be/Jy-WCFAofBY",
+    "prone db reverse fly": "https://youtu.be/Z__dp9rhlcw",
+    "cable bicep curl": "https://youtu.be/dH7xKAXOkJM",
+    "standing calf raise": "https://youtu.be/LnWEIjIls-M",
+    "db bent knee rdl": "https://youtu.be/6_F82F5thmE",
+    "banded single arm lat pulldown": "https://youtu.be/s0MDw2_2Zs8",
+    "hip abduction machine": "https://youtu.be/pVGCaMmxuEg",
+    "low cable lateral raise": "https://youtu.be/Z5FA9aq3L6A",
+    "plate deltoid plate raise": "https://youtu.be/hikbChhbeLI",
+    "roman chair back extension for glutes": "https://youtu.be/w5QPcMaT_DQ",
+    "reverse crunch": "https://youtu.be/aIyadD7d7OA",
+    "front rack kb march": "https://youtu.be/6lE9Q3QUPsQ",
+    "neutral grip shoulder press machine": "https://youtu.be/LEhz8ZXNWaY",
+    "leg extension machine": "https://youtu.be/s1JfTvyWdTs",
+    "supinated grip body row": "https://youtu.be/zbLAEQ3e9gw",
+    "smith machine reverse lunge": "https://youtu.be/TK-5lUZZUOs",
+    "leg press machine press": "https://youtu.be/B8KqmwdomoU",
+    "quadruped floating shoulder touches": "https://youtu.be/h2OEyxPZYLs",
+    "leg press machine narrow stance": "https://youtu.be/6GT9o4Cp1vA",
+    "dumbbell neutral grip bench press": "https://youtu.be/Q7omzf7Bt1I",
+    "chest supported db y raise": "https://youtu.be/wWhG-7CQQmg",
+    "dumbbell incline skull crusher": "https://youtu.be/G4Vdjr-byjE",
+    "incline chest press machine": "https://youtu.be/ArMbAy4emuA",
+    "cable fly-high to low": "https://youtu.be/H4XsZz3JmJ8",
+    "dumbbell lateral raise": "https://youtu.be/8aUc9snLOxU",
+    "smith machine back squat": "https://youtu.be/QcmonZUuumg",
+    "dumbbell bent over row to hip": "https://youtu.be/xUgh5CIlbk8",
+    "dumbbell romanian deadlift": "https://youtu.be/6USOovx8pYI",
+    "seated alternating dumbbell press": "https://youtu.be/ZjWq4wTEuSI",
+    "dumbbell front foot elevated split squat": "https://youtu.be/OFmW8Re5Zos",
+    "extended side plank": "https://youtu.be/h2TOAz3BJ_Q",
+    "smith machine deadlift": "https://youtu.be/igHvWuP2MDU",
+    "glute bridge dumbbell floor press": "https://youtu.be/5bM4JL4Xlio",
+    "goblet russian step-up": "https://youtu.be/RZsegx5MjMg",
+    "cable lat pulldown": "https://youtu.be/ShqtJk37UPM",
+    "cyclist goblet squat": "https://youtu.be/TysYZ7rKhpM",
+    "farmer's carry": "https://youtu.be/vW81EITekU0",
+    "split squat": "https://youtu.be/Py2Qeg-D5T0",
+    "assisted pull-up machine": "https://youtu.be/ZAR5EiNq1rg",
+    "dumbbell bench press": "https://youtu.be/ZaDlbm8E8Tg",
+    "ghd hip extension": "https://youtu.be/yNvAeCrTFuk",
+    "cable standing pallof press": "https://youtu.be/syYBcVbEAFk",
+    "hack squat machine": "https://youtu.be/sw-5KcVZVk8",
+    "cable oblique rotation": "https://youtu.be/rB0GwKy8UMg",
+    "goblet lateral box step down": "https://youtu.be/aeZqZ3sKV8U",
+    "single arm farmer's carry": "https://youtu.be/28BIZccT5fs",
+    "kettlebell romanian deadlift": "https://youtu.be/mVSgE9S0G4w",
+    "goblet cable front foot elevated split squat": "https://youtu.be/adGM191e6Vk",
+    "front squat": "https://youtu.be/ddJklKFk2yg",
+    "bent over barbell row": "https://youtu.be/9Gf-Ourup_k",
+    "sissy squat": "https://youtu.be/_kuzM5gKU8U",
+    "goblet squat": "https://youtu.be/pEGfGwp6IEA",
+    "walking lunge": "https://youtu.be/6wZoPedlpok",
+    "push-up": "https://youtu.be/Ql8PKKsDE70",
+    "air squat": "https://youtu.be/iiKn5FiVUjI",
+    "superman": "https://youtu.be/v4nNlF3WDs0",
+    "dead bug": "https://youtu.be/ciu7aVuqdgM?si=j1s2yVslvvJcCGjS",
+    "hip cars": "https://youtu.be/2mY_PkJ4Hl4",
+    "90/90 hip switch": "https://youtu.be/m51AZSXMvEA",
+    "front rack dumbbell elevator squat": "https://youtu.be/iBupRh7nuPo",
+    "dumbbell 3 point row": "https://youtu.be/iLhwICt4R9A",
+    "dumbbell external rotation": "https://youtu.be/t5Ft8OMG_D8",
+    "dumbbell split squat": "https://youtu.be/Wcmg-3iHwjQ",
+    "2 point bird dog": "https://youtu.be/FWjz8ozyVq8"
+}
 
 def main():
     #createTxtFilesFromImages()
-    #createRxs()
-    loadWarmups()
+    createRxs()
+    #loadWarmups()
 
 def createRxs():
     rxs = {}
@@ -100,6 +173,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
         if task_name and not is_prev_task_name: # Start of task name
             if not task_name or any(ext in task_name for ext in ['©']):
                 continue
+            task_name = fixTaskName(task_name)
             is_prev_task_name = True
             num_tasks += 1
             if num_tasks > 1:
@@ -110,11 +184,15 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
                 activity['tasks'] = [{ 'name': task_name }]
             else:
                 activity['tasks'].append({ 'name': task_name })
+            # youtube video
+            activity['tasks'][-1]['video'] = getVideo(task_name)
         elif is_prev_task_name and (line[:1].isupper() or ('Split Squat' in line)): # End of task name
             if is_existing_task:
                 continue
             activity['tasks'][-1]['name'] += ' ' + line.strip()
             is_prev_task_name = False
+            # youtube video
+            activity['tasks'][-1]['video'] = getVideo(activity['tasks'][-1]['name'])
         else: # Lines of description and comments
             is_prev_task_name = False
             if 'tasks' not in activity:
@@ -162,6 +240,12 @@ def getTaskName(line):
     if task_name_index != -1:
         return line[task_name_index+1:].strip()
     return ''
+
+def fixTaskName(task_name):
+    index = task_name.find('Extensionfor')
+    if index != -1:
+        task_name = task_name[:index + 9] + ' ' + task_name[index + 9:]
+    return task_name    
 
 def isDescription(line):
     if len(line) > 10 or line.find('x3 sets') != -1 or line.find('rest 30') != -1 or line.find('3x10 @') != -1 or line.find('3x10') != -1 or line.find('30 bt sets') != -1 or line.find('*Weight optional') != -1 or line.find('record time') != -1 or line.find('log weight') != -1 or line.find('Chest') != -1 or line.find('Min 30min') != -1 or line.find('Log below') != -1:
@@ -320,6 +404,12 @@ def addWarmup(data, warmups_text, date_string):
     warmup_list = [s.strip() for s in warmup_list]
     warmup_list = [s for s in warmup_list if s]
     data[date_string]['activities'][0]['warmup'] = warmup_list
+
+def getVideo(task_name):
+    task_key = task_name.lower()
+    if task_key in exercise_videos:
+        return exercise_videos[task_key]
+    return ''
 
 def createTxtFilesFromImages():
     # Defining paths to tesseract.exe  
