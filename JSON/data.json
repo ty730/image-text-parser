@@ -190,6 +190,7 @@
     "10/9/2024": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "& Lifestyle",
@@ -1398,6 +1399,7 @@
     "11/11/2024": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "Weight",
@@ -1471,6 +1473,7 @@
     "11/13/2024": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "Lunge Assessment",
@@ -1561,6 +1564,7 @@
     "11/19/2024": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "@ OpexBody/Move ~<",
@@ -1638,6 +1642,7 @@
     "11/20/2024": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "Lunge Assessment",
@@ -1827,28 +1832,7 @@
                         "name": "Single Arm Cable Lat Pulldown Machine",
                         "video": "https://www.youtube.com/embed/HBC5s98wXko",
                         "details": [
-                            "a ~ A",
-                            "@3111, 8 reps x 3 sets; rest 2:30"
-                        ]
-                    },
-                    {
-                        "name": "Dumbbell Floor Press",
-                        "video": "https://www.youtube.com/embed/jjlekYs1cfQ",
-                        "details": [
-                            "@3111, 8 reps x 3 sets; rest 2:30"
-                        ]
-                    },
-                    {
-                        "name": "Goblet Lateral Box Step Down",
-                        "video": "https://www.youtube.com/embed/aeZqZ3sKV8U",
-                        "details": [
-                            "@3011, 10/side x 3 sets; rest 2 min"
-                        ]
-                    },
-                    {
-                        "name": "Single Arm Cable Lat Pulldown Machine",
-                        "video": "https://www.youtube.com/embed/HBC5s98wXko",
-                        "details": [
+                            "in",
                             "@3011, 10 reps x 3 sets; rest 2 min"
                         ]
                     },
@@ -1873,6 +1857,7 @@
     "11/28/2024": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "@ Happy Thanksgiving!",
@@ -2146,8 +2131,8 @@
                         ]
                     },
                     {
-                        "name": "\\_Hack Samat Machine Z",
-                        "video": "",
+                        "name": "Hack Samat Machine",
+                        "video": "https://www.youtube.com/embed/sw-5KcVZVk8",
                         "details": [
                             "15 lb",
                             "@3011, 8-10 reps x 3 sets; rest 2 min",
@@ -2446,6 +2431,7 @@
     "12/14/2024": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "@ BodyPump",
@@ -2795,6 +2781,7 @@
     "12/24/2024": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "@ Merry ChristmasEve",
@@ -3382,27 +3369,7 @@
                         "name": "Seated Alternating Dumbbell Press",
                         "video": "https://www.youtube.com/embed/ZjWq4wTEuSI",
                         "details": [
-                            "@3111, 7-8 reps x 3 sets; rest 2:30"
-                        ]
-                    },
-                    {
-                        "name": "Supinated Bent Over Barbell Row",
-                        "video": "https://www.youtube.com/embed/ribtD2d8cs4",
-                        "details": [
-                            "@3111, 7-8 reps x 3 sets; rest 2:30"
-                        ]
-                    },
-                    {
-                        "name": "Dumbbell Romanian Deadlift",
-                        "video": "https://www.youtube.com/embed/6USOovx8pYI",
-                        "details": [
-                            "@3011, 8-10 reps x 3 sets; rest 2 min"
-                        ]
-                    },
-                    {
-                        "name": "Seated Alternating Dumbbell Press",
-                        "video": "https://www.youtube.com/embed/ZjWq4wTEuSI",
-                        "details": [
+                            "in",
                             "@3011, 16-20 alt reps x 3 sets; rest 2 min"
                         ]
                     },
@@ -4454,6 +4421,7 @@
     "2/10/2025": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "DB bent knee RDL (glute bias)",
@@ -4549,6 +4517,7 @@
     "2/11/2025": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "Incline Chest Press Machine",
@@ -4581,30 +4550,6 @@
                         "name": "Rope Cable Tricep Pushdown",
                         "video": "https://www.youtube.com/embed/y6EdXBdL75A",
                         "details": [
-                            "3x10 reps at 3010, rest 60s",
-                            "last set to failure"
-                        ],
-                        "comments": [
-                            "20"
-                        ]
-                    },
-                    {
-                        "name": "Cable Fly-High to Low",
-                        "video": "https://www.youtube.com/embed/H4XsZz3JmJ8",
-                        "details": [
-                            "3x10 at 3010, rest 30s",
-                            "last set to failure"
-                        ],
-                        "comments": [
-                            "15lb"
-                        ]
-                    },
-                    {
-                        "name": "Quadruped Floating Shoulder Touches",
-                        "video": "https://www.youtube.com/embed/h2OEyxPZYLs",
-                        "details": [
-                            "3x 10/side (controlled)",
-                            "rest 30s",
                             "3x10 reps at 3010, rest 60s",
                             "last set to failure"
                         ],
@@ -4865,6 +4810,7 @@
     "2/17/2025": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "DB bent knee RDL (glute bias)",
@@ -4953,6 +4899,7 @@
     "2/18/2025": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "Incline Chest Press Machine",
@@ -5218,6 +5165,7 @@
     "2/24/2025": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "DB bent knee RDL (glute bias)",
@@ -5315,6 +5263,7 @@
     "2/25/2025": {
         "activities": [
             {
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "Neutral Grip Shoulder Press Machine",

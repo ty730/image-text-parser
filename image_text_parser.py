@@ -26,7 +26,7 @@ rxs = {
     }
 }
 '''
-g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)', 'YOUR DAILY RX', 'Home', 'CALENDAR', '2v1N ranc M) 201N ract 2Ne', 'd.', 'A 20A ND vact 90', 'x icth+ Clava ctan.']
+g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)', 'YOUR DAILY RX', 'Home', 'CALENDAR', '2v1N ranc M) 201N ract 2Ne', 'd.', 'A 20A ND vact 90', 'x icth+ Clava ctan.', 'a ~ A']
 known_tasks = ['Standing cable rear delt fly', 'Facing away dual cable curl', 'Wide grip upper back pull down']
 known_comments = ['10,15,15']
 exercise_videos = {
@@ -120,7 +120,8 @@ exercise_videos = {
     "dumbbell front squat": "https://www.youtube.com/embed/7CuKlSgu1B0",
     "single arm dumbbell bench press": "https://www.youtube.com/embed/q3cXdiyY7-Q",
     "dumbbell reverse lunge": "https://www.youtube.com/embed/Q2k3kYbtOcI",
-    "seated dumbbell press": "https://www.youtube.com/embed/RgkzQ008m3I"
+    "seated dumbbell press": "https://www.youtube.com/embed/RgkzQ008m3I",
+    "hack samat machine": "https://www.youtube.com/embed/sw-5KcVZVk8"
 }
 
 def main():
@@ -159,7 +160,9 @@ def processOneText(text, rxs, prev_date):
             if prev_date in rxs:
                 if 'tasks' in rxs[prev_date]['activities'][-1]:
                     last_task = rxs[prev_date]['activities'][-1]['tasks'][-1]
-                    last_task_index = text.find(last_task['name'])
+                    # The task name might span multiple lines so only get the first 26 characters
+                    last_task_name = last_task['name'][:26] if len(last_task['name']) > 25 else last_task['name']
+                    last_task_index = text.find(last_task_name)
                     if last_task_index != -1:
                         text = text[last_task_index-4:] # remove everything above that we've already seen
                 activity = rxs[prev_date]['activities'][-1]
@@ -169,6 +172,8 @@ def processOneText(text, rxs, prev_date):
     if 'RestDay' in activity_name:
         activity_name = 'Rest Day'
     is_existing_task = not date
+    if (date and not activity_name) and not (date == '1/16/2025' or date == '1/14/2025'):
+        activity_name = 'Systemic'
     getActivityDetails(text, activity, activity_name, is_existing_task)
     #print(json.dumps(activity, sort_keys = True, indent = 4))
     if date:
@@ -274,7 +279,7 @@ def getTaskName(line):
     elif any(name in line for name in known_tasks):
         is_task_name = True
     if is_task_name:
-        bad_starts = ['_']
+        bad_starts = ['_', '\\_']
         for start in bad_starts:
             if line.startswith(start):
                 line = line[len(start):].strip()
@@ -402,7 +407,7 @@ def removeUnrelatedText(text, activity_name):
     return text
 
 def cleanUpName(name):
-    bad_endings = [' =v', 'Vv', ' v', ' vv', ' x', 'v Bo', 'Bo', '- Bi', 'v Bi', 'Bi', '=', '~', '&', ' -', ' y', 'v Ho', ' BO', ' -v', ' g', ' Al']
+    bad_endings = [' =v', 'Vv', ' v', ' vv', ' x', 'v Bo', 'Bo', '- Bi', 'v Bi', 'Bi', '=', '~', '&', ' -', ' y', 'v Ho', ' BO', ' -v', ' g', ' Al', ' Z']
     for end in bad_endings:
         if name.endswith(end):
             name = name[:len(name) - len(end)].strip()
