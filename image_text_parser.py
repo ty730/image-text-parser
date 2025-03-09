@@ -26,7 +26,7 @@ rxs = {
     }
 }
 '''
-g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)', 'YOUR DAILY RX', 'Home', 'CALENDAR', '201N ract 2Ne', 'd.']
+g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)', 'YOUR DAILY RX', 'Home', 'CALENDAR', '2v1N ranc M) 201N ract 2Ne', 'd.', 'A 20A ND vact 90', 'x icth+ Clava ctan.']
 known_tasks = ['Standing cable rear delt fly', 'Facing away dual cable curl', 'Wide grip upper back pull down']
 known_comments = ['10,15,15']
 exercise_videos = {
@@ -300,6 +300,8 @@ def isDescription(line):
 
 def isComment(line, prev_line):
     if 'did ' in line.lower() or 'did ' in prev_line.lower():
+        return True
+    if all(txt.strip().isdigit() for txt in ''.join(''.join(line.split(' ')).split(','))):
         return True
     return False
 
