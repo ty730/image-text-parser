@@ -26,9 +26,8 @@ rxs = {
     }
 }
 '''
-g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)', 'YOUR DAILY RX', 'Home', 'CALENDAR', '2v1N ranc M) 201N ract 2Ne', 'd.', 'A 20A ND vact 90', 'x icth+ Clava ctan.', 'a ~ A']
+g_garbage_lines = ['oO', 'Hy', 'ft', 'v', 'Did. B', '‘a', 'nt', 'ar', '00', 'c1', 'c2', 'A', 'Al', 'MN', 'x', '-', '@)', 'YOUR DAILY RX', 'Home', 'CALENDAR', '2v1N ranc M) 201N ract 2Ne', 'd.', 'A 20A ND vact 90', 'x icth+ Clava ctan.', 'a ~ A', '‘a 2)']
 known_tasks = ['Standing cable rear delt fly', 'Facing away dual cable curl', 'Wide grip upper back pull down']
-known_comments = ['10,15,15']
 exercise_videos = {
     "seated low cable row": "https://www.youtube.com/embed/J9h9AZnXXpo",
     "lying hamstring curl": "https://www.youtube.com/embed/jxctD6fL_FQ",
@@ -307,6 +306,16 @@ def isComment(line, prev_line):
     if 'did ' in line.lower() or 'did ' in prev_line.lower():
         return True
     if all(txt.strip().isdigit() for txt in ''.join(''.join(line.split(' ')).split(','))):
+        return True
+    no_whitespace = "".join(line.split())
+    index = no_whitespace.find('lb')
+    if index != -1 and no_whitespace[index - 1].isdigit() and 'Dual KB clean to push press' not in line:
+        return True
+    index = no_whitespace.find('each')
+    if index != -1 and no_whitespace[index - 1].isdigit():
+        return True
+    known_comments = ['10,15,15', ' hard', 'difficult']
+    if any(comment_string in line.lower() for comment_string in known_comments):
         return True
     return False
 

@@ -2035,7 +2035,9 @@
                         "name": "Smith Machine Deadlift",
                         "video": "https://www.youtube.com/embed/igHvWuP2MDU",
                         "details": [
-                            "@3111, 7- 8 reps x 3 sets; rest 2:30",
+                            "@3111, 7- 8 reps x 3 sets; rest 2:30"
+                        ],
+                        "comments": [
                             "20 lb each hand (dumbbells)"
                         ]
                     },
@@ -2043,7 +2045,9 @@
                         "name": "Dumbbell Floor Press",
                         "video": "https://www.youtube.com/embed/jjlekYs1cfQ",
                         "details": [
-                            "@3111, 7-8 reps x 3 sets; rest 2:30",
+                            "@3111, 7-8 reps x 3 sets; rest 2:30"
+                        ],
+                        "comments": [
                             "115 lb dumbbells"
                         ]
                     },
@@ -2051,7 +2055,9 @@
                         "name": "Goblet Lateral Box Step Down",
                         "video": "https://www.youtube.com/embed/aeZqZ3sKV8U",
                         "details": [
-                            "@3011, 8-10/side x 3 sets; rest 2 min",
+                            "@3011, 8-10/side x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "8 per side no weight , Rt side hard"
                         ]
                     },
@@ -2080,7 +2086,9 @@
                         "video": "https://www.youtube.com/embed/28BIZccT5fs",
                         "details": [
                             "40m/side x 3 sets; rest 2 min",
-                            "*heavier than last week",
+                            "*heavier than last week"
+                        ],
+                        "comments": [
                             "25 lb"
                         ]
                     }
@@ -2133,10 +2141,12 @@
                     {
                         "name": "Hack Samat Machine",
                         "video": "https://www.youtube.com/embed/sw-5KcVZVk8",
-                        "details": [
+                        "comments": [
                             "15 lb",
-                            "@3011, 8-10 reps x 3 sets; rest 2 min",
                             "10 each"
+                        ],
+                        "details": [
+                            "@3011, 8-10 reps x 3 sets; rest 2 min"
                         ]
                     },
                     {
@@ -2160,7 +2170,9 @@
                         "name": "Cable Oblique Rotation",
                         "video": "https://www.youtube.com/embed/rB0GwKy8UMg",
                         "details": [
-                            "@3011, 8-10/side x 3 sets; rest 2 min",
+                            "@3011, 8-10/side x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "12 lb each side"
                         ]
                     },
@@ -2213,7 +2225,9 @@
                         "name": "Dumbell Front Squat",
                         "video": "",
                         "details": [
-                            "@3111, 7-8 reps x 3 sets; rest 2:30",
+                            "@3111, 7-8 reps x 3 sets; rest 2:30"
+                        ],
+                        "comments": [
                             "12 lb each arm"
                         ]
                     },
@@ -2222,9 +2236,11 @@
                         "video": "https://www.youtube.com/embed/aVH_cG4UISc",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30",
-                            "110 lb each",
                             "> kettlebell , wie",
-                            "@3011, 8-10 reps x 3 sets; rest 2 min",
+                            "@3011, 8-10 reps x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
+                            "110 lb each",
                             "25 lb"
                         ]
                     },
@@ -2232,18 +2248,20 @@
                         "name": "Seated Dumbbell Press",
                         "video": "https://www.youtube.com/embed/RgkzQ008m3I",
                         "details": [
-                            "@3011, 8-10 reps x 3 sets; rest 2 min",
-                            "Difficult should have done 10"
+                            "@3011, 8-10 reps x 3 sets; rest 2 min"
                         ],
                         "comments": [
-                            "12"
+                            "12",
+                            "Difficult should have done 10"
                         ]
                     },
                     {
                         "name": "Goblet Cable Front Foot Elevated Split Squat",
                         "video": "https://www.youtube.com/embed/adGM191e6Vk",
                         "details": [
-                            "@3011, 8-10/side x 3 sets; rest 2 min",
+                            "@3011, 8-10/side x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "Form ? Need to have my dtg check 20lb"
                         ]
                     },
@@ -2328,7 +2346,9 @@
                         "name": "Cable Cyclist Goblet Squat",
                         "video": "https://www.youtube.com/embed/3-jDnH1noxI",
                         "details": [
-                            "@3011, 8-10 reps x 3 sets; rest 2 min",
+                            "@3011, 8-10 reps x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "15lb"
                         ]
                     },
@@ -2337,7 +2357,9 @@
                         "video": "https://www.youtube.com/embed/28BIZccT5fs",
                         "details": [
                             "50m/side x 3 sets; rest 2 min",
-                            "*increase distance at last week’s load",
+                            "*increase distance at last week’s load"
+                        ],
+                        "comments": [
                             "25lb"
                         ]
                     }
@@ -2391,7 +2413,9 @@
                         "name": "Hack Squat Machine",
                         "video": "https://www.youtube.com/embed/sw-5KcVZVk8",
                         "details": [
-                            "@3011, 8-10 reps x 3 sets; rest 2 min",
+                            "@3011, 8-10 reps x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "85 lbs leg press"
                         ]
                     },
@@ -2491,7 +2515,9 @@
                         "video": "https://www.youtube.com/embed/mVSgE9S0G4w",
                         "details": [
                             "@3011, 8 reps x 3 sets; rest 2 min",
-                            "lb",
+                            "lb"
+                        ],
+                        "comments": [
                             "25 lbs"
                         ]
                     },
@@ -2511,7 +2537,9 @@
                         "name": "Split Squat",
                         "video": "https://www.youtube.com/embed/Py2Qeg-D5T0",
                         "details": [
-                            "@3011, 8/side x 3 sets; rest 2 min",
+                            "@3011, 8/side x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "20 lbs"
                         ]
                     },
@@ -2640,7 +2668,9 @@
                         "name": "Hack Squat Machine",
                         "video": "https://www.youtube.com/embed/sw-5KcVZVk8",
                         "details": [
-                            "@3011, 8 reps x 3 sets; rest 2 min",
+                            "@3011, 8 reps x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "130 lb leg press"
                         ]
                     },
@@ -2669,8 +2699,10 @@
                         "video": "https://www.youtube.com/embed/rB0GwKy8UMg",
                         "details": [
                             "@3011, 8/side x 3 sets; rest 2 min",
-                            "20 lbs",
                             "Machine at 11"
+                        ],
+                        "comments": [
+                            "20 lbs"
                         ]
                     }
                 ]
@@ -2722,7 +2754,9 @@
                         "name": "Smith Machine Back Squat",
                         "video": "https://www.youtube.com/embed/QcmonZUuumg",
                         "details": [
-                            "@3111, 8 reps x 3 sets; rest 2:30",
+                            "@3111, 8 reps x 3 sets; rest 2:30"
+                        ],
+                        "comments": [
                             "115 lb dumb bells at shoulder"
                         ]
                     },
@@ -2730,7 +2764,9 @@
                         "name": "Dumbbell Bent Over Row to Hip",
                         "video": "https://www.youtube.com/embed/xUgh5CIlbk8",
                         "details": [
-                            "@3111, 8 reps x 3 sets; rest 2:30",
+                            "@3111, 8 reps x 3 sets; rest 2:30"
+                        ],
+                        "comments": [
                             "15lb"
                         ]
                     },
@@ -2770,7 +2806,9 @@
                         "details": [
                             "AMSAP/side x 3 sets; rest 2 min",
                             "*start on weaker side each set-match on",
-                            "stronger side",
+                            "stronger side"
+                        ],
+                        "comments": [
                             "12 each side"
                         ]
                     }
@@ -2821,7 +2859,9 @@
                         "video": "https://www.youtube.com/embed/igHvWuP2MDU",
                         "details": [
                             "@3111, 8 reps x 3 sets; rest 2:30",
-                            "*Stand on a plate if you need more depth",
+                            "*Stand on a plate if you need more depth"
+                        ],
+                        "comments": [
                             "115 lb dumb bells"
                         ]
                     },
@@ -2900,7 +2940,9 @@
                         "name": "Assisted Pull-Up Machine",
                         "video": "https://www.youtube.com/embed/ZAR5EiNq1rg",
                         "details": [
-                            "@3111, 8 reps x 3 sets; rest 2:30",
+                            "@3111, 8 reps x 3 sets; rest 2:30"
+                        ],
+                        "comments": [
                             "100 lbs assist"
                         ]
                     },
@@ -2928,7 +2970,9 @@
                         "name": "GHD Hip Extension",
                         "video": "https://www.youtube.com/embed/yNvAeCrTFuk",
                         "details": [
-                            "@3011,10 reps x3 sets; rest 2 min",
+                            "@3011,10 reps x3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "With 10 lbs"
                         ]
                     },
@@ -2936,7 +2980,9 @@
                         "name": "Cable Standing Pallof Press",
                         "video": "https://www.youtube.com/embed/syYBcVbEAFk",
                         "details": [
-                            "@3011, 10/side x 3 sets; rest 2 min",
+                            "@3011, 10/side x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "20 lbs"
                         ]
                     }
@@ -3011,7 +3057,9 @@
                         "name": "Seated Alternating Dumbbell Press",
                         "video": "https://www.youtube.com/embed/ZjWq4wTEuSI",
                         "details": [
-                            "@3011, 16-20 alt reps x 3 sets; rest 2 min",
+                            "@3011, 16-20 alt reps x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "12 lbs"
                         ]
                     },
@@ -3023,7 +3071,9 @@
                         "name": "Split Squat",
                         "video": "https://www.youtube.com/embed/Py2Qeg-D5T0",
                         "details": [
-                            "@3011, 8-10/side x 3 sets; rest 2 min",
+                            "@3011, 8-10/side x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "One set with 10 lb"
                         ]
                     },
@@ -3070,8 +3120,10 @@
                         "video": "https://www.youtube.com/embed/igHvWuP2MDU",
                         "details": [
                             "@3111, 7-8 reps x 3 sets; rest 2:30",
-                            "Used 45 lb",
                             "Close to thighs bend knees"
+                        ],
+                        "comments": [
+                            "Used 45 lb"
                         ]
                     },
                     {
@@ -3100,7 +3152,9 @@
                         "name": "Cable Lat Pulldown",
                         "video": "https://www.youtube.com/embed/ShqtJk37UPM",
                         "details": [
-                            "@3011, 8-10 reps x 3 sets; rest 2 min",
+                            "@3011, 8-10 reps x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "65lb"
                         ]
                     },
@@ -3108,7 +3162,9 @@
                         "name": "Cyclist Goblet Squat",
                         "video": "https://www.youtube.com/embed/TysYZ7rKhpM",
                         "details": [
-                            "@3011, 8-10 reps x 3 sets; rest 2 min",
+                            "@3011, 8-10 reps x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "20 lb knees forward"
                         ]
                     },
@@ -3117,7 +3173,9 @@
                         "video": "https://www.youtube.com/embed/vW81EITekU0",
                         "details": [
                             "40m x 3 sets; rest 2 min",
-                            "*heavier than last week",
+                            "*heavier than last week"
+                        ],
+                        "comments": [
                             "40lb"
                         ]
                     }
@@ -3151,7 +3209,9 @@
                         "video": "https://www.youtube.com/embed/Py2Qeg-D5T0",
                         "details": [
                             "@3111, 7-8/side x 3 sets; rest 30 sec bt",
-                            "sides/2:30 bt sets",
+                            "sides/2:30 bt sets"
+                        ],
+                        "comments": [
                             "Last set w 10 each hand"
                         ]
                     },
@@ -3190,8 +3250,10 @@
                         "video": "https://www.youtube.com/embed/yNvAeCrTFuk",
                         "details": [
                             "@3011, 8-10 reps x 3 sets; rest 2 min",
-                            "10 rep holding 10 lb weight",
                             "Height at 4"
+                        ],
+                        "comments": [
+                            "10 rep holding 10 lb weight"
                         ]
                     },
                     {
@@ -3243,7 +3305,9 @@
                         "name": "Cable Single Arm External Rotation",
                         "video": "https://www.youtube.com/embed/3DMyOwvPbIE",
                         "details": [
-                            "@3011, 16-20 alt reps x 3 sets; rest 2 min",
+                            "@3011, 16-20 alt reps x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "5lb"
                         ]
                     },
@@ -3387,8 +3451,7 @@
                             "AMSAP/side x 3 sets; rest 2 min",
                             "*start on weaker side each set-match on",
                             "stronger side",
-                            "*goal is increased time per set",
-                            "‘a 2)"
+                            "*goal is increased time per set"
                         ]
                     }
                 ]
@@ -3520,7 +3583,9 @@
                         "name": "Dumbbell Bench Press",
                         "video": "https://www.youtube.com/embed/ZaDlbm8E8Tg",
                         "details": [
-                            "@3011, 8-10 reps x 3 sets; rest 2 min",
+                            "@3011, 8-10 reps x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "10 rep 12 lb"
                         ]
                     },
@@ -3528,7 +3593,9 @@
                         "name": "GHD Hip Extension",
                         "video": "https://www.youtube.com/embed/yNvAeCrTFuk",
                         "details": [
-                            "@3011, 8-10 reps x 3 sets; rest 2 min",
+                            "@3011, 8-10 reps x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "10lb times 10 times3"
                         ]
                     },
@@ -3585,11 +3652,11 @@
                         "video": "https://www.youtube.com/embed/iBupRh7nuPo",
                         "details": [
                             "3x 10 Reps",
-                            "10lb",
                             "Dumbbell 3 Point Row",
                             "3x 10reps/side"
                         ],
                         "comments": [
+                            "10lb",
                             "15 lb"
                         ]
                     },
@@ -3872,7 +3939,9 @@
                         "name": "Decline Weighted Sit-Up",
                         "video": "https://www.youtube.com/embed/PhvG-BQgnBU",
                         "details": [
-                            "8 reps/ side",
+                            "8 reps/ side"
+                        ],
+                        "comments": [
                             "10 lb 10x 2"
                         ]
                     }
@@ -3956,7 +4025,9 @@
                         "video": "https://www.youtube.com/embed/vW81EITekU0",
                         "details": [
                             "50m x3 sets; rest 2 min",
-                            "*heavier than last week",
+                            "*heavier than last week"
+                        ],
+                        "comments": [
                             "25 each arm"
                         ]
                     }
@@ -4030,7 +4101,9 @@
                         "name": "Weighted GHD Hip Extension",
                         "video": "https://www.youtube.com/embed/CHRbTdJF_0M",
                         "details": [
-                            "@3011, 8 reps x 3 sets; rest 2 min",
+                            "@3011, 8 reps x 3 sets; rest 2 min"
+                        ],
+                        "comments": [
                             "10lb, 10, 12"
                         ]
                     },
@@ -4139,7 +4212,9 @@
                         "name": "Decline Weighted Sit-Up",
                         "video": "https://www.youtube.com/embed/PhvG-BQgnBU",
                         "details": [
-                            "8 reps/ side",
+                            "8 reps/ side"
+                        ],
+                        "comments": [
                             "Holding 10 lb"
                         ]
                     }
@@ -4488,7 +4563,9 @@
                             "no sets to failure",
                             "cable bicep curl",
                             "3x10 reps at 3010",
-                            "last set to failure",
+                            "last set to failure"
+                        ],
+                        "comments": [
                             "10 lb free weight , machines full"
                         ]
                     },
@@ -4742,8 +4819,7 @@
                         "name": "Dumbbell Incline Skull Crusher",
                         "video": "https://www.youtube.com/embed/G4Vdjr-byjE",
                         "details": [
-                            "3x10 reps at 3010, rest 30s",
-                            "10lb"
+                            "3x10 reps at 3010, rest 30s"
                         ],
                         "comments": [
                             "10lb"
@@ -4760,7 +4836,9 @@
                         "name": "Chest supported db y raise",
                         "video": "https://www.youtube.com/embed/wWhG-7CQQmg",
                         "details": [
-                            "3x10 reps at 3010, rest 30s",
+                            "3x10 reps at 3010, rest 30s"
+                        ],
+                        "comments": [
                             "10 each hard"
                         ]
                     }
