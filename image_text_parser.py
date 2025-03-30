@@ -120,7 +120,8 @@ exercise_videos = {
     "single arm dumbbell bench press": "https://www.youtube.com/embed/q3cXdiyY7-Q",
     "dumbbell reverse lunge": "https://www.youtube.com/embed/Q2k3kYbtOcI",
     "seated dumbbell press": "https://www.youtube.com/embed/RgkzQ008m3I",
-    "hack samat machine": "https://www.youtube.com/embed/sw-5KcVZVk8"
+    "hack samat machine": "https://www.youtube.com/embed/sw-5KcVZVk8",
+    "hip adduction machine": "https://www.youtube.com/embed/3DaEZ0Er6cU"
 }
 
 def main():
@@ -198,6 +199,8 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
         line = line.strip()
         line = cleanUpName(line)
         task_name = getTaskName(line)
+        if prev_line == 'Goblet Cable Front Foot Elevated' and line == 'Split Squat':
+            is_prev_task_name = True
         if task_name and not is_prev_task_name: # Start of task name
             if not task_name or any(ext in task_name for ext in ['©']):
                 continue
@@ -215,7 +218,7 @@ def getActivityDetails(text, activity, activity_name, is_existing_task):
                 activity['tasks'].append({ 'name': task_name })
             # youtube video
             activity['tasks'][-1]['video'] = getVideo(task_name)
-        elif is_prev_task_name and (line[:1].isupper() or ('Split Squat' in line)): # End of task name
+        elif (is_prev_task_name or ('Machine' == line)) and (line[:1].isupper() or ('Split Squat' in line)): # End of task name
             if is_existing_task:
                 continue
             activity['tasks'][-1]['name'] += ' ' + line.strip()
@@ -430,7 +433,7 @@ def loadWarmups():
     in_folder = './Text-Files/Warmups'
     date_string = '2/10/2025'
     date = datetime.datetime.strptime(date_string, '%m/%d/%Y')
-    rest_days = [12, 15, 16, 19, 22, 23, 26, 1, 2]
+    rest_days_of_week = [2, 5, 6]
     files = os.listdir(in_folder)
     files.sort()
     for filename in files:
@@ -442,7 +445,7 @@ def loadWarmups():
                     date_string = date.strftime('%-m/%-d/%Y')
                     addWarmup(data, text, date_string)
                     date += datetime.timedelta(days=1)
-                    while date.day in rest_days:
+                    while date.weekday() in rest_days_of_week:
                         date += datetime.timedelta(days=1)
             except Exception as e:
                 print(f"Error processing {filename}: {'{}: {}'.format(type(e).__name__, e)}")

@@ -2530,12 +2530,8 @@
                         ]
                     },
                     {
-                        "name": "Goblet Cable Front Foot Elevated",
-                        "video": ""
-                    },
-                    {
-                        "name": "Split Squat",
-                        "video": "https://www.youtube.com/embed/Py2Qeg-D5T0",
+                        "name": "Goblet Cable Front Foot Elevated Split Squat",
+                        "video": "https://www.youtube.com/embed/adGM191e6Vk",
                         "details": [
                             "@3011, 8/side x 3 sets; rest 2 min"
                         ],
@@ -5638,6 +5634,1603 @@
         ]
     },
     "3/2/2025": {
+        "activities": [
+            {
+                "name": "Rest Day",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "video": "",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "3/3/2025": {
+        "activities": [
+            {
+                "name": "Ho",
+                "tasks": [
+                    {
+                        "name": "DB bent knee RDL (glute bias)",
+                        "video": "https://www.youtube.com/embed/WIcpu2UkJoY",
+                        "details": [
+                            "4 sets, 10 reps @ 3010 tempo",
+                            "no reps to failure",
+                            "*bring DBs next to lat pull down machine"
+                        ],
+                        "comments": [
+                            "Rest 60s",
+                            "20"
+                        ]
+                    },
+                    {
+                        "name": "Banded Single Arm Lat Pulldown",
+                        "video": "https://www.youtube.com/embed/s0MDw2_2Zs8",
+                        "details": [
+                            "*supinated grip",
+                            "10 reps/side at 3010",
+                            "last set to failure",
+                            "ss",
+                            "Rest 60s x4 sets",
+                            "*should be lat focused, keep the shoulder",
+                            "down and back before starting and don't let",
+                            "the tension go at the top",
+                            "Red band on cage",
+                            "Better form"
+                        ]
+                    },
+                    {
+                        "name": "Barbell Glute Bridge",
+                        "video": "https://www.youtube.com/embed/DQv1IMQDbE4",
+                        "details": [
+                            "*Or booty builder",
+                            "*note that you are only moving around 4-5",
+                            "inches from bottom to top of contraction",
+                            "this is very slow and controlled",
+                            "10 reps at 3010, rest 60s x 3",
+                            "last set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Seated Banded Row",
+                        "video": "https://www.youtube.com/embed/Jy-WCFAofBY",
+                        "details": [
+                            "10 reps @ 3010, rest 60s",
+                            "last set to failure",
+                            "x3 sets"
+                        ],
+                        "comments": [
+                            "25lb"
+                        ]
+                    },
+                    {
+                        "name": "Prone DB Reverse Fly",
+                        "video": "https://www.youtube.com/embed/Z__dp9rhlcw",
+                        "details": [
+                            "3x 10 reps at 3010, rest 30s",
+                            "no sets to failure",
+                            "Better form"
+                        ],
+                        "comments": [
+                            "8 lb"
+                        ]
+                    },
+                    {
+                        "name": "cable bicep curl",
+                        "video": "https://www.youtube.com/embed/dH7xKAXOkJM",
+                        "details": [
+                            "3x10 reps at 3010",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "15, 20"
+                        ]
+                    },
+                    {
+                        "name": "Standing Calf Raise",
+                        "video": "https://www.youtube.com/embed/LnWEIjIls-M",
+                        "details": [
+                            "*Machine if your gym has a standing calf raise",
+                            "machine",
+                            "3x10 reps at 3010",
+                            "last set to failure"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "Glute/CoreWarm Up:",
+                    "2 Rounds",
+                    "20 SLOW alternating wall dead bugs (low back",
+                    "pushes into the wall)",
+                    "10 banded clamshells",
+                    "1 minute supine belly breathing"
+                ]
+            }
+        ]
+    },
+    "3/4/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "Neutral Grip Shoulder Press Machine",
+                        "video": "https://www.youtube.com/embed/LEhz8ZXNWaY",
+                        "details": [
+                            "*May use DB if works better for the superset",
+                            "4x10 reps @3010",
+                            "no sets to failure"
+                        ],
+                        "comments": [
+                            "40"
+                        ]
+                    },
+                    {
+                        "name": "Leg Extension Machine",
+                        "video": "https://www.youtube.com/embed/s1JfTvyWdTs",
+                        "details": [
+                            "4x 10 reps at 3010, rest 60s",
+                            "last set taken to failure",
+                            "8:51 2 all > GD"
+                        ]
+                    },
+                    {
+                        "name": "Supinated Grip Body Row",
+                        "video": "https://www.youtube.com/embed/zbLAEQ3e9gw",
+                        "details": [
+                            "3x10 reps at 3010, rest 60s",
+                            "last set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Smith Machine Reverse Lunge",
+                        "video": "https://www.youtube.com/embed/TK-5lUZZUOs",
+                        "details": [
+                            "*No need to add weight at first",
+                            "3x8 reps/leg at 3010, rest 60s",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "Bar 45"
+                        ]
+                    },
+                    {
+                        "name": "Leg Press Machine Press",
+                        "video": "https://www.youtube.com/embed/B8KqmwdomoU",
+                        "details": [
+                            "3x10 at 3010, rest 30s",
+                            "last set to failure",
+                            "45 on each side"
+                        ]
+                    },
+                    {
+                        "name": "Quadruped Floating Shoulder Touches",
+                        "video": "https://www.youtube.com/embed/h2OEyxPZYLs",
+                        "details": [
+                            "3x 10/side (controlled)",
+                            "rest 30s"
+                        ]
+                    },
+                    {
+                        "name": "Dumbbell Lateral Raise",
+                        "video": "https://www.youtube.com/embed/8aUc9snLOxU",
+                        "details": [
+                            "3x10 at 3010, rest 30s"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "2 rounds",
+                    "15 hops up and down (in place)",
+                    "4 depth jump to stick (start low and work up week by",
+                    "week)",
+                    "10 prone lift offs"
+                ]
+            }
+        ]
+    },
+    "3/5/2025": {
+        "activities": [
+            {
+                "name": "Rest Day",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "video": "",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "3/6/2025": {
+        "activities": [
+            {
+                "name": "Systemic Ho",
+                "tasks": [
+                    {
+                        "name": "Lying Hamstring Curl",
+                        "video": "https://www.youtube.com/embed/jxctD6fL_FQ",
+                        "details": [
+                            "4x10 reps @ 3010, rest 60s",
+                            "Last set to failure"
+                        ],
+                        "comments": [
+                            "42 2and6"
+                        ]
+                    },
+                    {
+                        "name": "Rear Foot Elevated Split Squat",
+                        "video": "https://www.youtube.com/embed/3fxmRoIE_fk",
+                        "details": [
+                            "3x10 reps/leg at 3010 (hold weight in",
+                            "opposite hand), rest 60s",
+                            "last set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Rope Cable Tricep Pushdown",
+                        "video": "https://www.youtube.com/embed/y6EdXBdL75A",
+                        "details": [
+                            "3x10 reps at 3010, rest 60s",
+                            "fail the last set"
+                        ],
+                        "comments": [
+                            "20"
+                        ]
+                    },
+                    {
+                        "name": "Standing cable rear delt fly",
+                        "video": "https://www.youtube.com/embed/JENKmsEZQO8",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s",
+                            "No set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Facing away dual cable curl",
+                        "video": "https://www.youtube.com/embed/xrQlkUQCKQY",
+                        "details": [
+                            "3x10 reps @ 3010, rest 30s",
+                            "DB if needed to help with superset"
+                        ],
+                        "comments": [
+                            "15"
+                        ]
+                    },
+                    {
+                        "name": "Seated Calf Raise Machine",
+                        "video": "https://www.youtube.com/embed/2Q-HQ3mnePg",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s",
+                            "last set to failure"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "3 Rounds",
+                    "10 side plank to clamshell with hold /side",
+                    "10 lateral banded walk/side",
+                    "30 walking lunge- no tempo"
+                ]
+            }
+        ]
+    },
+    "3/7/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "Hip Abduction Machine",
+                        "video": "https://www.youtube.com/embed/pVGCaMmxuEg",
+                        "details": [
+                            "4x10 reps @ 3010, rest 60s",
+                            "Last set to failure",
+                            "Hip aDDUCTION 60"
+                        ]
+                    },
+                    {
+                        "name": "Hip Abduction Machine",
+                        "video": "https://www.youtube.com/embed/pVGCaMmxuEg",
+                        "details": [
+                            "4x10 reps at 3010, rest 60s",
+                            "take last set to failure"
+                        ],
+                        "comments": [
+                            "60,65"
+                        ]
+                    },
+                    {
+                        "name": "low cable lateral raise",
+                        "video": "https://www.youtube.com/embed/Z5FA9aq3L6A",
+                        "details": [
+                            "Not side leaning and try to keep traps and",
+                            "momentum out of it!",
+                            "3x10 @ 3010, rest 60s",
+                            "last set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Plate Deltoid Plate Raise",
+                        "video": "https://www.youtube.com/embed/hikbChhbeLI",
+                        "details": [
+                            "3x10 reps @ 3010, rest 60s",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "15"
+                        ]
+                    },
+                    {
+                        "name": "Roman Chair Back Extension for Glutes",
+                        "video": "https://www.youtube.com/embed/w5QPcMaT_DQ",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s"
+                        ],
+                        "comments": [
+                            "10"
+                        ]
+                    },
+                    {
+                        "name": "Reverse Crunch",
+                        "video": "https://www.youtube.com/embed/aIyadD7d7OA",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s"
+                        ]
+                    },
+                    {
+                        "name": "front rack KB march",
+                        "video": "https://www.youtube.com/embed/6lE9Q3QUPsQ",
+                        "details": [
+                            "3x20 steps",
+                            "*Keep Core tight. Slow steps"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "2 Rounds",
+                    "5 way hips x 5 each way",
+                    "5 SLOW sciatic nerve floss/side",
+                    "30 second wall sit - push low back into the floor",
+                    "5 yoga push up"
+                ]
+            }
+        ]
+    },
+    "3/8/2025": {
+        "activities": [
+            {
+                "name": "Rest Day",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "video": "",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "3/9/2025": {
+        "activities": [
+            {
+                "name": "Rest Day",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "video": "",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "3/10/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "DB bent knee RDL (glute bias)",
+                        "video": "https://www.youtube.com/embed/WIcpu2UkJoY",
+                        "details": [
+                            "4 sets, 10 reps @ 3010 tempo",
+                            "no reps to failure",
+                            "*bring DBs next to lat pull down machine"
+                        ],
+                        "comments": [
+                            "Rest 60s",
+                            "20"
+                        ]
+                    },
+                    {
+                        "name": "Banded Single Arm Lat Pulldown",
+                        "video": "https://www.youtube.com/embed/s0MDw2_2Zs8",
+                        "details": [
+                            "*supinated grip",
+                            "10 reps/side at 3010",
+                            "last set to failure",
+                            "2)",
+                            "Rest 60s x4 sets",
+                            "*should be lat focused, keep the shoulder",
+                            "down and back before starting and don't let",
+                            "the tension go at the top"
+                        ]
+                    },
+                    {
+                        "name": "Barbell Glute Bridge",
+                        "video": "https://www.youtube.com/embed/DQv1IMQDbE4",
+                        "details": [
+                            "*Or booty builder",
+                            "*note that you are only moving around 4-5",
+                            "inches from bottom to top of contraction",
+                            "this is very slow and controlled",
+                            "10 reps at 3010, rest 60s x 3",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "20"
+                        ]
+                    },
+                    {
+                        "name": "Seated Banded Row",
+                        "video": "https://www.youtube.com/embed/Jy-WCFAofBY",
+                        "details": [
+                            "10 reps @ 3010, rest 60s",
+                            "last set to failure",
+                            "x3 sets"
+                        ]
+                    },
+                    {
+                        "name": "Prone DB Reverse Fly",
+                        "video": "https://www.youtube.com/embed/Z__dp9rhlcw",
+                        "details": [
+                            "3x 10 reps at 3010, rest 30s",
+                            "no sets to failure",
+                            "cable bicep curl",
+                            "3x10 reps at 3010",
+                            "last set to failure",
+                            "12 machines ful"
+                        ],
+                        "comments": [
+                            "Used db"
+                        ]
+                    },
+                    {
+                        "name": "Standing Calf Raise",
+                        "video": "https://www.youtube.com/embed/LnWEIjIls-M",
+                        "details": [
+                            "*Machine if your gym has a standing calf raise",
+                            "machine",
+                            "3x10 reps at 3010",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "70 70 85"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "Glute/CoreWarm Up:",
+                    "2 Rounds",
+                    "20 SLOW alternating wall dead bugs (low back",
+                    "pushes into the wall)",
+                    "10 banded clamshells",
+                    "1 minute supine belly breathing"
+                ]
+            }
+        ]
+    },
+    "3/11/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "Neutral Grip Shoulder Press Machine",
+                        "video": "https://www.youtube.com/embed/LEhz8ZXNWaY",
+                        "details": [
+                            "*May use DB if works better for the superset",
+                            "4x10 reps @3010",
+                            "no sets to failure"
+                        ],
+                        "comments": [
+                            "50"
+                        ]
+                    },
+                    {
+                        "name": "Leg Extension Machine",
+                        "video": "https://www.youtube.com/embed/s1JfTvyWdTs",
+                        "details": [
+                            "4x 10 reps at 3010, rest 60s",
+                            "last set taken to failure",
+                            "8:53 2 all > GD"
+                        ]
+                    },
+                    {
+                        "name": "Supinated Grip Body Row",
+                        "video": "https://www.youtube.com/embed/zbLAEQ3e9gw",
+                        "details": [
+                            "3x10 reps at 3010, rest 60s",
+                            "last set to failure",
+                            "10 times 3!!"
+                        ]
+                    },
+                    {
+                        "name": "Smith Machine Reverse Lunge",
+                        "video": "https://www.youtube.com/embed/TK-5lUZZUOs",
+                        "details": [
+                            "*No need to add weight at first",
+                            "3x8 reps/leg at 3010, rest 60s",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "45 bar"
+                        ]
+                    },
+                    {
+                        "name": "Leg Press Machine Press",
+                        "video": "https://www.youtube.com/embed/B8KqmwdomoU",
+                        "details": [
+                            "3x10 at 3010, rest 30s",
+                            "last set to failure",
+                            "45 on each side"
+                        ]
+                    },
+                    {
+                        "name": "Quadruped Floating Shoulder Touches",
+                        "video": "https://www.youtube.com/embed/h2OEyxPZYLs",
+                        "details": [
+                            "3x 10/side (controlled)",
+                            "rest 30s"
+                        ]
+                    },
+                    {
+                        "name": "Dumbbell Lateral Raise",
+                        "video": "https://www.youtube.com/embed/8aUc9snLOxU",
+                        "details": [
+                            "3x10 at 3010, rest 30s",
+                            "last set to failure"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "2 rounds",
+                    "15 hops up and down (in place)",
+                    "4 depth jump to stick (start low and work up week by",
+                    "week)",
+                    "10 prone lift offs"
+                ]
+            }
+        ]
+    },
+    "3/12/2025": {
+        "activities": [
+            {
+                "name": "Rest Day",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "video": "",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "3/13/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "Seated Low Cable Row",
+                        "video": "https://www.youtube.com/embed/J9h9AZnXXpo",
+                        "details": [
+                            "Use close grip attachment",
+                            "Lat focus, slight lean forward",
+                            "4x10 reps at 3010, rest 60s",
+                            "no sets to failure",
+                            "*if needed go single arm DB row to hip to help",
+                            "with supersetting and not running back and",
+                            "forth - same rep scheme"
+                        ],
+                        "comments": [
+                            "40"
+                        ]
+                    },
+                    {
+                        "name": "Lying Hamstring Curl",
+                        "video": "https://www.youtube.com/embed/jxctD6fL_FQ",
+                        "details": [
+                            "ss",
+                            "4x10 reps @ 3010, rest 60s",
+                            "Last set to failure"
+                        ],
+                        "comments": [
+                            "40"
+                        ]
+                    },
+                    {
+                        "name": "Rear Foot Elevated Split Squat",
+                        "video": "https://www.youtube.com/embed/3fxmRoIE_fk",
+                        "details": [
+                            "3x10 reps/leg at 3010 (hold weight in",
+                            "opposite hand), rest 60s",
+                            "last set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Rope Cable Tricep Pushdown",
+                        "video": "https://www.youtube.com/embed/y6EdXBdL75A",
+                        "details": [
+                            "3x10 reps at 3010, rest 60s",
+                            "fail the last set"
+                        ],
+                        "comments": [
+                            "20"
+                        ]
+                    },
+                    {
+                        "name": "Standing cable rear delt fly",
+                        "video": "https://www.youtube.com/embed/JENKmsEZQO8",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s",
+                            "No set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Facing away dual cable curl",
+                        "video": "https://www.youtube.com/embed/xrQlkUQCKQY",
+                        "details": [
+                            "3x10 reps @ 3010, rest 30s",
+                            "DB if needed to help with superset"
+                        ],
+                        "comments": [
+                            "15"
+                        ]
+                    },
+                    {
+                        "name": "Seated Calf Raise Machine",
+                        "video": "https://www.youtube.com/embed/2Q-HQ3mnePg",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "45"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "3 Rounds",
+                    "10 side plank to clamshell with hold /side",
+                    "10 lateral banded walk/side",
+                    "30 walking lunge- no tempo"
+                ]
+            }
+        ]
+    },
+    "3/14/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "Hip Abduction Machine",
+                        "video": "https://www.youtube.com/embed/pVGCaMmxuEg",
+                        "details": [
+                            "4x10 reps @ 3010, rest 60s",
+                            "Last set to failure"
+                        ],
+                        "comments": [
+                            "70"
+                        ]
+                    },
+                    {
+                        "name": "Hip Abduction Machine",
+                        "video": "https://www.youtube.com/embed/pVGCaMmxuEg",
+                        "details": [
+                            "4x10 reps at 3010, rest 60s",
+                            "take last set to failure",
+                            "Addiction 60",
+                            "8:55 2 all > GD"
+                        ]
+                    },
+                    {
+                        "name": "low cable lateral raise",
+                        "video": "https://www.youtube.com/embed/Z5FA9aq3L6A",
+                        "details": [
+                            "Not side leaning and try to keep traps and",
+                            "momentum out of it!",
+                            "3x10 @ 3010, rest 60s",
+                            "last set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Plate Deltoid Plate Raise",
+                        "video": "https://www.youtube.com/embed/hikbChhbeLI",
+                        "details": [
+                            "3x10 reps @ 3010, rest 60s",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "20"
+                        ]
+                    },
+                    {
+                        "name": "Roman Chair Back Extension for Glutes",
+                        "video": "https://www.youtube.com/embed/w5QPcMaT_DQ",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s"
+                        ],
+                        "comments": [
+                            "10"
+                        ]
+                    },
+                    {
+                        "name": "Reverse Crunch",
+                        "video": "https://www.youtube.com/embed/aIyadD7d7OA",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s"
+                        ]
+                    },
+                    {
+                        "name": "front rack KB march",
+                        "video": "https://www.youtube.com/embed/6lE9Q3QUPsQ",
+                        "details": [
+                            "3x20 steps",
+                            "*Keep Core tight. Slow steps"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "2 Rounds",
+                    "5 way hips x 5 each way",
+                    "5 SLOW sciatic nerve floss/side",
+                    "30 second wall sit - push low back into the floor",
+                    "5 yoga push up"
+                ]
+            }
+        ]
+    },
+    "3/15/2025": {
+        "activities": [
+            {
+                "name": "Rest Day",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "video": "",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "3/16/2025": {
+        "activities": [
+            {
+                "name": "Rest Day",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "video": "",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "3/17/2025": {
+        "activities": [
+            {
+                "name": "Ho",
+                "tasks": [
+                    {
+                        "name": "DB bent knee RDL (glute bias)",
+                        "video": "https://www.youtube.com/embed/WIcpu2UkJoY",
+                        "details": [
+                            "4 sets, 10 reps @ 3010 tempo",
+                            "no reps to failure",
+                            "*bring DBs next to lat pull down machine"
+                        ],
+                        "comments": [
+                            "Rest 60s",
+                            "20"
+                        ]
+                    },
+                    {
+                        "name": "Banded Single Arm Lat Pulldown",
+                        "video": "https://www.youtube.com/embed/s0MDw2_2Zs8",
+                        "details": [
+                            "*supinated grip",
+                            "10 reps/side at 3010",
+                            "last set to failure",
+                            "Rest 60s x4 sets",
+                            "*should be lat focused, keep the shoulder",
+                            "down and back before starting and don't let",
+                            "the tension go at the top"
+                        ]
+                    },
+                    {
+                        "name": "Barbell Glute Bridge",
+                        "video": "https://www.youtube.com/embed/DQv1IMQDbE4",
+                        "details": [
+                            "*Or booty builder",
+                            "*note that you are only moving around 4-5",
+                            "inches from bottom to top of contraction",
+                            "this is very slow and controlled",
+                            "10 reps at 3010, rest 60s x 3",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "25"
+                        ]
+                    },
+                    {
+                        "name": "Seated Banded Row",
+                        "video": "https://www.youtube.com/embed/Jy-WCFAofBY",
+                        "details": [
+                            "10 reps @ 3010, rest 60s",
+                            "last set to failure",
+                            "x3 sets"
+                        ]
+                    },
+                    {
+                        "name": "Prone DB Reverse Fly",
+                        "video": "https://www.youtube.com/embed/Z__dp9rhlcw",
+                        "details": [
+                            "3x 10 reps at 3010, rest 30s",
+                            "no sets to failure"
+                        ],
+                        "comments": [
+                            "10!!!"
+                        ]
+                    },
+                    {
+                        "name": "cable bicep curl",
+                        "video": "https://www.youtube.com/embed/dH7xKAXOkJM",
+                        "details": [
+                            "3x10 reps at 3010",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "15"
+                        ]
+                    },
+                    {
+                        "name": "Standing Calf Raise",
+                        "video": "https://www.youtube.com/embed/LnWEIjIls-M",
+                        "details": [
+                            "*Machine if your gym has a standing calf raise",
+                            "machine",
+                            "3x10 reps at 3010",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "90"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "Glute/CoreWarm Up:",
+                    "2 Rounds",
+                    "20 SLOW alternating wall dead bugs (low back",
+                    "pushes into the wall)",
+                    "10 banded clamshells",
+                    "1 minute supine belly breathing"
+                ]
+            }
+        ]
+    },
+    "3/18/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "Neutral Grip Shoulder Press Machine",
+                        "video": "https://www.youtube.com/embed/LEhz8ZXNWaY",
+                        "details": [
+                            "*May use DB if works better for the superset",
+                            "4x10 reps @3010",
+                            "no sets to failure"
+                        ]
+                    },
+                    {
+                        "name": "Leg Extension Machine",
+                        "video": "https://www.youtube.com/embed/s1JfTvyWdTs",
+                        "details": [
+                            "4x 10 reps at 3010, rest 60s",
+                            "last set taken to failure"
+                        ]
+                    },
+                    {
+                        "name": "Supinated Grip Body Row",
+                        "video": "https://www.youtube.com/embed/zbLAEQ3e9gw",
+                        "details": [
+                            "3x10 reps at 3010, rest 60s",
+                            "last set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Smith Machine Reverse Lunge",
+                        "video": "https://www.youtube.com/embed/TK-5lUZZUOs",
+                        "details": [
+                            "*No need to add weight at first",
+                            "3x8 reps/leg at 3010, rest 60s",
+                            "last set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Leg Press Machine Press",
+                        "video": "https://www.youtube.com/embed/B8KqmwdomoU",
+                        "details": [
+                            "3x10 at 3010, rest 30s",
+                            "last set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Quadruped Floating Shoulder Touches",
+                        "video": "https://www.youtube.com/embed/h2OEyxPZYLs",
+                        "details": [
+                            "3x 10/side (controlled)",
+                            "rest 30s"
+                        ]
+                    },
+                    {
+                        "name": "Dumbbell Lateral Raise",
+                        "video": "https://www.youtube.com/embed/8aUc9snLOxU",
+                        "details": [
+                            "3x10 at 3010, rest 30s",
+                            "last set to failure"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "2 rounds",
+                    "15 hops up and down (in place)",
+                    "4 depth jump to stick (start low and work up week by",
+                    "week)",
+                    "10 prone lift offs"
+                ]
+            }
+        ]
+    },
+    "3/19/2025": {
+        "activities": [
+            {
+                "name": "Rest Day",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "video": "",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "3/20/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "Seated Low Cable Row",
+                        "video": "https://www.youtube.com/embed/J9h9AZnXXpo",
+                        "details": [
+                            "Use close grip attachment",
+                            "Lat focus, slight lean forward",
+                            "4x10 reps at 3010, rest 60s",
+                            "no sets to failure",
+                            "*if needed go single arm DB row to hip to help",
+                            "with supersetting and not running back and",
+                            "forth - same rep scheme"
+                        ],
+                        "comments": [
+                            "40,45,45,45"
+                        ]
+                    },
+                    {
+                        "name": "Lying Hamstring Curl",
+                        "video": "https://www.youtube.com/embed/jxctD6fL_FQ",
+                        "details": [
+                            "4x10 reps @ 3010, rest 60s",
+                            "Last set to failure"
+                        ],
+                        "comments": [
+                            "42.5"
+                        ]
+                    },
+                    {
+                        "name": "Rear Foot Elevated Split Squat",
+                        "video": "https://www.youtube.com/embed/3fxmRoIE_fk",
+                        "details": [
+                            "3x10 reps/leg at 3010 (hold weight in",
+                            "opposite hand), rest 60s",
+                            "last set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Rope Cable Tricep Pushdown",
+                        "video": "https://www.youtube.com/embed/y6EdXBdL75A",
+                        "details": [
+                            "3x10 reps at 3010, rest 60s",
+                            "fail the last set"
+                        ],
+                        "comments": [
+                            "25 hard"
+                        ]
+                    },
+                    {
+                        "name": "Standing cable rear delt fly",
+                        "video": "https://www.youtube.com/embed/JENKmsEZQO8",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s",
+                            "No set to failure",
+                            "Machine full"
+                        ],
+                        "comments": [
+                            "Did db 10"
+                        ]
+                    },
+                    {
+                        "name": "Facing away dual cable curl",
+                        "video": "https://www.youtube.com/embed/xrQlkUQCKQY",
+                        "details": [
+                            "3x10 reps @ 3010, rest 30s",
+                            "DB if needed to help with superset"
+                        ],
+                        "comments": [
+                            "15"
+                        ]
+                    },
+                    {
+                        "name": "Seated Calf Raise Machine",
+                        "video": "https://www.youtube.com/embed/2Q-HQ3mnePg",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "45"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "3 Rounds",
+                    "10 side plank to clamshell with hold /side",
+                    "10 lateral banded walk/side",
+                    "30 walking lunge- no tempo"
+                ]
+            }
+        ]
+    },
+    "3/21/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "Hip Abduction Machine",
+                        "video": "https://www.youtube.com/embed/pVGCaMmxuEg",
+                        "details": [
+                            "4x10 reps @ 3010, rest 60s",
+                            "Last set to failure"
+                        ],
+                        "comments": [
+                            "70"
+                        ]
+                    },
+                    {
+                        "name": "Hip Adduction Machine",
+                        "video": "https://www.youtube.com/embed/3DaEZ0Er6cU",
+                        "details": [
+                            "4x10 reps at 3010, rest 60s",
+                            "take last set to failure"
+                        ]
+                    },
+                    {
+                        "name": "low cable lateral raise",
+                        "video": "https://www.youtube.com/embed/Z5FA9aq3L6A",
+                        "details": [
+                            "Not side leaning and try to keep traps and",
+                            "momentum out of it!",
+                            "3x10 @ 3010, rest 60s",
+                            "last set to failure",
+                            "10 db, machine hurts shoulder"
+                        ]
+                    },
+                    {
+                        "name": "Plate Deltoid Plate Raise",
+                        "video": "https://www.youtube.com/embed/hikbChhbeLI",
+                        "details": [
+                            "3x10 reps @ 3010, rest 60s",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "20"
+                        ]
+                    },
+                    {
+                        "name": "Roman Chair Back Extension for Glutes",
+                        "video": "https://www.youtube.com/embed/w5QPcMaT_DQ",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s"
+                        ],
+                        "comments": [
+                            "15"
+                        ]
+                    },
+                    {
+                        "name": "Reverse Crunch",
+                        "video": "https://www.youtube.com/embed/aIyadD7d7OA",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s"
+                        ]
+                    },
+                    {
+                        "name": "front rack KB march",
+                        "video": "https://www.youtube.com/embed/6lE9Q3QUPsQ",
+                        "details": [
+                            "3x20 steps",
+                            "*Keep Core tight. Slow steps"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "2 Rounds",
+                    "5 way hips x 5 each way",
+                    "5 SLOW sciatic nerve floss/side",
+                    "30 second wall sit - push low back into the floor",
+                    "5 yoga push up"
+                ]
+            }
+        ]
+    },
+    "3/22/2025": {
+        "activities": [
+            {
+                "name": "Rest Day",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "video": "",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "3/23/2025": {
+        "activities": [
+            {
+                "name": "Rest Day",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "video": "",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "3/24/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "Banded Single Arm Lat Pulldown",
+                        "video": "https://www.youtube.com/embed/s0MDw2_2Zs8",
+                        "details": [
+                            "*supinated grip",
+                            "10 reps/side at 3010",
+                            "last set to failure",
+                            "2)",
+                            "Rest 60s x4 sets",
+                            "*should be lat focused, keep the shoulder",
+                            "down and back before starting and don't let",
+                            "the tension go at the top"
+                        ]
+                    },
+                    {
+                        "name": "Barbell Glute Bridge",
+                        "video": "https://www.youtube.com/embed/DQv1IMQDbE4",
+                        "details": [
+                            "*Or booty builder",
+                            "*note that you are only moving around 4-5",
+                            "inches from bottom to top of contraction",
+                            "this is very slow and controlled",
+                            "10 reps at 3010, rest 60s x 3",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "25"
+                        ]
+                    },
+                    {
+                        "name": "Seated Banded Row",
+                        "video": "https://www.youtube.com/embed/Jy-WCFAofBY",
+                        "details": [
+                            "10 reps @ 3010, rest 60s",
+                            "last set to failure",
+                            "x3 sets"
+                        ]
+                    },
+                    {
+                        "name": "Prone DB Reverse Fly",
+                        "video": "https://www.youtube.com/embed/Z__dp9rhlcw",
+                        "details": [
+                            "3x 10 reps at 3010, rest 30s",
+                            "no sets to failure"
+                        ],
+                        "comments": [
+                            "10"
+                        ]
+                    },
+                    {
+                        "name": "cable bicep curl",
+                        "video": "https://www.youtube.com/embed/dH7xKAXOkJM",
+                        "details": [
+                            "3x10 reps at 3010",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "25,30,30"
+                        ]
+                    },
+                    {
+                        "name": "Standing Calf Raise",
+                        "video": "https://www.youtube.com/embed/LnWEIjIls-M",
+                        "details": [
+                            "*Machine if your gym has a standing calf raise",
+                            "machine",
+                            "3x10 reps at 3010",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "95"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "Glute/CoreWarm Up:",
+                    "2 Rounds",
+                    "20 SLOW alternating wall dead bugs (low back",
+                    "pushes into the wall)",
+                    "10 banded clamshells",
+                    "1 minute supine belly breathing"
+                ]
+            }
+        ]
+    },
+    "3/25/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "Neutral Grip Shoulder Press Machine",
+                        "video": "https://www.youtube.com/embed/LEhz8ZXNWaY",
+                        "details": [
+                            "4x10 reps @3010",
+                            "no sets to failure"
+                        ],
+                        "comments": [
+                            "50"
+                        ]
+                    },
+                    {
+                        "name": "Leg Extension Machine",
+                        "video": "https://www.youtube.com/embed/s1JfTvyWdTs",
+                        "details": [
+                            "*May use DB if works better for the superset",
+                            "4x 10 reps at 3010, rest 60s",
+                            "last set taken to failure",
+                            "8:57 2 wll > ED"
+                        ],
+                        "comments": [
+                            "tt ‘a"
+                        ]
+                    },
+                    {
+                        "name": "Supinated Grip Body Row",
+                        "video": "https://www.youtube.com/embed/zbLAEQ3e9gw",
+                        "details": [
+                            "3x10 reps at 3010, rest 60s",
+                            "last set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Smith Machine Reverse Lunge",
+                        "video": "https://www.youtube.com/embed/TK-5lUZZUOs",
+                        "details": [
+                            "*No need to add weight at first",
+                            "3x8 reps/leg at 3010, rest 60s",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "45 lb bar"
+                        ]
+                    },
+                    {
+                        "name": "Leg Press Machine Press",
+                        "video": "https://www.youtube.com/embed/B8KqmwdomoU",
+                        "details": [
+                            "3x10 at 3010, rest 30s",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "45"
+                        ]
+                    },
+                    {
+                        "name": "Quadruped Floating Shoulder Touches",
+                        "video": "https://www.youtube.com/embed/h2OEyxPZYLs",
+                        "details": [
+                            "3x 10/side (controlled)",
+                            "rest 30s"
+                        ]
+                    },
+                    {
+                        "name": "Dumbbell Lateral Raise",
+                        "video": "https://www.youtube.com/embed/8aUc9snLOxU",
+                        "details": [
+                            "3x10 at 3010, rest 30s"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "2 rounds",
+                    "15 hops up and down (in place)",
+                    "4 depth jump to stick (start low and work up week by",
+                    "week)",
+                    "10 prone lift offs"
+                ]
+            }
+        ]
+    },
+    "3/26/2025": {
+        "activities": [
+            {
+                "name": "Rest Day",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "video": "",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "3/27/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "Seated Low Cable Row",
+                        "video": "https://www.youtube.com/embed/J9h9AZnXXpo",
+                        "details": [
+                            "Use close grip attachment",
+                            "Lat focus, slight lean forward",
+                            "4x10 reps at 3010, rest 60s",
+                            "no sets to failure",
+                            "*if needed go single arm DB row to hip to help",
+                            "with supersetting and not running back and",
+                            "forth - same rep scheme",
+                            "45 ?Re legs straight"
+                        ]
+                    },
+                    {
+                        "name": "Lying Hamstring Curl",
+                        "video": "https://www.youtube.com/embed/jxctD6fL_FQ",
+                        "details": [
+                            "ss",
+                            "4x10 reps @ 3010, rest 60s",
+                            "Last set to failure"
+                        ],
+                        "comments": [
+                            "42.5"
+                        ]
+                    },
+                    {
+                        "name": "Rear Foot Elevated Split Squat",
+                        "video": "https://www.youtube.com/embed/3fxmRoIE_fk",
+                        "details": [
+                            "3x10 reps/leg at 3010 (hold weight in",
+                            "opposite hand), rest 60s",
+                            "last set to failure"
+                        ]
+                    },
+                    {
+                        "name": "Rope Cable Tricep Pushdown",
+                        "video": "https://www.youtube.com/embed/y6EdXBdL75A",
+                        "details": [
+                            "3x10 reps at 3010, rest 60s",
+                            "fail the last set"
+                        ],
+                        "comments": [
+                            "25"
+                        ]
+                    },
+                    {
+                        "name": "Standing cable rear delt fly",
+                        "video": "https://www.youtube.com/embed/JENKmsEZQO8",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s",
+                            "No set to failure"
+                        ],
+                        "comments": [
+                            "20,15,15"
+                        ]
+                    },
+                    {
+                        "name": "Facing away dual cable curl",
+                        "video": "https://www.youtube.com/embed/xrQlkUQCKQY",
+                        "details": [
+                            "3x10 reps @ 3010, rest 30s",
+                            "DB if needed to help with superset"
+                        ],
+                        "comments": [
+                            "15"
+                        ]
+                    },
+                    {
+                        "name": "Seated Calf Raise Machine",
+                        "video": "https://www.youtube.com/embed/2Q-HQ3mnePg",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "55"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "3 Rounds",
+                    "10 side plank to clamshell with hold /side",
+                    "10 lateral banded walk/side",
+                    "30 walking lunge- no tempo"
+                ]
+            }
+        ]
+    },
+    "3/28/2025": {
+        "activities": [
+            {
+                "name": "Systemic",
+                "tasks": [
+                    {
+                        "name": "Hip Abduction Machine",
+                        "video": "https://www.youtube.com/embed/pVGCaMmxuEg",
+                        "details": [
+                            "4x10 reps @ 3010, rest 60s",
+                            "Last set to failure"
+                        ],
+                        "comments": [
+                            "75"
+                        ]
+                    },
+                    {
+                        "name": "Hip Adduction Machine",
+                        "video": "https://www.youtube.com/embed/3DaEZ0Er6cU",
+                        "details": [
+                            "4x10 reps at 3010, rest 60s",
+                            "take last set to failure"
+                        ],
+                        "comments": [
+                            "75"
+                        ]
+                    },
+                    {
+                        "name": "low cable lateral raise",
+                        "video": "https://www.youtube.com/embed/Z5FA9aq3L6A",
+                        "details": [
+                            "Not side leaning and try to keep traps and",
+                            "momentum out of it!",
+                            "3x10 @ 3010, rest 60s",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "10 db"
+                        ]
+                    },
+                    {
+                        "name": "Plate Deltoid Plate Raise",
+                        "video": "https://www.youtube.com/embed/hikbChhbeLI",
+                        "details": [
+                            "3x10 reps @ 3010, rest 60s",
+                            "last set to failure"
+                        ],
+                        "comments": [
+                            "20, 25, 25"
+                        ]
+                    },
+                    {
+                        "name": "Roman Chair Back Extension for Glutes",
+                        "video": "https://www.youtube.com/embed/w5QPcMaT_DQ",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s"
+                        ],
+                        "comments": [
+                            "At5 20"
+                        ]
+                    },
+                    {
+                        "name": "Reverse Crunch",
+                        "video": "https://www.youtube.com/embed/aIyadD7d7OA",
+                        "details": [
+                            "3x10 reps at 3010, rest 30s"
+                        ]
+                    },
+                    {
+                        "name": "front rack KB march",
+                        "video": "https://www.youtube.com/embed/6lE9Q3QUPsQ",
+                        "details": [
+                            "3x20 steps",
+                            "*Keep Core tight. Slow steps"
+                        ]
+                    }
+                ],
+                "warmup": [
+                    "2 Rounds",
+                    "5 way hips x 5 each way",
+                    "5 SLOW sciatic nerve floss/side",
+                    "30 second wall sit - push low back into the floor",
+                    "5 yoga push up"
+                ]
+            }
+        ]
+    },
+    "3/29/2025": {
+        "activities": [
+            {
+                "name": "Rest Day",
+                "tasks": [
+                    {
+                        "name": "It's a rest day!",
+                        "video": "",
+                        "details": [
+                            "Get outside, move, and enjoy some active recovery."
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "3/30/2025": {
         "activities": [
             {
                 "name": "Rest Day",
