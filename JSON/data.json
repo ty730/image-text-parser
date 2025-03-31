@@ -1665,7 +1665,6 @@
                         "video": "",
                         "details": [
                             "AMDAD @ cuctrinad nace",
-                            "ss",
                             "MAP 9",
                             "30 minute AMRAP @ sustained pace",
                             "12 cal Airbike",
@@ -5652,7 +5651,7 @@
     "3/3/2025": {
         "activities": [
             {
-                "name": "Ho",
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "DB bent knee RDL (glute bias)",
@@ -5674,7 +5673,6 @@
                             "*supinated grip",
                             "10 reps/side at 3010",
                             "last set to failure",
-                            "ss",
                             "Rest 60s x4 sets",
                             "*should be lat focused, keep the shoulder",
                             "down and back before starting and don't let",
@@ -5852,8 +5850,24 @@
     "3/6/2025": {
         "activities": [
             {
-                "name": "Systemic Ho",
+                "name": "Systemic",
                 "tasks": [
+                    {
+                        "name": "Seated Low Cable Row",
+                        "video": "https://www.youtube.com/embed/J9h9AZnXXpo",
+                        "details": [
+                            "Use close grip attachment",
+                            "Lat focus, slight lean forward",
+                            "4x10 reps at 3010, rest 60s",
+                            "no sets to failure",
+                            "*if needed go single arm DB row to hip to help",
+                            "with supersetting and not running back and",
+                            "forth - same rep scheme"
+                        ],
+                        "comments": [
+                            "40"
+                        ]
+                    },
                     {
                         "name": "Lying Hamstring Curl",
                         "video": "https://www.youtube.com/embed/jxctD6fL_FQ",
@@ -6256,7 +6270,6 @@
                         "name": "Lying Hamstring Curl",
                         "video": "https://www.youtube.com/embed/jxctD6fL_FQ",
                         "details": [
-                            "ss",
                             "4x10 reps @ 3010, rest 60s",
                             "Last set to failure"
                         ],
@@ -6442,7 +6455,7 @@
     "3/17/2025": {
         "activities": [
             {
-                "name": "Ho",
+                "name": "Systemic",
                 "tasks": [
                     {
                         "name": "DB bent knee RDL (glute bias)",
@@ -7056,7 +7069,6 @@
                         "name": "Lying Hamstring Curl",
                         "video": "https://www.youtube.com/embed/jxctD6fL_FQ",
                         "details": [
-                            "ss",
                             "4x10 reps @ 3010, rest 60s",
                             "Last set to failure"
                         ],
